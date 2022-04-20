@@ -19,6 +19,7 @@
                "Name":"Scogger HD",
                "Region":"",
                "Version":"0.1",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/d4zavnm6cvqt96l/Scogger%20HD.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/scogger-hd.pkg.455.v0.1_brewology_com.pkg"
@@ -45,6 +46,7 @@
                "Name":"Cylinder Dodge",
                "Region":"",
                "Version":"1.1",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/iit4vmabn31wjn3/Cylinder%20Dodge.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/CylinderDodge_v1.1.pkg.418.v1.1_brewology_com.pkg"
@@ -71,6 +73,7 @@
                "Name":"BreakOutX",
                "Region":"",
                "Version":"1.5",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/3t724ggazt6x3xy/BreakOutX.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/BreakOutX_brewology_com.pkg"
@@ -97,6 +100,7 @@
                "Name":"Movian (Official)",
                "Region":"",
                "Version":"5.0.548",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/7lqszypetmtixcv/Movian%20%28Official%29.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/movian-5.0.548.pkg.197.v5.0.548.pkg"
@@ -106,6 +110,7 @@
                "Name":"Movian (deank)",
                "Region":"",
                "Version":"5.0.720",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/0z482kzxy9y7jx7/Movian%20%28deank%29.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/movian-5.0.722-deank-playstation3.pkg.261.v5.0.722"
@@ -132,6 +137,7 @@
                "Name":"Advanced Power Options",
                "Region":"",
                "Version":"1.10",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/iugwh9l5c7ayyeh/Advanced%20Power%20Options.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/Advanced_Power_Options_v1.10.pkg.402.v1.10_brewology_com.pkg"
@@ -158,6 +164,7 @@
                "Name":"Extras Category",
                "Region":"",
                "Version":"1.0.1",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/wcal9ds8t81c5ur/CEX/DEX%20Extras%20Category.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/CEX/DEX_Extras_Category_Installer_v1.01.pkg.450.v1.0.1_brewology_com.pkg"
@@ -184,6 +191,7 @@
                "Name":"HAN Toolbox",
                "Region":"",
                "Version":"0.10",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/vosuvlrb9gden6m/HAN%20Toolbox.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/HAN_Toolbox_v0.7.1_CEX-EN.pkg.736.v0.7.1_brewology_com.pkg"
@@ -210,6 +218,7 @@
                "Name":"HEN Toolbox",
                "Region":"",
                "Version":"1.00 (4.87)",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/1f4iz2hicdlkxj0/HEN%20Toolbox.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/HEN__Toolbox_v1.00_fw487.pkg.107.v1.00(4.87)_brewology_com.pkg"
@@ -236,6 +245,7 @@
                "Name":"HENBrew Store",
                "Region":"",
                "Version":"2019.06.16",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/qckrmqll6fw5jea/HENBrew%20Store.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/HENBrew_Store.pkg.861.v2019.06.16_brewology_com.pkg"
@@ -262,6 +272,7 @@
                "Name":"IRISMAN Full Edition",
                "Region":"",
                "Version":"4.88",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/tpmu019c4smzfz3/IRISMAN%20Full%20Edition.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/IRISMAN_4.88.pkg.188.v4.88.pkg"
@@ -288,6 +299,7 @@
                "Name":"MambaPRX Loader (Unofficial)",
                "Region":"",
                "Version":"4.84.2",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/ic40k8a0xkefp3g/MambaPRX%20Loader%20%5Bunofficial%5D.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/MAMBA_PRX_Loader_4.84.2.pkg.722.v4.84.2_brewology_com.pkg"
@@ -314,6 +326,7 @@
                "Name":"ManaGunZ",
                "Region":"",
                "Version":"1.38",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/o630hymjzwf0u2k/ManaGunZ.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/ManaGunZ_v1.39.pkg.324.v1.39.pkg"
@@ -340,6 +353,7 @@
                "Name":"OpenPS3FTP",
                "Region":"",
                "Version":"4.2a",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/hos293c5qlgof6i/OpenPS3FTP.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/NPXS91337.pkg.846.v4.2a_brewology_com.pkg"
@@ -366,6 +380,7 @@
                "Name":"prepNTFS",
                "Region":"",
                "Version":"1.01",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/ug729o4zsn4c28q/prepNTFS.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/prepNTFS.pkg.569.v1.01_brewology_com.pkg"
@@ -392,6 +407,7 @@
                "Name":"PS2 Classics Manager",
                "Region":"",
                "Version":"1.02",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/wfr4ed4zg6fr7uy/PS2%20Classics%20Manager.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/PS2_CLASSIC_MANAGER_1.02_[20130411]_CEX4XX_UPD.pkg.207.v1.02_brewology_com.pkg",
@@ -419,6 +435,7 @@
                "Name":"PS2 ISO Launcher",
                "Region":"",
                "Version":"1.03",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/4g6b4w036dhhucw/PS2%20ISO%20Launcher.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/ISO_LAUNCHER_1.03.pkg.231.v1.03_brewology_com.pkg"
@@ -445,6 +462,7 @@
                "Name":"PS2 Launcher (REBUG Edition)",
                "Region":"",
                "Version":"1.00",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/5wady8orvfge77g/PS2%20Launcher%20REBUG%20Edition.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/PS2_Launcher_REBUG_Edition.pkg.192.v1.00_brewology_com.pkg"
@@ -471,6 +489,7 @@
                "Name":"PS3 EXTRANET",
                "Region":"",
                "Version":"2.10",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/pjwygqu4pijl8b2/PS3%20EXTRANET.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/PS3_EXTRANET_Installer_Multi.pkg.398.v2.10_brewology_com.pkg"
@@ -497,6 +516,7 @@
                "Name":"PSN Patch (Stealth)",
                "Region":"",
                "Version":"2017.02B",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/0po9zy9nv3mdfxv/PSN%20Patch%20%28Stealth%29.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/psnpatch_2017.02B.pkg.423.v2017.02B_brewology_com.pkg"
@@ -523,6 +543,7 @@
                "Name":"REBUG TOOLBOX Multi",
                "Region":"",
                "Version":"02.03.05",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/5uwfre1uc2b4yy3/REBUG%20TOOLBOX%20Multi.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/REBUG_TOOLBOX_02.03.05.MULTI.16.pkg.668.v02.03.05_brewology_com.pkg"
@@ -549,6 +570,7 @@
                "Name":"SEN Enabler",
                "Region":"",
                "Version":"6.2.7",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/46h9lt0s9vzyc55/SEN%20Enabler.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/SEN_Enabler_v6.2.7_[CEX-DEX]_[4.87].pkg.690.v6.2.7_brewology_com.pkg"
@@ -575,6 +597,7 @@
                "Name":"Showtime Disc Access",
                "Region":"",
                "Version":"11.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/ex8g1fd1opqre6t/Showtime%20Disc%20Access.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/stDISC11.pkg.294.v11.0_brewology_com.pkg"
@@ -601,6 +624,7 @@
                "Name":"webMAN MOD",
                "Region":"",
                "Version":"1.47.36",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/7va193whg8b8117/webMAN%20MOD.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/webMAN_MOD_1.47.38_Installer.pkg"
@@ -627,6 +651,7 @@
                "Name":"What's New on PSX-Place",
                "Region":"",
                "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/lb6eep1qvsoe9no/Whats%20New%20on%20PSX-Place.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/Whats_New_on_PSX-Place_v1.00.pkg.719.v1.00_brewology_com.pkg"
@@ -653,6 +678,7 @@
                "Name":"Retro Homebrew Collection (Nintendo NES)",
                "Region":"",
                "Version":"Vol. 2",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/ec6nkudpqcn0yfw/Retro%20Homebrew%20Collection%20Vol.%202.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/Retro_Homebrew_Collection_Vol._2_-_Nintendo_NES_Edition.pkg.399.vol._2_brewology_com.pkg"
@@ -679,6 +705,7 @@
                "Name":"Retro Homebrew Collection (Atari 2600)",
                "Region":"",
                "Version":"Vol. 1",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/cwomn6zx5nl28s6/Retro%20Homebrew%20Collection%20Vol.%201.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/Retro_Homebrew_Collection_Vol_1_-_Atari_2600_Edition.pkg.295.vol._1_brewology_com.pkg"
@@ -705,6 +732,7 @@
                "Name":"Five Nights at Freddy's",
                "Region":"",
                "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/uwhgq27dgozgl8p/Five%20Nights%20at%20Freddy%27s.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/FNaF_2nd_Preview.pkg.929.v1.0_brewology_com.pkg"
@@ -731,6 +759,7 @@
                "Name":"Flappy Birds Family",
                "Region":"",
                "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/t20cgxhjaerw9j9/Flappy%20Birds%20Family.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/Flappy_Birds_Family_v1.0_by_Sandroron.pkg.324.v1.0_brewology_com.pkg"
@@ -757,6 +786,7 @@
                "Name":"Ps3UserCheat",
                "Region":"",
                "Version":"2.3",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/o9a2sgltoncoqa2/Ps3UserCheat.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/ps3usercheat.pkg.558.v2.3_brewology_com.pkg"
@@ -783,6 +813,7 @@
                "Name":"Atari Emulator",
                "Region":"",
                "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/6r12wozw8a8iv4q/Atari%20Emulator.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/stella-3.3-ps3-release3-CEX/DEX.pkg"
@@ -809,6 +840,7 @@
                "Name":"Apollo Save Tool",
                "Region":"",
                "Version":"1.6.4",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/kqwuvt4ktufx8c6/Apollo%20Save%20Tool.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/apollo-ps3.pkg.170.v1.6.4_brewology_com.pkg"
@@ -835,6 +867,7 @@
                "Name":"Unlock HDD Space",
                "Region":"",
                "Version":"1.4.6",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/gy79fsf8hn4jif8/Unlock%20HDD%20Space.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/Unlock_HDD_Space.pkg.372.v1.0.pkg"
@@ -861,6 +894,7 @@
                "Name":"reActPSN",
                "Region":"",
                "Version":"3.20",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/bwpu0qfmiqx5j6c/reActPSN%20v3.20.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/reActPSN V3.20+ 4.85.pkg"
@@ -887,6 +921,7 @@
                "Name":"PKGi",
                "Region":"",
                "Version":"1.2.2",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/thbx4qdh2h246fj/PKGi.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/pkgi-ps3.pkg.485.v1.2.2_brewology_com.pkg"
@@ -913,6 +948,7 @@
                "Name":"ArtemisPS3",
                "Region":"",
                "Version":"6.2",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/agq2wz9cf2jj3vl/ArtemisPS3.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/ArtemisPS3-GUI.pkg.274.vr6.2_brewology_com.pkg"
@@ -939,6 +975,7 @@
                "Name":"RetroArch",
                "Region":"",
                "Version":"1.8.4",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/mz2qy7wpdj39qsk/RetroArchPS3.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/RetroArch.PS3.DEX.PS3.pkg"
@@ -965,6 +1002,7 @@
                "Name":"ScummVM",
                "Region":"",
                "Version":"2.2.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/n9i71mi3hg2nnmw/ScummVM.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/scummvm-ps3.pkg.408.v2.2.0_brewology_com.pkg"
@@ -991,6 +1029,7 @@
                "Name":"MAME",
                "Region":"",
                "Version":"0.125",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/8urfg5gtfidmlsn/MAME.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/MAME0125_install.pkg.815.v0.125_brewology_com.pkg"
@@ -1017,6 +1056,7 @@
                "Name":"IDPSet",
                "Region":"",
                "Version":"0.92",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/5y9obzydg1fyfmt/IDPSet.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/IDPSet_v0.92.pkg.732.v0.92_brewology_com.pkg"
@@ -1043,6 +1083,7 @@
                "Name":"Control Fan Utility",
                "Region":"",
                "Version":"4.86",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/he3umy1ql090yt3/Control%20Fan%20Utility.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/control_fan_utility.pkg.268.v4.86_brewology_com.pkg"
@@ -1069,6 +1110,7 @@
                "Name":"gameDATA Tool",
                "Region":"",
                "Version":"2.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/rx7h5v2m73aucpx/gameDATA%20Tool.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/gameDATA2.pkg"
@@ -1095,6 +1137,7 @@
                "Name":"Sketch Fight",
                "Region":"",
                "Version":"0.1",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/3ev3lzq9nxg51zo/Sketch%20Fight.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/SketchFight v0.1.pkg"
@@ -1121,6 +1164,7 @@
                "Name":"Super Mario War",
                "Region":"",
                "Version":"1.8_r7a",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/4l5f6xdt1tf4re8/Super%20Mario%20War.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/Super_Mario_War_1.8_r7a.pkg"
@@ -1147,6 +1191,7 @@
                "Name":"XMB Mods Collection",
                "Region":"",
                "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/9hkqd9bx9psi69y/XMB%20Mods%20Collection.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/PS3EXTRA_XMB_mods_collection.pkg.935.v1.0_brewology_com.pkg"
@@ -1173,6 +1218,7 @@
                "Name":"PS3 4K Pro (CFW)",
                "Region":"",
                "Version":"5.1",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/zwos2a8ko9xjtvu/PS3%204K%20Pro%20%28CFW%29.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/[CFW] PS3 4K Pro v5.1.pkg"
@@ -1182,6 +1228,7 @@
                "Name":"PS3 4K Pro (HEN)",
                "Region":"",
                "Version":"5.1",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/benoer1r77z769t/PS3%204K%20Pro%20%28HEN%29.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/[HEN] PS3 4K Pro v5.1.pkg"
@@ -1208,6 +1255,7 @@
                "Name":"Minus 18MB",
                "Region":"",
                "Version":"1.00",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/198ac4obojklxwh/Minus%2018MB.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/Minus_18MB.pkg"
@@ -1234,6 +1282,7 @@
                "Name":"Extended Download Plugin",
                "Region":"",
                "Version":"1.01",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/awmml4lzejsnxw8/Extended%20Download%20Plugin.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/Extended_Download_Plugin_HEN_Edition_v1.01.pkg"
@@ -1260,6 +1309,7 @@
                "Name":"Podcast Player",
                "Region":"",
                "Version":"1.00",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/27edjc8bnmzhfwi/Podcast%20Player.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/Podcast_Enabler.pkg"
@@ -1286,6 +1336,7 @@
                "Name":"OpenSupaplex",
                "Region":"",
                "Version":"7.1.2",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/dppmru17rtr9kk4/OpenSupaplex%20v7.1.2.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/OpenSupaplex-ps3-v7.1.2.pkg.331.v7.1.2_brewology_com.pkg"
@@ -1312,6 +1363,7 @@
                "Name":"Simple File Manager",
                "Region":"",
                "Version":"0.5.2",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/ccua67m9g2t5bo2/Simple%20File%20Manager.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/sfm_ps3.pkg.222.v0.5.2_brewology_com.pkg"
@@ -1338,6 +1390,7 @@
                "Name":"MONSTER Manager",
                "Region":"",
                "Version":"1.07",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/nhlng72zh9tktof/MONSTER%20Manager.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/MONSTER-adds-107-CEX/DEXPS3_4.86.pkg.731.v1.07_brewology_com.pkg"
@@ -1364,6 +1417,7 @@
                "Name":"Play Manager",
                "Region":"",
                "Version":"1.12",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/09jw2khnf77czj6/Player%20Manager.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/Play_Manager_v1.12.pkg.490.v1.12_brewology_com.pkg"
@@ -1390,6 +1444,7 @@
                "Name":"WikiStore (CEX/DEX)",
                "Region":"",
                "Version":"1.0.8",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/hcyo4b49ktodkjb/WikiStore%20%5BCFW%5D.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/WIKISTORE_CFW_1.0.8.pkg",
@@ -1401,6 +1456,7 @@
                "Name":"WikiStore (HEN)",
                "Region":"",
                "Version":"1.0.8",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/axqd1o4m95kixjm/WikiStore%20%5BHEN%5D.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/WIKISTORE_HFW_1.0.8.pkg",
@@ -1429,6 +1485,7 @@
                "Name":"Ultimate Toolbox (FULL)",
                "Region":"",
                "Version":"2.03",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/s980dy7iqioy18v/Ultimate%20Toolbox%20%28FULL%29.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/Ultimate_Toolbox_v2.03_FULL_version.pkg"
