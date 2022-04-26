@@ -8171,7 +8171,7 @@
       "SubmittedBy": "Pyrex",
       "Version": "1.0",
       "GameMode": "SP/CO OP",
-      "ModType": "SPRX",
+      "ModType": "EBOOT/SPRX",
       "Description": "Main Features:\n- Run PC Text Mods\n- Player Edits\n- Save Edits\n\nMenu Binds:\nDpad Up + R3 to Open\nDpad Left + Right to scroll submenus and options with < >\nX to select a submenu or option\nDpad Up + Down to scroll Options\nO to go back or close the menu\n\nCredits:\n- Pyrex\n- Faultz",
       "DownloadFiles": [
         {
