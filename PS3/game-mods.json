@@ -8208,6 +8208,45 @@
           ]
         }
       ]
+    },
+    {
+      "Platform": "PS3",
+      "Id": 377,
+      "CategoryId": "bortps",
+      "Name": "Bonkerlands Menu",
+      "FirmwareType": "CEX/DEX/HEN",
+      "Region": "BLES/BLUS",
+      "LastUpdated": "2022-04-25T01:13:37.126946+01:00",
+      "CreatedBy": "Pyrex BLJ & Faultz",
+      "SubmittedBy": "Pyrex",
+      "Version": "1.0",
+      "GameMode": "SP/CO OP",
+      "ModType": "EBOOT/SPRX",
+      "Description": "Main Features:\n- Run PC Text Mods\n- Player Edits\n- Save Edits\n\nMenu Binds:\nDpad Up + R3 to Open\nDpad Left + Right to scroll submenus and options with < >\nX to select a submenu or option\nDpad Up + Down to scroll Options\nO to go back or close the menu\n\nCredits:\n- Pyrex\n- Faultz",
+      "DownloadFiles": [
+        {
+          "Name": "Bonkerlands Menu (DEX)",
+          "Region": "BLES/BLUS",
+          "Version": "1.0",
+          "LastUpdated": "2022-04-25T01:13:37.126946+01:00",
+          "Url": "https://dl.dropbox.com/s/m64anu4nyzcuz71/Bonkerlands%20Menu%20%28DEX%29.zip?raw=true",
+          "InstallPaths": [
+            "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
+            "/dev_hdd0/tmp/BonkerlandsTPS.sprx"
+          ]
+        },
+        {
+          "Name": "Bonkerlands Menu (CEX/HEN)",
+          "Region": "BLUS31445",
+          "Version": "1.0",
+          "LastUpdated": "2022-04-25T01:13:37.126946+01:00",
+          "Url": "https://dl.dropbox.com/s/toolspbeossd8hd/Bonkerlands%20Menu%20%28HEN-BLUS%29.zip?raw=true",
+          "InstallPaths": [
+            "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
+            "/dev_hdd0/tmp/BonkerlandsTPS.sprx"
+          ]
+        }
+      ]
     }
   ]
 }
