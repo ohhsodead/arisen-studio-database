@@ -8182,7 +8182,8 @@
           "Url": "https://dl.dropbox.com/s/se9d57mvyrugibu/Bonkerlands%20Menu%20%28DEX%29.zip?raw=true",
           "InstallPaths": [
             "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
-            "/dev_hdd0/tmp/Bonkerlands/BonkerlandsBL2.sprx"
+            "/dev_hdd0/tmp/Bonkerlands/BonkerlandsBL2.sprx",
+            "/dev_hdd0/tmp/Bonkerlands/BL2/"
           ]
         },
         {
@@ -8193,7 +8194,8 @@
           "Url": "https://dl.dropbox.com/s/rnq5ctlv021z1n1/Bonkerlands%20Menu%20%28HEN-BLES%29.zip?raw=true",
           "InstallPaths": [
             "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
-            "/dev_hdd0/tmp/Bonkerlands/BonkerlandsBL2.sprx"
+            "/dev_hdd0/tmp/Bonkerlands/BonkerlandsBL2.sprx",
+            "/dev_hdd0/tmp/Bonkerlands/BL2/"
           ]
         },
         {
@@ -8204,7 +8206,8 @@
           "Url": "https://dl.dropbox.com/s/rgb0gq0poamoudq/Bonkerlands%20Menu%20%28HEN-BLUS%29.zip?raw=true",
           "InstallPaths": [
             "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
-            "/dev_hdd0/tmp/Bonkerlands/BonkerlandsBL2.sprx"
+            "/dev_hdd0/tmp/Bonkerlands/BonkerlandsBL2.sprx",
+            "/dev_hdd0/tmp/Bonkerlands/BL2/"
           ]
         }
       ]
@@ -8232,7 +8235,8 @@
           "Url": "https://dl.dropbox.com/s/m64anu4nyzcuz71/Bonkerlands%20Menu%20%28DEX%29.zip?raw=true",
           "InstallPaths": [
             "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
-            "/dev_hdd0/tmp/Bonkerlands/BonkerlandsTPS.sprx"
+            "/dev_hdd0/tmp/Bonkerlands/BonkerlandsTPS.sprx",
+            "/dev_hdd0/tmp/Bonkerlands/BLTPS/"
           ]
         },
         {
@@ -8243,7 +8247,8 @@
           "Url": "https://dl.dropbox.com/s/toolspbeossd8hd/Bonkerlands%20Menu%20%28HEN-BLUS%29.zip?raw=true",
           "InstallPaths": [
             "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
-            "/dev_hdd0/tmp/Bonkerlands/BonkerlandsTPS.sprx"
+            "/dev_hdd0/tmp/Bonkerlands/BonkerlandsTPS.sprx",
+            "/dev_hdd0/tmp/Bonkerlands/BLTPS/"
           ]
         }
       ]
