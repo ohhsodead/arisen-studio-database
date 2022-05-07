@@ -8012,33 +8012,6 @@
     },
     {
       "Platform": "PS3",
-      "Id": 371,
-      "CategoryId": "th",
-      "Name": "XXXTENTACION Theme",
-      "FirmwareType": "CEX/DEX/HEN",
-      "Region": "",
-      "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-      "CreatedBy": "Trxshy",
-      "SubmittedBy": "Trxshy",
-      "Version": "1.0",
-      "GameMode": "",
-      "ModType": "P3T",
-      "Description": "An XXXTENTACION Theme (RIP)",
-      "DownloadFiles": [
-        {
-          "Name": "XXXTENTACION Theme",
-          "Region": "",
-          "Version": "1.0",
-          "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-          "Url": "https://dl.dropbox.com/s/8o300jkgdu6g0f1/XXXTENTACION%20Theme.zip?raw=true",
-          "InstallPaths": [
-            "/dev_hdd0/theme/xxxtentacion theme.P3T"
-          ]
-        }
-      ]
-    },
-    {
-      "Platform": "PS3",
       "Id": 372,
       "CategoryId": "gta5",
       "Name": "Ultimate Teleport",
@@ -8249,6 +8222,67 @@
             "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
             "/dev_hdd0/tmp/Bonkerlands/BonkerlandsTPS.sprx",
             "/dev_hdd0/tmp/Bonkerlands/BLTPS/"
+          ]
+        }
+      ]
+    },
+    {
+      "Platform": "PS3",
+      "Id": 378,
+      "CategoryId": "gta5",
+      "Name": "Semjases Mod Loader",
+      "FirmwareType": "CEX/DEX/HEN",
+      "Region": "BLES/BLUS",
+      "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
+      "CreatedBy": "TheRouLetteBoi",
+      "SubmittedBy": "Darth Revan",
+      "Version": "15.3",
+      "GameMode": "SP/MP",
+      "ModType": "EBOOT/RPF",
+      "Description": "L3 + R3 To Open\n\n\nVersions :\n\nV1.0 (Beta) :\n\n- Updated First Version Of Semjases V1.0 (Beta) By saucorn022.\n\nV1.0.1 (Beta) :\n\n- Modified Infos To Outfits Selection\n- Changed Design Credits\n- Added Invisible Scrool Arrow.\n\nV1.0.2 (Beta) :\n\n- Modified Text To Welcome\n- Added Black Scrooblar.\n\nV1.0.3 (Beta) :\n\n- Modified Colors Unselect Text\n- Modified Design Credits > Contact Me\n- Modified Signed Credits.\n\nV1.0.4 (Beta) :\n\n- Fixed Informations Credits\n- Added Info Created Of Principal Menu.\n\nV1.1 (Beta) :\n\n- Added Destry V3 Menu\n- Removed Main Menu V2\n- Fixed All Bugs Mod Loader.\n\nV1.1.1 (Beta) :\n\n- Added TR4F1K4NT3 Protections Menu + Background\n- Changed Color Scrooblar.\n\nV1.1.2 (Beta) :\n\n- Removed SPRX 4TT4CK V1.0\n- Changed Color & Info Credit Of Principal Page Mod Loader.\n\nV1.1.3 (Beta) :\n\n- Changed All Loading Screen Pictures\n- Added Original Loading Screen GTA V.\n\nV1.1.4 (Beta) :\n\n- Changed Color Info Credit Of Principal Page Mod Loader.\n\nV1.1.5 (Beta) :\n\n- Reinitialised Color Of Principal Page Mod Loader\n- Changed Color Scrooblar\n- Changed Color Select Text\n- Changed Color Of Credits.",
+      "DownloadFiles": [
+        {
+          "Name": "Semjases Mod Loader (CEX)",
+          "Region": "BLES01807",
+          "Version": "15.3",
+		  "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
+          "Url": "https://dl.dropbox.com/s/ztapxxe9h3uddo2/Semjases%20Mod%20Loader%20%28BLES-CEX%29.zip?raw=true",
+          "InstallPaths": [
+            "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
+            "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
+          ]
+        },
+        {
+          "Name": "Semjases Mod Loader (DEX)",
+          "Region": "BLES01807",
+          "Version": "15.3",
+		  "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
+          "Url": "https://dl.dropbox.com/s/6w95qpwkgyc7w03/Semjases%20Mod%20Loader%20%28BLES-DEX%29.zip?raw=true",
+          "InstallPaths": [
+            "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
+            "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
+          ]
+        },
+        {
+          "Name": "Semjases Mod Loader (HEN)",
+          "Region": "BLES01807",
+          "Version": "15.3",
+		  "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
+          "Url": "https://dl.dropbox.com/s/4zfb9nks1j8ph9d/Semjases%20Mod%20Loader%20%28BLES-HEN%29.zip?raw=true",
+          "InstallPaths": [
+            "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
+            "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
+          ]
+        },
+        {
+          "Name": "Semjases Mod Loader (HEN)",
+          "Region": "BLUS31156",
+          "Version": "15.3",
+		  "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
+          "Url": "https://dl.dropbox.com/s/f5t0kapg3pu3ans/Semjases%20Mod%20Loader%20%28BLUS-HEN%29.zip?raw=true",
+          "InstallPaths": [
+            "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
+            "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
           ]
         }
       ]
