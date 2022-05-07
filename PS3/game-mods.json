@@ -8302,6 +8302,45 @@
                ]
             }
          ]
+      },
+      {
+         "Platform":"PS3",
+         "Id":379,
+         "CategoryId":"codghosts",
+         "Name":"Kebab Engine",
+         "FirmwareType":"CEX/DEX/HEN",
+         "Region":"BLES/BLUS",
+         "LastUpdated":"2022-05-07T01:13:37.126946+01:00",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"Darth Revan",
+         "Version":"1.0",
+         "GameMode":"MP",
+         "ModType":"EBOOT/SPRX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"Kebab Engine (CEX/HEN)",
+               "Region":"BLES/BLUS",
+               "Version":"1.0",
+               "LastUpdated":"2022-05-07T01:13:37.126946+01:00",
+               "Url":"https://dl.dropbox.com/s/qvg2liqrnt5mehn/Kebab%20Engine%20%28CEX-HEN%29.zip?raw=true",
+               "InstallPaths":[
+                  "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
+                  "/dev_hdd0/tmp/Kebab_GHOST.sprx"
+               ]
+            },
+            {
+               "Name":"Kebab Engine (DEX)",
+               "Region":"BLES/BLUS",
+               "Version":"1.0",
+               "LastUpdated":"2022-05-07T01:13:37.126946+01:00",
+               "Url":"https://dl.dropbox.com/s/so9hufnh4s9pue9/Kebab%20Engine%20%28DEX%29.zip?raw=true",
+               "InstallPaths":[
+                  "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
+                  "/dev_hdd0/tmp/Kebab_GHOST.sprx"
+               ]
+            }
+         ]
       }
    ]
 }
