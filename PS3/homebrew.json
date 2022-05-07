@@ -2,7 +2,7 @@
    "Mods":[
       {
          "Platform":"PS3",
-         "Id":117,
+         "Id":1,
          "CategoryId":"hg",
          "Name":"Scogger HD",
          "FirmwareType":"CEX/DEX",
@@ -29,7 +29,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":118,
+         "Id":2,
          "CategoryId":"hg",
          "Name":"Cylinder Dodge",
          "FirmwareType":"CEX/DEX",
@@ -56,7 +56,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":120,
+         "Id":3,
          "CategoryId":"hg",
          "Name":"BreakOutX",
          "FirmwareType":"CEX/DEX",
@@ -83,7 +83,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":121,
+         "Id":4,
          "CategoryId":"ha",
          "Name":"Movian (Official/deank)",
          "FirmwareType":"CEX/DEX",
@@ -120,7 +120,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":122,
+         "Id":5,
          "CategoryId":"ha",
          "Name":"Advanced Power Options",
          "FirmwareType":"CEX/DEX",
@@ -147,7 +147,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":123,
+         "Id":6,
          "CategoryId":"ha",
          "Name":"Extras Category",
          "FirmwareType":"CEX/DEX",
@@ -174,7 +174,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":124,
+         "Id":7,
          "CategoryId":"ha",
          "Name":"HAN Toolbox",
          "FirmwareType":"HAN",
@@ -201,7 +201,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":125,
+         "Id":8,
          "CategoryId":"ha",
          "Name":"HEN Toolbox",
          "FirmwareType":"HEN",
@@ -228,7 +228,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":126,
+         "Id":9,
          "CategoryId":"ha",
          "Name":"HENBrew Store",
          "FirmwareType":"HEN",
@@ -255,12 +255,12 @@
       },
       {
          "Platform":"PS3",
-         "Id":127,
+         "Id":10,
          "CategoryId":"ha",
          "Name":"IRISMAN Full Edition",
          "FirmwareType":"CEX/DEX",
          "Region":"",
-         "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+         "LastUpdated":"2022-04-26T01:13:37.126946+01:00",
          "CreatedBy":"various",
          "SubmittedBy":"ohhsodead",
          "Version":"4.88",
@@ -272,17 +272,17 @@
                "Name":"IRISMAN Full Edition",
                "Region":"",
                "Version":"4.88",
-               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "LastUpdated":"2022-04-26T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/tpmu019c4smzfz3/IRISMAN%20Full%20Edition.zip?raw=true",
                "InstallPaths":[
-                  "/dev_hdd0/packages/IRISMAN_4.88.pkg.188.v4.88.pkg"
+                  "/dev_hdd0/packages/IRISMAN_4.88.pkg.825.v4.88.pkg"
                ]
             }
          ]
       },
       {
          "Platform":"PS3",
-         "Id":128,
+         "Id":11,
          "CategoryId":"ha",
          "Name":"MambaPRX Loader (Unofficial)",
          "FirmwareType":"CEX/DEX",
@@ -309,7 +309,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":129,
+         "Id":12,
          "CategoryId":"ha",
          "Name":"ManaGunZ",
          "FirmwareType":"CEX/DEX",
@@ -336,7 +336,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":130,
+         "Id":13,
          "CategoryId":"ha",
          "Name":"OpenPS3FTP",
          "FirmwareType":"CEX/DEX",
@@ -363,7 +363,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":131,
+         "Id":14,
          "CategoryId":"ha",
          "Name":"prepNTFS",
          "FirmwareType":"CEX/DEX",
@@ -390,7 +390,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":132,
+         "Id":15,
          "CategoryId":"ha",
          "Name":"PS2 Classics Manager",
          "FirmwareType":"CEX/DEX",
@@ -418,7 +418,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":133,
+         "Id":16,
          "CategoryId":"ha",
          "Name":"PS2 ISO Launcher",
          "FirmwareType":"CEX/DEX",
@@ -445,7 +445,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":134,
+         "Id":17,
          "CategoryId":"ha",
          "Name":"PS2 Launcher (REBUG Edition)",
          "FirmwareType":"CEX/DEX",
@@ -472,7 +472,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":135,
+         "Id":18,
          "CategoryId":"ha",
          "Name":"PS3 EXTRANET",
          "FirmwareType":"CEX/DEX",
@@ -499,7 +499,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":136,
+         "Id":19,
          "CategoryId":"ha",
          "Name":"PSN Patch (Stealth)",
          "FirmwareType":"CEX/DEX",
@@ -526,7 +526,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":137,
+         "Id":20,
          "CategoryId":"ha",
          "Name":"REBUG TOOLBOX Multi",
          "FirmwareType":"CEX/DEX",
@@ -553,7 +553,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":138,
+         "Id":21,
          "CategoryId":"ha",
          "Name":"SEN Enabler",
          "FirmwareType":"CEX/DEX",
@@ -580,7 +580,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":139,
+         "Id":22,
          "CategoryId":"ha",
          "Name":"Showtime Disc Access",
          "FirmwareType":"CEX/DEX",
@@ -607,15 +607,15 @@
       },
       {
          "Platform":"PS3",
-         "Id":140,
+         "Id":23,
          "CategoryId":"ha",
          "Name":"webMAN MOD",
          "FirmwareType":"CEX/DEX",
          "Region":"",
-         "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+         "LastUpdated":"2022-05-03T01:13:37.126946+01:00",
          "CreatedBy":"aldostools",
          "SubmittedBy":"ohhsodead",
-         "Version":"1.47.38",
+         "Version":"1.47.41",
          "GameMode":"",
          "ModType":"PKG",
          "Description":"webMAN MOD is a homebrew plugin with many features added on the original webMAN/sMAN by Deank. We wanted to integrate most of the existing features available on the PS3 Scene like an AIO plugin, and webMAN MOD was born.\n\n\n- For content stored remotely on PC use ps3netsrv_20190701.zip\n- For ROMS support install ROMS/PKG Launcher and RetroArch.\n- For NTFS support on lite edition, scan content with prepNTFS\n- For PS2 Classics games install the CONFIG database & PS2 Classics Launcher\n- For PSP ISO install both PSP launchers for Minis & Remasters\n\n\nVisit the Official GitHub repository for additional add-ons, source code and previous versions",
@@ -623,18 +623,18 @@
             {
                "Name":"webMAN MOD",
                "Region":"",
-               "Version":"1.47.36",
-               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Version":"1.47.41",
+			   "LastUpdated":"2022-05-03T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/7va193whg8b8117/webMAN%20MOD.zip?raw=true",
                "InstallPaths":[
-                  "/dev_hdd0/packages/webMAN_MOD_1.47.38_Installer.pkg"
+                  "/dev_hdd0/packages/webMAN_MOD_1.47.41_Installer.pkg"
                ]
             }
          ]
       },
       {
          "Platform":"PS3",
-         "Id":141,
+         "Id":24,
          "CategoryId":"ha",
          "Name":"What's New on PSX-Place",
          "FirmwareType":"CEX/DEX",
@@ -661,7 +661,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":142,
+         "Id":25,
          "CategoryId":"ha",
          "Name":"Retro Homebrew Collection (Nintendo NES)",
          "FirmwareType":"CEX/DEX",
@@ -688,7 +688,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":143,
+         "Id":26,
          "CategoryId":"ha",
          "Name":"Retro Homebrew Collection (Atari 2600)",
          "FirmwareType":"CEX/DEX/HEN",
@@ -715,7 +715,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":144,
+         "Id":27,
          "CategoryId":"hg",
          "Name":"Five Nights at Freddy's",
          "FirmwareType":"CEX/DEX/HEN",
@@ -742,7 +742,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":145,
+         "Id":28,
          "CategoryId":"hg",
          "Name":"Flappy Birds Family",
          "FirmwareType":"CEX/DEX/HEN",
@@ -769,7 +769,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":146,
+         "Id":29,
          "CategoryId":"hg",
          "Name":"Ps3UserCheat",
          "FirmwareType":"CEX/DEX/HEN",
@@ -796,7 +796,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":151,
+         "Id":30,
          "CategoryId":"ha",
          "Name":"Atari Emulator",
          "FirmwareType":"CEX/DEX",
@@ -823,15 +823,15 @@
       },
       {
          "Platform":"PS3",
-         "Id":195,
+         "Id":31,
          "CategoryId":"ha",
          "Name":"Apollo Save Tool",
          "FirmwareType":"CEX/DEX",
          "Region":"",
-         "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+         "LastUpdated":"2022-04-29T01:13:37.126946+01:00",
          "CreatedBy":"Bucanero",
          "SubmittedBy":"ohhsodead",
-         "Version":"1.6.4",
+         "Version":"1.7.0",
          "GameMode":"",
          "ModType":"PKG",
          "Description":"Apollo Save Tool is an application to manage save-game files on the PlayStation 3.\n\nThe apollo-ps3 homebrew app allows to download, unlock, patch and resign save-game files directly on your PS3.",
@@ -839,18 +839,18 @@
             {
                "Name":"Apollo Save Tool",
                "Region":"",
-               "Version":"1.6.4",
-               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Version":"1.7.0",
+               "LastUpdated":"2022-04-29T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/kqwuvt4ktufx8c6/Apollo%20Save%20Tool.zip?raw=true",
                "InstallPaths":[
-                  "/dev_hdd0/packages/apollo-ps3.pkg.170.v1.6.4_brewology_com.pkg"
+                  "/dev_hdd0/packages/apollo-ps3.pkg.345.v1.7.0.pkg"
                ]
             }
          ]
       },
       {
          "Platform":"PS3",
-         "Id":195,
+         "Id":32,
          "CategoryId":"ha",
          "Name":"Unlock HDD Space",
          "FirmwareType":"CEX/DEX/HEN",
@@ -877,7 +877,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":196,
+         "Id":33,
          "CategoryId":"ha",
          "Name":"reActPSN",
          "FirmwareType":"CEX/DEX",
@@ -904,7 +904,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":199,
+         "Id":34,
          "CategoryId":"ha",
          "Name":"PKGi",
          "FirmwareType":"CEX/DEX",
@@ -931,7 +931,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":200,
+         "Id":35,
          "CategoryId":"ha",
          "Name":"ArtemisPS3",
          "FirmwareType":"CEX/DEX",
@@ -958,35 +958,8 @@
       },
       {
          "Platform":"PS3",
-         "Id":201,
-         "CategoryId":"ha",
-         "Name":"RetroArch",
-         "FirmwareType":"DEX",
-         "Region":"",
-         "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-         "CreatedBy":"Themaister/TwinAphex",
-         "SubmittedBy":"ohhsodead",
-         "Version":"1.8.4",
-         "GameMode":"",
-         "ModType":"PKG",
-         "Description":"RetroArch is a modular multi-system emulator system that is designed to be fast, lightweight, and portable. It has features few other emulators frontends have, such as real-time rewinding and game-aware shading.\n\n46 Cores:\n- 2048\n- Arcade (FinalBurn Neo)\n- FBA Alpha 2012 (multiple systems including: Neo Geo, CPS-1, CPS-2, CPS-3, Sega System 16 and System 18)\n- FCEU-MM (NES/Famicom)\n- FreeIntv (Mattel - Intellivision)\n- Fuse (ZX Spectrum)\n- Gambatte (Game Boy Color)\n- GearBoy (Game Boy Color)\n- Gearsystem (Sega Master System / Game Gear)\n- Genesis Plus GX (Sega Genesis/Megadrive)\n- GW (Handheld Electronic)\n- Handy (Atari Lynx)\n- Magnavox - Odyssey2 / Phillips Videopac+ (O2EM)\n- MAME 2000 / 2003 / 2003+ (Multiple Arcade Machine Emulator)\n- Mednafen Lynx (Atari Lynx)\n- Mednafen NGP (NeoGeo Pocket)\n- Mednafen PCE Fast (PC Engine)\n- Mednafen Supergrafx (Beetle SGX)\n- Mednafen VB (Virtual Boy)\n- Mednafen WSwam (WonderSwam)\n- mGBA (Game Boy Advance)\n- Nestopia (NES/Famicom)\n- NXEngine (Cave Story)\n- Outrun Game Engine (Cannonball)\n- Palm OS (Mu)\n- PokeMini (Nintendo - Pokémon Mini)\n- PRBoom (Doom)\n- ProSystem (Atari 7800)\n- QuickNES (NES/Famicom)\n- SNES9x 2005 / SNES9x 2010 (Super Nintendo)\n- Stella (Atari 2600)\n- TGB Dual (Game Boy Color)\n- TyrQuake (Quake 1)\n- VBA Next (Game Boy Advance)\n- Vectrex (VECX)\n- Virtual Jaguar",
-         "DownloadFiles":[
-            {
-               "Name":"RetroArch",
-               "Region":"",
-               "Version":"1.8.4",
-               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://dl.dropbox.com/s/mz2qy7wpdj39qsk/RetroArchPS3.zip?raw=true",
-               "InstallPaths":[
-                  "/dev_hdd0/packages/RetroArch.PS3.DEX.PS3.pkg"
-               ]
-            }
-         ]
-      },
-      {
-         "Platform":"PS3",
-         "Id":202,
-         "CategoryId":"ha",
+         "Id":37,
+         "CategoryId":"emu",
          "Name":"ScummVM",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -1012,7 +985,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":203,
+         "Id":38,
          "CategoryId":"ha",
          "Name":"MAME",
          "FirmwareType":"CEX/DEX",
@@ -1039,7 +1012,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":204,
+         "Id":39,
          "CategoryId":"ha",
          "Name":"IDPSet",
          "FirmwareType":"CEX/DEX",
@@ -1066,7 +1039,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":205,
+         "Id":40,
          "CategoryId":"ha",
          "Name":"Control Fan Utility",
          "FirmwareType":"CEX/DEX",
@@ -1093,7 +1066,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":207,
+         "Id":41,
          "CategoryId":"ha",
          "Name":"gameDATA Tool",
          "FirmwareType":"CEX/DEX",
@@ -1120,7 +1093,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":208,
+         "Id":42,
          "CategoryId":"hg",
          "Name":"Sketch Fight",
          "FirmwareType":"CEX/DEX",
@@ -1147,7 +1120,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":214,
+         "Id":43,
          "CategoryId":"hg",
          "Name":"Super Mario War",
          "FirmwareType":"CEX/DEX",
@@ -1174,7 +1147,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":216,
+         "Id":44,
          "CategoryId":"ha",
          "Name":"XMB Mods Collection",
          "FirmwareType":"CEX/DEX",
@@ -1201,7 +1174,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":249,
+         "Id":45,
          "CategoryId":"ha",
          "Name":"PS3 4K Pro",
          "FirmwareType":"CEX/DEX/HEN",
@@ -1238,7 +1211,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":280,
+         "Id":46,
          "CategoryId":"ha",
          "Name":"Minus 18MB",
          "FirmwareType":"DEX",
@@ -1265,7 +1238,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":281,
+         "Id":47,
          "CategoryId":"ha",
          "Name":"Extended Download Plugin",
          "FirmwareType":"HEN",
@@ -1292,7 +1265,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":282,
+         "Id":48,
          "CategoryId":"ha",
          "Name":"Podcast Player",
          "FirmwareType":"CEX/DEX/HEN/HAN",
@@ -1319,7 +1292,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":289,
+         "Id":49,
          "CategoryId":"hg",
          "Name":"OpenSupaplex",
          "FirmwareType":"CEX/DEX",
@@ -1346,7 +1319,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":290,
+         "Id":50,
          "CategoryId":"ha",
          "Name":"Simple File Manager",
          "FirmwareType":"CEX/DEX",
@@ -1373,7 +1346,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":291,
+         "Id":51,
          "CategoryId":"ha",
          "Name":"MONSTER Manager",
          "FirmwareType":"CEX/DEX",
@@ -1400,7 +1373,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":292,
+         "Id":52,
          "CategoryId":"ha",
          "Name":"Play Manager",
          "FirmwareType":"CEX/DEX",
@@ -1427,7 +1400,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":310,
+         "Id":53,
          "CategoryId":"ha",
          "Name":"WikiStore",
          "FirmwareType":"CEX/DEX",
@@ -1468,7 +1441,7 @@
       },
       {
          "Platform":"PS3",
-         "Id":369,
+         "Id":54,
          "CategoryId":"ha",
          "Name":"Ultimate Toolbox",
          "FirmwareType":"CEX/DEX/HEN",
@@ -1489,6 +1462,70 @@
                "Url":"https://dl.dropbox.com/s/s980dy7iqioy18v/Ultimate%20Toolbox%20%28FULL%29.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/Ultimate_Toolbox_v2.03_FULL_version.pkg"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"PS3",
+         "Id":55,
+         "CategoryId":"emu",
+         "Name":"FBNeo RL (Retro Loader)",
+         "FirmwareType":"CEX/DEX",
+         "Region":"",
+         "LastUpdated":"2022-04-28T01:13:37.126946+01:00",
+         "CreatedBy":"Crystal",
+         "SubmittedBy":"ohhsodead",
+         "Version":"2.30",
+         "GameMode":"",
+         "ModType":"PKG",
+         "Description":"Final Burn Alpha Retro Loader (FBA RL) is a fork of CaptainCPS-X's custom frontend for fb_aplha (libretro Core). This release contains the recently released FinalBurn NEO (libretro Core) with the addition of some MAME support.",
+         "DownloadFiles":[
+            {
+               "Name":"FBNeo RL (Retro Loader)",
+               "Region":"",
+               "Version":"2.30",
+               "LastUpdated":"2022-04-28T01:13:37.126946+01:00",
+               "Url":"https://dl.dropbox.com/s/40bkm0qbm2286tg/FBNeo%20RL%20%28Retro%20Loader%29.zip?raw=true",
+               "InstallPaths":[
+                  "/dev_hdd0/packages/FBNeoRLPlus.New_v2.30_2021-04-27.pkg"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"PS3",
+         "Id":56,
+         "CategoryId":"emu",
+         "Name":"RetroArch",
+         "FirmwareType":"CEX/DEX",
+         "Region":"",
+         "LastUpdated":"2022-04-28T01:13:37.126946+01:00",
+         "CreatedBy":"Themaister/TwinAphex",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.9.0",
+         "GameMode":"",
+         "ModType":"PKG",
+         "Description":"RetroArch is a modular multi-system emulator system that is designed to be fast, lightweight, and portable. It has features few other emulators frontends have, such as real-time rewinding and game-aware shading.\n\n\n+44 Cores (official) / +66 (RetroArch CE):\n- 2048\n- FBA Alpha 2012 (multiple systems including: Neo Geo, CPS-1, CPS-2, CPS-3, Sega System 16 and System 18)\n- FCEU-MM (NES/Famicom)\n- FreeIntv (Mattel - Intellivision)\n- Fuse (ZX Spectrum)\n- Gambatte (Game Boy Color)\n- GearBoy (Game Boy Color)\n- Gearsystem (Sega Master System / Game Gear)\n- Genesis Plus GX (Sega Genesis/Megadrive)\n- GW (Handheld Electronic)\n- Java ME (SquirrelJME)\n- Handy (Atari Lynx)\n- Magnavox - Odyssey2 / Phillips Videopac+ (O2EM)\n- MAME 2000 / 2003 / 2003+ (Multiple Arcade Machine Emulator)\n- Mednafen Lynx (Atari Lynx)\n- Mednafen NGP (NeoGeo Pocket)\n- Mednafen PCE Fast (PC Engine)\n- Mednafen Supergrafx (Beetle SGX)\n- Mednafen VB (Virtual Boy)\n- Mednafen WSwam (WonderSwam)\n- mGBA (Game Boy Advance)\n- Nestopia (NES/Famicom)\n- NXEngine (Cave Story)\n- Outrun Game Engine (Cannonball)\n- Palm OS (Mu)\n- PokeMini (Nintendo - Pokémon Mini)\n- PRBoom (Doom)\n- ProSystem (Atari 7800)\n- QuickNES (NES/Famicom)\n- SNES9x 2005 / SNES9x 2010 (Super Nintendo)\n- Stella (Atari 2600)\n- TyrQuake (Quake 1)\n- VBA Next (Game Boy Advance)\n- Vectrex (VECX)\n- Virtual Jaguar",
+         "DownloadFiles":[
+            {
+               "Name":"RetroArch (CEX)",
+               "Region":"",
+               "Version":"1.9.0",
+               "LastUpdated":"2022-04-28T01:13:37.126946+01:00",
+               "Url":"https://dl.dropbox.com/s/haq3blsg9hpd0ng/RetroArch%20%28CEX%29.zip?raw=true",
+               "InstallPaths":[
+                  "/dev_hdd0/packages/RetroArch.PS3.CEX.PS3.pkg"
+               ]
+            },
+			{
+               "Name":"RetroArch (DEX)",
+               "Region":"",
+               "Version":"1.9.0",
+               "LastUpdated":"2022-04-28T01:13:37.126946+01:00",
+               "Url":"https://dl.dropbox.com/s/96ux8rpfa8po2gm/RetroArch%20%28DEX%29.zip?raw=true",
+               "InstallPaths":[
+                  "/dev_hdd0/packages/RetroArch.PS3.DEX.PS3.pkg"
                ]
             }
          ]
