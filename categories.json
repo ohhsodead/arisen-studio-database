@@ -356,6 +356,14 @@
       ]
     },
     {
+      "Title": "Emulators",
+      "Id": "emu",
+      "Type": "homebrew",
+      "Regions": [
+
+      ]
+    },
+    {
       "Title": "Plugins",
       "Id": "plugin",
       "Type": "plugin",
