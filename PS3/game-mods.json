@@ -8395,7 +8395,7 @@
                   "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                   "/dev_hdd0/tmp/Jericho.sprx"
                ]
-            },
+            }
          ]
       },
       {
@@ -8485,5 +8485,70 @@
             }
          ]
       },
+      {
+         "Platform":"PS3",
+         "Id":385,
+         "CategoryId":"gta5",
+         "Name":"Paradise Menu",
+         "FirmwareType":"CEX/DEX/HEN",
+         "Region":"BLES/BLUS",
+         "LastUpdated":"2022-05-07T01:13:37.126946+01:00",
+         "CreatedBy":"gopro_2027",
+         "SubmittedBy":"Darth Revan",
+         "Version":"1.0",
+         "GameMode":"MP",
+         "ModType":"EBOOT/SPRX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"Paradise Menu (CEX/HEN)",
+               "Region":"BLES01807",
+               "Version":"1.0",
+               "LastUpdated":"2022-05-07T01:13:37.126946+01:00",
+               "Url":"https://dl.dropbox.com/s/mwh1m2lewp2wm5s/Paradise%20Menu%20%28CEX-HEN%29.zip?raw=true",
+               "InstallPaths":[
+                  "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
+                  "/dev_hdd0/tmp/ParadiseGTA.sprx",
+                  "/dev_hdd0/tmp/gopro_2027/XML",
+                  "/dev_hdd0/tmp/gopro_2027/XML/spooner",
+                  "/dev_hdd0/tmp/gopro_2027/XML/vehiclespooner",
+                  "/dev_hdd0/tmp/gopro_2027/conn.txt",
+                  "/dev_hdd0/tmp/gopro_2027/customscripts.tx2",
+                  "/dev_hdd0/tmp/gopro_2027/customscripts.txt",
+                  "/dev_hdd0/tmp/gopro_2027/Key.txt",
+                  "/dev_hdd0/tmp/gopro_2027/list.txt",
+                  "/dev_hdd0/tmp/gopro_2027/modder_friends.txt",
+                  "/dev_hdd0/tmp/gopro_2027/ParadiseScript.txt",
+                  "/dev_hdd0/tmp/gopro_2027/strings.txt",
+                  "/dev_hdd0/tmp/gopro_2027/strings_latest_version.txt",
+                  "/dev_hdd0/tmp/gopro_2027/Update.txt"
+               ]
+            },
+            {
+               "Name":"Paradise Menu (DEX)",
+               "Region":"BLES/BLUS",
+               "Version":"1.0",
+               "LastUpdated":"2022-05-07T01:13:37.126946+01:00",
+               "Url":"https://www.dropbox.com/s/fmqqgpq08ut5m0s/Paradise%20Menu%20%28DEX%29.zip?raw=true",
+               "InstallPaths":[
+                  "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
+                  "/dev_hdd0/tmp/ParadiseGTA.sprx",
+                  "/dev_hdd0/tmp/gopro_2027/XML",
+                  "/dev_hdd0/tmp/gopro_2027/XML/spooner",
+                  "/dev_hdd0/tmp/gopro_2027/XML/vehiclespooner",
+                  "/dev_hdd0/tmp/gopro_2027/conn.txt",
+                  "/dev_hdd0/tmp/gopro_2027/customscripts.tx2",
+                  "/dev_hdd0/tmp/gopro_2027/customscripts.txt",
+                  "/dev_hdd0/tmp/gopro_2027/Key.txt",
+                  "/dev_hdd0/tmp/gopro_2027/list.txt",
+                  "/dev_hdd0/tmp/gopro_2027/modder_friends.txt",
+                  "/dev_hdd0/tmp/gopro_2027/ParadiseScript.txt",
+                  "/dev_hdd0/tmp/gopro_2027/strings.txt",
+                  "/dev_hdd0/tmp/gopro_2027/strings_latest_version.txt",
+                  "/dev_hdd0/tmp/gopro_2027/Update.txt"
+               ]
+            }
+         ]
+      }
    ]
 }
