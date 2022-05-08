@@ -3455,7 +3455,7 @@
          "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
          "CreatedBy":"OutSideMoDz",
          "SubmittedBy":"ohhsodead",
-         "Version":"1.1",
+         "Version":"3.1",
          "GameMode":"MP",
          "ModType":"EBOOT/SPRX",
          "Description":"Use Resolution 720p for Menu to Work 100%\n\nREADME | ChangedLog\n\n- README\n\nHey Welcome To My Self Created SPRX Non Host Menu For BO2 + Patch 1.19\n\nFEATURES?\n\nSee it Self <3\n\nChangedLog\n\nv1.0 or v1.1\n\nNothing\n\nMenu Open With R3+DpadDown\n\nBugs?\n\nNothing\n\nCOMING SOON?\n\nPreGame we what add To Menu",
@@ -3463,7 +3463,7 @@
             {
                "Name":"Arkadia Menu",
                "Region":"ALL",
-               "Version":"1.1",
+               "Version":"3.1",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/e1jj76ypkb1msfh/Arkadia%20Menu.zip?raw=true",
                "InstallPaths":[
@@ -8311,7 +8311,7 @@
          "FirmwareType":"CEX/DEX/HEN",
          "Region":"BLES/BLUS",
          "LastUpdated":"2022-05-07T01:13:37.126946+01:00",
-         "CreatedBy":"Unknown",
+         "CreatedBy":"GtsoroCFW",
          "SubmittedBy":"Darth Revan",
          "Version":"1.0",
          "GameMode":"MP",
@@ -8341,6 +8341,149 @@
                ]
             }
          ]
-      }
+      },
+      {
+         "Platform":"PS3",
+         "Id":380,
+         "CategoryId":"codbo2",
+         "Name":"Perplexed Menu (Off-Host)",
+         "FirmwareType":"DEX",
+         "Region":"BLES/BLUS",
+         "LastUpdated":"2022-05-07T01:13:37.126946+01:00",
+         "CreatedBy":"GtsoroCFW",
+         "SubmittedBy":"Darth Revan",
+         "Version":"4.2",
+         "GameMode":"MP",
+         "ModType":"EBOOT/SPRX",
+         "Description":"http://ps3cfw.com/Perplexed.php",
+         "DownloadFiles":[
+            {
+               "Name":"Perplexed Menu (Off-Host)",
+               "Region":"BLES/BLUS",
+               "Version":"4.2",
+               "LastUpdated":"2022-05-07T01:13:37.126946+01:00",
+               "Url":"https://dl.dropbox.com/s/krr8evfbmd7ygjc/Perplexed%20%28Off-Host%29.zip?raw=true",
+               "InstallPaths":[
+                  "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
+                  "/dev_hdd0/tmp/Perplexed.sprx"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"PS3",
+         "Id":381,
+         "CategoryId":"codbo2",
+         "Name":"Jericho Engine",
+         "FirmwareType":"DEX",
+         "Region":"BLES/BLUS",
+         "LastUpdated":"2022-05-07T01:13:37.126946+01:00",
+         "CreatedBy":"ExiLe",
+         "SubmittedBy":"GtsoroCFW",
+         "Version":"4.2",
+         "GameMode":"MP",
+         "ModType":"EBOOT/SPRX",
+         "Description":"Controls:\nIn game menu\n- Dpad UP + R3 = Open\n- Dpad Left = Select\n- Dpad Up/Down = Scroll\n- Circle = Back\n\nPre game Menu\n- L3 = Open\n- Dpad Left = Select\n- L2/R2 = Scroll\n- R3 = Back\n\n~~ Enjoy\n\nDear Activision,\nThis is for all the times you've banned me.\n\nRegards, Your dad.",
+         "DownloadFiles":[
+            {
+               "Name":"Jericho Engine",
+               "Region":"BLES/BLUS",
+               "Version":"1.0",
+               "LastUpdated":"2022-05-07T01:13:37.126946+01:00",
+               "Url":"https://dl.dropbox.com/s/0n58703j7ywuc0u/Jericho%20Engine.zip?raw=true",
+               "InstallPaths":[
+                  "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
+                  "/dev_hdd0/tmp/Jericho.sprx"
+               ]
+            },
+         ]
+      },
+      {
+         "Platform":"PS3",
+         "Id":382,
+         "CategoryId":"codbo2",
+         "Name":"Online Public Cheater",
+         "FirmwareType":"DEX",
+         "Region":"BLES/BLUS",
+         "LastUpdated":"2022-05-07T01:13:37.126946+01:00",
+         "CreatedBy":"ExiLe",
+         "SubmittedBy":"GtsoroCFW",
+         "Version":"1.0",
+         "GameMode":"MP",
+         "ModType":"EBOOT/SELF/SPRX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"Online Public Cheater",
+               "Region":"BLES/BLUS",
+               "Version":"1.0",
+               "LastUpdated":"2022-05-07T01:13:37.126946+01:00",
+               "Url":"https://dl.dropbox.com/s/0i06p6347ok3arm/Online%20Public%20Cheater.zip?raw=true",
+               "InstallPaths":[
+                  "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
+                  "/dev_hdd0/game/{REGION}/USRDIR/t6mp_ps3f.self",
+                  "/dev_hdd0/tmp/BO2ESP.sprx"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"PS3",
+         "Id":383,
+         "CategoryId":"codbo2",
+         "Name":"Elite Bot Menu",
+         "FirmwareType":"DEX",
+         "Region":"BLES/BLUS",
+         "LastUpdated":"2022-05-07T01:13:37.126946+01:00",
+         "CreatedBy":"ExiLe",
+         "SubmittedBy":"GtsoroCFW",
+         "Version":"3.1",
+         "GameMode":"MP",
+         "ModType":"EBOOT/SPRX",
+         "Description":"MUST BE ON DEX AND 720P TO USE THIS MENU!\nEBOOT contains Antiban and Probation Bypass\nControls:\n\nDpad Up + R3: Open\nDpad Up/Down: Scroll\nDpad Left/Right: Decrement and Increment\nDpad Square: Select (Only for prestiges)\n\n\nChange Log:\nInital Release: Ported Everything from MW2 except some World ESP options (will be added later)\n\nCredits:\n\nUnholyTalonTSi\nkiwi_modz\nDevOps\nNGU",
+         "DownloadFiles":[
+            {
+               "Name":"Elite Bot Menu",
+               "Region":"BLES/BLUS",
+               "Version":"3.1",
+               "LastUpdated":"2022-05-07T01:13:37.126946+01:00",
+               "Url":"https://dl.dropbox.com/s/12u8jp7syquge31/Elite%20Bot%20Menu.zip?raw=true",
+               "InstallPaths":[
+                  "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
+                  "/dev_hdd0/tmp/EliteBot",
+                  "/dev_hdd0/tmp/EliteBot/EliteBotBO2.sprx",
+                  "/dev_hdd0/tmp/EliteBot/ConfigBO2.cfg"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"PS3",
+         "Id":384,
+         "CategoryId":"codbo2",
+         "Name":"Voltage Menu",
+         "FirmwareType":"DEX",
+         "Region":"BLES/BLUS",
+         "LastUpdated":"2022-05-07T01:13:37.126946+01:00",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"GtsoroCFW",
+         "Version":"1.0",
+         "GameMode":"MP",
+         "ModType":"EBOOT/SPRX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"Voltage Menu",
+               "Region":"BLES/BLUS",
+               "Version":"1.0",
+               "LastUpdated":"2022-05-07T01:13:37.126946+01:00",
+               "Url":"https://www.dropbox.com/s/vdskped4th6wkfg/Voltage%20Menu.zip?raw=true",
+               "InstallPaths":[
+                  "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
+                  "/dev_hdd0/tmp/Voltage.sprx"
+               ]
+            }
+         ]
+      },
    ]
 }
