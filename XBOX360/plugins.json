@@ -1199,6 +1199,30 @@
           ]
         }
       ]
+    },
+    {
+      "Platform": "XBOX",
+      "CategoryId": "codmw3",
+      "Id": 51,
+      "Name": "El Host Menu",
+      "LastUpdated": "2022-06-08T01:13:37.126946+01:00",
+      "CreatedBy": "Im Crout",
+      "SubmittedBy": "ohhsodead",
+      "Version": "1.0",
+      "GameMode": "MP",
+      "ModType": "XEX",
+      "Description": "Instructions:\nLoad it on dashboard with a module loader\n\nIf youre using LiveEmulation some options would crash!\n--------------------------\nCredits:\nTreyZ\n01cedric\nDread\nCykotic\nItzFlakyy\n--------------------------\nJoin El Host & TamperedLive Discord\n\nTampereLive: https://discord.gg/Q9zRZVC\nEl Host: https://discord.gg/QT8huEc\n--------------------------\nSubscribe & Join Best Stealth\n\nhttps://youtube.com/ImCrout\nhttps://tamperedlive.com\n--------------------------",
+      "DownloadFiles": [
+        {
+          "Name": "El Host Menu",
+          "Version": "1.0",
+          "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
+          "Url": "https://dl.dropbox.com/s/mghu2srccs0a4hr/El%20Host%20Menu.zip?raw=true",
+          "InstallPaths": [
+            "Hdd:\\NeoModsX\\{CATEGORYID}\\El Host.xex"
+          ]
+        }
+      ]
     }
   ]
 }

@@ -553,6 +553,19 @@
       ]
     },
     {
+      "Title": "Sonic Unleashed",
+      "Id": "sonicunl",
+      "Type": "game",
+      "Regions": [
+        "BLUS30244",
+        "BLES00425",
+        "BCKS10065",
+        "BLJM60112",
+        "NPUB31204",
+        "NPEB01347"
+      ]
+    },
+    {
       "Title": "Tales of Symphonia: DoTNW",
       "Id": "tosdotnw",
       "Type": "game",
