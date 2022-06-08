@@ -3194,7 +3194,7 @@
          "Version":"1.0.0",
          "GameMode":"MP",
          "ModType":"EBOOT/SPRX",
-         "Description":"After installed, go to your package manager and install the game update to have a fresh game update. Useful before and after installing mods to games.",
+         "Description":"",
          "DownloadFiles":[
             {
                "Name":"Supreme Engine Menu (Off Host)",
