@@ -1529,6 +1529,53 @@
                ]
             }
          ]
+      },
+      {
+         "Platform":"PS3",
+         "Id":57,
+         "CategoryId":"hg",
+         "Name":"Bubble Bobble",
+         "FirmwareType":"CEX/DEX",
+         "Region":"",
+         "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+         "CreatedBy":"voda123 & sandungas",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.05",
+         "GameMode":"",
+         "ModType":"PKG",
+         "Description":"Bubble Bobble for two players , get the baddies pop them grab the fruit, ride the bubbles by jumping on them, fun for all ages.\n\n\nBUBBLE BOBBLE NORMAL VERSION 1.5\n\nD-keys enabled on P1 and P2:\n\nPLAYER 1:\nCROSS = fire (shoot bubbles)\nCIRCLE = jump\nD-pad-UP = jump\nD-pad-LEFT = left\nD-pad-RIGHT = right\nD-pad-DOWN = fire (shoot bubbles)\nTRIANGLE = increase live count for P1\nL-joystic-up = jump\nL-joystic-left = left\nL-joystic-right = right\nL-joystic-down = fire (shoot bubbles)\nSQUARE = increase live count for P2\nL1 = backward 10 levels\nR1 = forward 10 levels\nL2 = backward 1 level\nR2 = forward 1 level\nSTART = show how the bubbles float in a level\nSELECT = sound on/off, enter\n\nPLAYER 2:\nCROSS = fire (shoot bubbles)\nCIRCLE = jump\nD-pad-UP = jump\nD-pad-LEFT = left\nD-pad-RIGHT = right\nD-pad-DOWN = fire (shoot bubbles)\nTRIANGLE = increase live count for P2\nL-joystic-up = jump\nL-joystic-left = left\nL-joystic-right = right\nL-joystic-down = fire (shoot bubbles)\n\n\nBUBBLE BOBBLE PARENT VERSION 1.5\n\nD-keys enabled on P1 to help P2 player:\n\nPLAYER 1:\nCROSS = fire (shoot bubbles)\nCIRCLE = jump\nD-pad-UP = jump\nD-pad-LEFT = left\nD-pad-RIGHT = right\nD-pad-DOWN = fire (shoot bubbles)\nTRIANGLE = increase live count for P1\nL-joystic-up = jump\nL-joystic-left = left\nL-joystic-right = right\nL-joystic-down = fire (shoot bubbles)\nSQUARE = increase live count for P2\nL1 = backward 10 levels\nR1 = forward 10 levels\nL2 = backward 1 level\nR2 = forward 1 level\nSTART = show how the bubbles float in a level\nSELECT = sound on/off, enter\n\nPLAYER 2:\nCROSS = fire (shoot bubbles)\nCIRCLE = jump\nD-pad-UP = jump\nD-pad-LEFT = left\nD-pad-RIGHT = right\nD-pad-DOWN = fire (shoot bubbles)\nTRIANGLE = increase live count for P2\nL-joystic-up = jump\nL-joystic-left = left\nL-joystic-right = right\nL-joystic-down = fire (shoot bubbles)\n\n\nBUBBLE BOBBLE (MANIAC MODE: 1/2 PLAYER)\n\n(Player 1 plays P1 and P2):\n\nPLAYER 1:\nD-pad-UP = jump P1\nD-pad-LEFT = left P1\nD-pad-RIGHT = right P1\nD-pad-DOWN = fire P1 (shoot bubbles)\nL-joystic-up = jump P1\nL-joystic-left = left P1\nL-joystic-right = right P1\nL-joystic-down = fire P1 (shoot bubbles)\nTRIANGLE = jump P2\nSQUARE = left P2\nCIRCLE = right P2\nx = fire P2 (shoot bubbles)\nR-joystic-up = jump P2\nR-joystic-left = left P2\nR-joystic-right = right P2\nR-joystic-down = fire (shoot bubbles) P2\nL1 = increase live count for P1\nR1 = increase live count for P2\nL2 = 1 nivo nazaj, tipka m\nR2 = 1 nivo naprej, tipka M\nSTART = show how the bubbles float in a level\nSELECT = sound on/off, enter\n\n\nBUBBLE BOBBLE VERSION 1.4\n\nIncludes Cheats\n\nHow to start a game (no change here, but anyway):\nPlayer 1 press R3 and then two times R2 (and CROSS)\nPlayer 2 nothing, just play.\n\nP1 is the big boss and P2 is a normal player with just one extra ability: to increase P1 or/and P2 lives count.\n\nHow P1 use those new features? Extra keys are:\nController 1 Settings (P1):\nCROSS = fire (make bubbles)\nSQUARE = jump\nCIRCLE = jump\nUP = forward 10 levels\nDOWN = backward 10 levels\nRIGHT = forward 1 level\nLEFT = backward 1 level\nL1 = increase live count for P1 (works only when P1 dies and he is still dying/spinning. Press single/few times or hold for maaaany extra lives)\nR1 = increase live count for P2 (works only when P2 dies and he is still dying/spinning. Press single/few times or hold for maaaany extra lives)\nSTART = show how the bubbles float in a level\nSELECT = sound on/off\n\nController 2 Settings (P2):\nCROSS = fire (make bubbles)\nSQUARE = jump\nCIRCLE = jump\nL1 = increase live count for P1 (works only when P1 dies and he is still dying/spinning. Press single/few times or hold for maaaany extra lives)\nR1 = increase live count for P2 (works only when P2 dies and he is still dying/spinning. Press single/few times or hold for maaaany extra lives)\n\nP2 can not change levels (of course the kid is too young to change levels)",
+         "DownloadFiles":[
+            {
+               "Name":"Bubble Bobble (maniac)",
+               "Region":"",
+               "Version":"1.05",
+               "LastUpdated":"2022-06-13T01:13:37.126946+01:00",
+               "Url":"https://dl.dropbox.com/s/9eza94jjsqihc2y/Bubble%20Bobble%20%28maniac%29.zip?raw=true",
+               "InstallPaths":[
+                  "/dev_hdd0/packages/Bubble_Bobble_-_BUBL00004-v1.5(maniac).pkg"
+               ]
+            },
+			{
+               "Name":"Bubble Bobble (normal)",
+               "Region":"",
+               "Version":"1.05",
+               "LastUpdated":"2022-06-13T01:13:37.126946+01:00",
+               "Url":"https://dl.dropbox.com/s/dh7lepd39s82jru/Bubble%20Bobble%20%28normal%29.zip?raw=true",
+               "InstallPaths":[
+                  "/dev_hdd0/packages/Bubble_Bobble_-_BUBL00004-v1.5(normal).pkg"
+               ]
+            },
+			{
+               "Name":"Bubble Bobble (parent)",
+               "Region":"",
+               "Version":"1.05",
+               "LastUpdated":"2022-06-13T01:13:37.126946+01:00",
+               "Url":"https://dl.dropbox.com/s/ojth9y6kiicd6i1/Bubble%20Bobble%20%28parent%29.zip?raw=true",
+               "InstallPaths":[
+                  "/dev_hdd0/packages/OBubble_Bobble_-_BUBL00004-v1.5(parent).pkg"
+               ]
+            }
+         ]
       }
    ]
 }

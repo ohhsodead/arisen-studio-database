@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PS3",
+    "\\XBOX360"
   ],
-  "SelectedNode": "\\game-saves.json",
+  "SelectedNode": "\\PS3",
   "PreviewInSolutionExplorer": false
 }
