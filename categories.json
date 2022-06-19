@@ -737,6 +737,30 @@
       ]
     },
     {
+      "Title": "WWE 2K14",
+      "Id": "wwe2k14",
+      "Type": "game",
+      "Regions": [
+        "BLUS31277",
+        "NPUB31343",
+        "BLAS50642",
+        "BLKS20445",
+        "BLES01937",
+        "NPEB01815"
+      ]
+    },
+    {
+      "Title": "WWE 2K15",
+      "Id": "wwe2k15",
+      "Type": "game",
+      "Regions": [
+        "BLUS31464",
+        "NPUB31546",
+        "BLES02072",
+        "NPEB02079"
+      ]
+    },
+    {
       "Title": "XMB",
       "Id": "xmbr",
       "Type": "resource",

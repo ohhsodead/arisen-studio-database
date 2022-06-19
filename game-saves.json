@@ -622,10 +622,85 @@
           "Name": "Completed Missions & Unlimited Money",
           "Region": "ALL",
           "Version": "1.0",
-          "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
+          "LastUpdated": "2022-06-08T01:13:37.126946+01:00",
           "Url": "https://dl.dropbox.com/s/oggedn3cfq6r1uz/Almost%20100%25%20Completed%20Story.zip?raw=true",
           "InstallPaths": [
             "Hdd:\\Arisen Mods\\Game Saves\\Sonic Unleashed\\SYS-DATA"
+          ]
+        }
+      ]
+    },
+    {
+      "Platform": "XBOX",
+      "Id": 22,
+      "CategoryId": "wwe2k15",
+      "Name": "Unlock All",
+      "Region": "ALL",
+      "LastUpdated": "2022-06-19T01:13:37.126946+01:00",
+      "CreatedBy": "Unknown",
+      "SubmittedBy": "ohhsodead",
+      "Version": "1.0",
+      "GameMode": "SP",
+      "Description": "Quick save for wwe 2K15 everything has been unlocked and ready to play.\n\nTake a look below to see what is unlocked.\n\nAs always rehash and resign this save to your own IDS.",
+      "DownloadFiles": [
+        {
+          "Name": "Unlock All",
+          "Region": "ALL",
+          "Version": "1.0",
+          "LastUpdated": "2022-06-19T01:13:37.126946+01:00",
+          "Url": "https://dl.dropbox.com/s/w1vqwiskb1achw6/All%20Unlocks%20Modded%20Starter%20Save.zip?raw=true",
+          "InstallPaths": [
+            "Hdd:\\Arisen Mods\\Game Saves\\WWE 2K15\\Unlock All\\SaveData.dat"
+          ]
+        }
+      ]
+    },
+    {
+      "Platform": "XBOX",
+      "Id": 23,
+      "CategoryId": "wwe2k15",
+      "Name": "All Unlocks Modded Starter Save",
+      "Region": "ALL",
+      "LastUpdated": "2022-06-19T01:13:37.126946+01:00",
+      "CreatedBy": "Unknown",
+      "SubmittedBy": "ohhsodead",
+      "Version": "1.0",
+      "GameMode": "SP",
+      "Description": "- All Unlocks\n-Modded Starter Save\n-No Season Pass Required",
+      "DownloadFiles": [
+        {
+          "Name": "Unlock All",
+          "Region": "ALL",
+          "Version": "1.0",
+          "LastUpdated": "2022-06-19T01:13:37.126946+01:00",
+          "Url": "https://dl.dropbox.com/s/46kr87e050gqjsc/Unlock%20All.zip?raw=true",
+          "InstallPaths": [
+            "Hdd:\\Arisen Mods\\Game Saves\\WWE 2K15\\All Unlocks Modded Starter Save\\SaveData.dat"
+          ]
+        }
+      ]
+    },
+    {
+      "Platform": "XBOX",
+      "Id": 24,
+      "CategoryId": "wwe2k14",
+      "Name": "100% Completed",
+      "Region": "ALL",
+      "LastUpdated": "2022-06-19T01:13:37.126946+01:00",
+      "CreatedBy": "Unknown",
+      "SubmittedBy": "ohhsodead",
+      "Version": "1.0",
+      "GameMode": "SP",
+      "Description": "Everything unlocked enjoy\n\n100% done",
+      "DownloadFiles": [
+        {
+          "Name": "100% Completed",
+          "Region": "ALL",
+          "Version": "1.0",
+          "LastUpdated": "2022-06-19T01:13:37.126946+01:00",
+          "Url": "https://dl.dropbox.com/s/8b5bjntebmve7oi/100%25%20Completed.zip?raw=true",
+          "InstallPaths": [
+            "Hdd:\\Arisen Mods\\Game Saves\\WWE 2K14\\100% Completed\\SaveData.dat"
           ]
         }
       ]
