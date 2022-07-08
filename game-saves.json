@@ -575,7 +575,7 @@
           "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
           "Url": "https://dl.dropbox.com/s/ahbyibkyez8l844/Credits%20999.999%20%26%20All%20Items%20Unlocked.zip?raw=true",
           "InstallPaths": [
-            "Hdd:\\Arisen Mods\\Game Saves\\Dead Space 2\\ds_slot_02"
+            "Hdd:\\Arisen Studio\\Game Saves\\{GAME}\\{NAME}\\ds_slot_02"
           ]
         }
       ]
@@ -600,7 +600,7 @@
           "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
           "Url": "https://dl.dropbox.com/s/uedk1foeokainhm/Completed%20Missions%20%26%20Unlimited%20Money.zip?raw=true",
           "InstallPaths": [
-            "Hdd:\\Arisen Mods\\Game Saves\\Dead Space 2\\complete_missions_unlimited_money"
+            "Hdd:\\Arisen Studio\\Game Saves\\{GAME}\\{NAME}\\complete_missions_unlimited_money"
           ]
         }
       ]
@@ -625,7 +625,7 @@
           "LastUpdated": "2022-06-08T01:13:37.126946+01:00",
           "Url": "https://dl.dropbox.com/s/oggedn3cfq6r1uz/Almost%20100%25%20Completed%20Story.zip?raw=true",
           "InstallPaths": [
-            "Hdd:\\Arisen Mods\\Game Saves\\Sonic Unleashed\\SYS-DATA"
+            "Hdd:\\Arisen Studio\\Game Saves\\{GAME}\\{NAME}\\SYS-DATA"
           ]
         }
       ]
@@ -650,7 +650,7 @@
           "LastUpdated": "2022-06-19T01:13:37.126946+01:00",
           "Url": "https://dl.dropbox.com/s/w1vqwiskb1achw6/All%20Unlocks%20Modded%20Starter%20Save.zip?raw=true",
           "InstallPaths": [
-            "Hdd:\\Arisen Mods\\Game Saves\\WWE 2K15\\Unlock All\\SaveData.dat"
+            "Hdd:\\Arisen Studio\\Game Saves\\{GAME}\\{NAME}\\SaveData.dat"
           ]
         }
       ]
@@ -675,7 +675,7 @@
           "LastUpdated": "2022-06-19T01:13:37.126946+01:00",
           "Url": "https://dl.dropbox.com/s/46kr87e050gqjsc/Unlock%20All.zip?raw=true",
           "InstallPaths": [
-            "Hdd:\\Arisen Mods\\Game Saves\\WWE 2K15\\All Unlocks Modded Starter Save\\SaveData.dat"
+            "Hdd:\\Arisen Studio\\Game Saves\\{GAME}\\{NAME}\\SaveData.dat"
           ]
         }
       ]
@@ -700,7 +700,85 @@
           "LastUpdated": "2022-06-19T01:13:37.126946+01:00",
           "Url": "https://dl.dropbox.com/s/8b5bjntebmve7oi/100%25%20Completed.zip?raw=true",
           "InstallPaths": [
-            "Hdd:\\Arisen Mods\\Game Saves\\WWE 2K14\\100% Completed\\SaveData.dat"
+            "Hdd:\\Arisen Studio\\Game Saves\\{GAME}\\{NAME}\\SaveData.dat"
+          ]
+        }
+      ]
+    },
+    {
+      "Platform": "XBOX",
+      "Id": 25,
+      "CategoryId": "falloutnvue",
+      "Name": "Female Game Save",
+      "Region": "ALL",
+      "LastUpdated": "2022-07-08T01:13:37.126946+01:00",
+      "CreatedBy": "Unknown",
+      "SubmittedBy": "ohhsodead",
+      "Version": "1.0",
+      "GameMode": "SP",
+      "Description": "Ok, you start outside Doc's office in Goodsprings, just like my first save creation. This one however, has no modified ammo, armor, etc. Instead, you have modified stats. SPECIAL is all maxed except for Strength, so if you have Lonesome Road DLC, you're not forever stuck at the end of it with adding a SPECIAL point. You have the DEBUG MagPistol, which in my opinion is the BEST GUN EVER, and every skill, from Barter to Sneak, etc is maxed at 100. Oh, and you have most of the Perks, but there are still plenty for you to choose from when leveling up. Cheers! I promise in version 3, you'll have lots of ammo and possibly weapon mods as well.",
+      "DownloadFiles": [
+        {
+          "Name": "Female Game Save",
+          "Region": "ALL",
+          "Version": "1.0",
+	      "LastUpdated": "2022-07-08T01:13:37.126946+01:00",
+          "Url": "https://dl.dropbox.com/s/yiz585mli7smcf4/Female%20Game%20Save.zip?raw=true",
+          "InstallPaths": [
+            "Hdd:\\Arisen Studio\\Game Saves\\{GAME}\\{NAME}\\Save 1   Nerina  Goodsprings  00 13 2.fxs"
+          ]
+        }
+      ]
+    },
+    {
+      "Platform": "XBOX",
+      "Id": 27,
+      "CategoryId": "bptub",
+      "Name": "All Complete Save",
+      "Region": "ALL",
+      "LastUpdated": "2022-07-08T01:13:37.126946+01:00",
+      "CreatedBy": "Unknown",
+      "SubmittedBy": "ohhsodead",
+      "Version": "1.0",
+      "GameMode": "SP",
+      "Description": "Stock game all complete, 79 cars unlocked (NTSC version game sponsors cars not)\nBikes all complete (all bikes unlocked)\nBig Surf Island all complete (all cars unlocked)",
+      "DownloadFiles": [
+        {
+          "Name": "All Complete Save",
+          "Region": "ALL",
+          "Version": "1.0",
+	      "LastUpdated": "2022-07-08T01:13:37.126946+01:00",
+          "Url": "https://dl.dropbox.com/s/5449aqlo4tw7yk7/All%20Complete%20Save.zip?raw=true",
+          "InstallPaths": [
+            "Hdd:\\Arisen Studio\\Game Saves\\{GAME}\\{NAME}\\Profile"
+          ]
+        }
+      ]
+    },
+	,
+    {
+      "Platform": "XBOX",
+      "Id": 28,
+      "CategoryId": "gow3",
+      "Name": "Completed on Insane",
+      "Region": "ALL",
+      "LastUpdated": "2022-07-08T01:13:37.126946+01:00",
+      "CreatedBy": "Unknown",
+      "SubmittedBy": "ohhsodead",
+      "Version": "1.0",
+      "GameMode": "SP",
+      "Description": "Game complete on insane level, all collectibles, all unlockable, max level.\nUnRAR and inject 4D5308AB.gpd in your profile file (previously beckupe\nsave files on 4D5308AB folder Rehash & Resign with your profile ID and copy on drive",
+      "DownloadFiles": [
+        {
+          "Name": "Completed on Insane",
+          "Region": "ALL",
+          "Version": "1.0",
+	      "LastUpdated": "2022-07-08T01:13:37.126946+01:00",
+          "Url": "hhttps://dl.dropbox.com/s/t5pw4s3es3ol2bs/Completed%20on%20Insane.zip?raw=true",
+          "InstallPaths": [
+            "Hdd:\\Arisen Studio\\Game Saves\\{GAME}\\{NAME}\\4D5308AB.gpd"
+            "Hdd:\\Arisen Studio\\Game Saves\\{GAME}\\{NAME}\\GearsCheckpoint"
+            "Hdd:\\Arisen Studio\\Game Saves\\{GAME}\\{NAME}\\PlayerStorage.dat"
           ]
         }
       ]
