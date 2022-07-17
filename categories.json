@@ -16,6 +16,55 @@
       ]
     },
     {
+      "Title": "Fallout: New Vegas - Ultimate Edition",
+      "Id": "falloutnvue",
+      "Type": "game",
+      "Regions": [
+		"BLUS30888",
+		"BLES01475",
+		"BLJM60449",
+      ]
+    },
+    {
+      "Title": "Burnout Paradise: The Ultimate Box / Trivial Pursuit",
+      "Id": "bptub",
+      "Type": "game",
+      "Regions": [
+		"BLUS30888",
+		"BLES01475",
+		"BLJM60449",
+      ]
+    },
+    {
+      "Title": "Gears of War 3",
+      "Id": "gow3",
+      "Type": "game",
+      "Regions": [
+	  
+      ]
+    },
+    {
+      "Title": "Dead Rising 2: Case Zero",
+      "Id": "dr2cz",
+      "Type": "game",
+      "Regions": [
+	  
+      ]
+    },
+    {
+      "Title": "Mass Effect 2",
+      "Id": "masse2",
+      "Type": "game",
+      "Regions": [
+		"NPUB30447",
+		"BLUS30650",
+		"BLAS50290",
+		"BLES01133",
+		"NPEB00503",
+		"BLJM60332"
+      ]
+    },
+    {
       "Id": "ac3",
       "Title": "Assassin's Creed III",
       "Type": "game",
