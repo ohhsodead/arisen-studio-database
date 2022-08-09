@@ -1,83 +1,281 @@
 {
    "GameCheats":[
       {
-         "Region":"NPUB30024",
-         "Game":"1942 Joint Strike US",
+         "Region":"454108E6",
+         "Game":"Skate 3",
          "Version":"01.00",
          "Cheats":[
             {
-               "Name":"Score (Press Select)",
+               "Name":"Change Hat Color (Gradient)",
                "Offsets":[
                   {
-                     "Opcode":"0000C003",
-                     "Param1":"00000000",
-                     "Param2":"00010000"
+                     "ValueType":"float",
+                     "DataType":"color",
+					 "Opcode":"",
+                     "Offset":"40110030",
+                     "Value":""
                   },
                   {
-                     "Opcode":"00002000",
-                     "Param1":"0032F7C8",
-                     "Param2":"3B9AC9FF"
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"40110034",
+                     "Value":""
                   },
                   {
-                     "Opcode":"00002000",
-                     "Param1":"0032F934",
-                     "Param2":"3B9AC9FF"
-                  },
-                  {
-                     "Opcode":"00002000",
-                     "Param1":"0032FAA0",
-                     "Param2":"3B9AC9FF"
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"40110038",
+                     "Value":""
                   }
                ]
             },
             {
-               "Name":"Life 99",
+               "Name":"Change Shirt Color (Gradient)",
                "Offsets":[
                   {
-                     "Opcode":"00002000",
-                     "Param1":"0032F7F8",
-                     "Param2":"00000063"
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"40110270",
+                     "Value":""
                   },
                   {
-                     "Opcode":"00002000",
-                     "Param1":"0032F964",
-                     "Param2":"00000063"
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"40110274",
+                     "Value":""
                   },
                   {
-                     "Opcode":"00002000",
-                     "Param1":"0032FAD0",
-                     "Param2":"00000063"
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"40110278",
+                     "Value":""
+                  }
+               ]
+            },
+            {
+               "Name":"Change Pants Color (Gradient)",
+               "Offsets":[
+                  {
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"40110330",
+                     "Value":""
+                  },
+                  {
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"40110334",
+                     "Value":""
+                  },
+                  {
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"40110338",
+                     "Value":""
+                  }
+               ]
+            },
+            {
+               "Name":"Change Socks Color (Gradient)",
+               "Offsets":[
+                  {
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"401102B0",
+                     "Value":""
+                  },
+                  {
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"401102B4",
+                     "Value":""
+                  },
+                  {
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"401102B8",
+                     "Value":""
+                  }
+               ]
+            },
+            {
+               "Name":"Change Body Color (Gradient)",
+               "Offsets":[
+                  {
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"40110130",
+                     "Value":""
+                  },
+                  {
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"40110134",
+                     "Value":""
+                  },
+                  {
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"40110138",
+                     "Value":""
+                  }
+               ]
+            },
+            {
+               "Name":"Change Hands Color (Gradient)",
+               "Offsets":[
+                  {
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"401100F0",
+                     "Value":""
+                  },
+                  {
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"401100F4",
+                     "Value":""
+                  },
+                  {
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"401100F8",
+                     "Value":""
+                  }
+               ]
+            },
+            {
+               "Name":"Change Face Color (Gradient)",
+               "Offsets":[
+                  {
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"401100B0",
+                     "Value":""
+                  },
+                  {
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"401100B4",
+                     "Value":""
+                  },
+                  {
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"401100B8",
+                     "Value":""
+                  }
+               ]
+            },
+            {
+               "Name":"Change Hair Color (Gradient)",
+               "Offsets":[
+                  {
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"40110070",
+                     "Value":""
+                  },
+                  {
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"40110074",
+                     "Value":""
+                  },
+                  {
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"40110078",
+                     "Value":""
                   }
                ]
             }
          ]
       },
       {
-         "Region":"BLUS31389",
-         "Game":"2014 FIFA World Cup Brazil US",
+         "Region":"41560817",
+         "Game":"Call of Duty: Modern Warfare 2",
          "Version":"01.01",
          "Cheats":[
             {
-               "Name":"200x Point Multiplier (Training and Skill Games)",
+               "Name":"No Recoil (Off Host)",
                "Offsets":[
                   {
-                     "Opcode":"00002000",
-                     "Param1":"0053317C",
-                     "Param2":"60000000"
+                     "ValueType":"byte",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"82135BE3",
+                     "Value":""
                   }
                ]
             },
             {
-               "Name":"Infinite Retries (Training)",
+               "Name":"Thermal (Off Host)",
                "Offsets":[
                   {
-                     "Opcode":"00002000",
-                     "Param1":"00F8D748",
-                     "Param2":"1CC600C8"
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"40110078",
+                     "Value":""
+                  }
+               ]
+            }
+         ]
+      },
+	  {
+         "Region":"415608C3",
+         "Game":"Call of Duty: Black Ops II",
+         "Version":"01.01",
+         "Cheats":[
+            {
+               "Name":"Chams",
+               "Offsets":[
+                  {
+                     "ValueType":"byte",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"2183118924",
+                     "Value":""
+                  }
+               ]
+            },
+            {
+               "Name":"Thermal (Off Host)",
+               "Offsets":[
+                  {
+                     "ValueType":"float",
+                     "DataType":"color",
+                     "Opcode":"",
+                     "Offset":"40110078",
+                     "Value":""
                   }
                ]
             }
          ]
       }
-	]
+   ]
 }
