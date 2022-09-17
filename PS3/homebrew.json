@@ -253,7 +253,7 @@
          "Region":"",
          "CreatedBy":"various",
          "SubmittedBy":"ohhsodead",
-         "Version":"4.88",
+         "Version":"4.89",
          "GameMode":"",
          "ModType":"PKG",
          "Description":"Iris Manager fork including latest mamba from NzV..\n\nCredits:\n- Iris Manager: Estwald / D_skywalk\n- IRISMAN: aldostools\n- Unofficial IRISMAN Updates: Joonie / Alexander\n\n- Mamba support by Estwald, NzV, Rancid-O, Joonie, Habib, aldostools, Zar, littlebalup, KW, Alexander, Haxxxen, Evilnat, deank, Team Cobra\n- Zip, rar, 7z support by bucanero",
@@ -261,11 +261,11 @@
             {
                "Name":"IRISMAN Full Edition",
                "Region":"",
-               "Version":"4.88",
-               "LastUpdated":"2022-04-26T01:13:37.126946+01:00",
+               "Version":"4.89",
+               "LastUpdated":"2022-08-12T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/tpmu019c4smzfz3/IRISMAN%20Full%20Edition.zip?raw=true",
                "InstallPaths":[
-                  "/dev_hdd0/packages/IRISMAN_4.88.pkg.825.v4.88.pkg"
+                  "/dev_hdd0/packages/IRISMAN_4.89.pkg.874.v4.89.pkg"
                ]
             }
          ]
@@ -305,7 +305,7 @@
          "Region":"",
          "CreatedBy":"zar",
          "SubmittedBy":"ohhsodead",
-         "Version":"1.39",
+         "Version":"1.42",
          "GameMode":"",
          "ModType":"PKG",
          "Description":"This is another Backup Manager made from the ground. It allows you to mount a backup stored in your USB device or in the internal hdd as a virtual Blue-Ray using 4 differents UI : 'List', 'Grid', 'XMB' and 'Flow'. ",
@@ -314,10 +314,10 @@
                "Name":"ManaGunZ",
                "Region":"",
                "Version":"1.38",
-               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "LastUpdated":"2022-09-01T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/o630hymjzwf0u2k/ManaGunZ.zip?raw=true",
                "InstallPaths":[
-                  "/dev_hdd0/packages/ManaGunZ_v1.39.pkg.324.v1.39.pkg"
+                  "/dev_hdd0/packages/ManaGunZ_v1.42.pkg"
                ]
             }
          ]
@@ -601,7 +601,7 @@
                "Name":"webMAN MOD",
                "Region":"",
                "Version":"1.47.42",
-               "LastUpdated":"2022-07-16T01:13:37.126946+01:00",
+               "LastUpdated":"2022-09-11T01:13:37.126946+01:00",
                "InstallPaths":[
                   "/dev_hdd0/packages/webMAN_MOD_1.47.42_Installer.pkg"
                ]
