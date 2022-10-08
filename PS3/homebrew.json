@@ -601,7 +601,7 @@
                "Name":"webMAN MOD",
                "Region":"",
                "Version":"1.47.42",
-               "LastUpdated":"2022-09-11T01:13:37.126946+01:00",
+               "LastUpdated":"2022-09-25T01:13:37.126946+01:00",
                "InstallPaths":[
                   "/dev_hdd0/packages/webMAN_MOD_1.47.42_Installer.pkg"
                ]
@@ -799,7 +799,7 @@
          "Region":"",
          "CreatedBy":"Bucanero",
          "SubmittedBy":"ohhsodead",
-         "Version":"1.7.0",
+         "Version":"1.7.4",
          "GameMode":"",
          "ModType":"PKG",
          "Description":"Apollo Save Tool is an application to manage save-game files on the PlayStation 3.\n\nThe apollo-ps3 homebrew app allows to download, unlock, patch and resign save-game files directly on your PS3.",
@@ -807,11 +807,11 @@
             {
                "Name":"Apollo Save Tool",
                "Region":"",
-               "Version":"1.7.0",
-               "LastUpdated":"2022-04-29T01:13:37.126946+01:00",
+               "Version":"1.7.4",
+               "LastUpdated":"2022-10-28T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/kqwuvt4ktufx8c6/Apollo%20Save%20Tool.zip?raw=true",
                "InstallPaths":[
-                  "/dev_hdd0/packages/apollo-ps3.pkg.345.v1.7.0.pkg"
+                  "/dev_hdd0/packages/apollo-ps3.pkg"
                ]
             }
          ]
