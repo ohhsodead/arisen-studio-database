@@ -1452,26 +1452,26 @@
          "ModType":"PKG",
          "Description":"RetroArch is a modular multi-system emulator system that is designed to be fast, lightweight, and portable. It has features few other emulators frontends have, such as real-time rewinding and game-aware shading.\n\n\n+44 Cores (official) / +66 (RetroArch CE):\n- 2048\n- FBA Alpha 2012 (multiple systems including: Neo Geo, CPS-1, CPS-2, CPS-3, Sega System 16 and System 18)\n- FCEU-MM (NES/Famicom)\n- FreeIntv (Mattel - Intellivision)\n- Fuse (ZX Spectrum)\n- Gambatte (Game Boy Color)\n- GearBoy (Game Boy Color)\n- Gearsystem (Sega Master System / Game Gear)\n- Genesis Plus GX (Sega Genesis/Megadrive)\n- GW (Handheld Electronic)\n- Java ME (SquirrelJME)\n- Handy (Atari Lynx)\n- Magnavox - Odyssey2 / Phillips Videopac+ (O2EM)\n- MAME 2000 / 2003 / 2003+ (Multiple Arcade Machine Emulator)\n- Mednafen Lynx (Atari Lynx)\n- Mednafen NGP (NeoGeo Pocket)\n- Mednafen PCE Fast (PC Engine)\n- Mednafen Supergrafx (Beetle SGX)\n- Mednafen VB (Virtual Boy)\n- Mednafen WSwam (WonderSwam)\n- mGBA (Game Boy Advance)\n- Nestopia (NES/Famicom)\n- NXEngine (Cave Story)\n- Outrun Game Engine (Cannonball)\n- Palm OS (Mu)\n- PokeMini (Nintendo - Pokémon Mini)\n- PRBoom (Doom)\n- ProSystem (Atari 7800)\n- QuickNES (NES/Famicom)\n- SNES9x 2005 / SNES9x 2010 (Super Nintendo)\n- Stella (Atari 2600)\n- TyrQuake (Quake 1)\n- VBA Next (Game Boy Advance)\n- Vectrex (VECX)\n- Virtual Jaguar",
          "DownloadFiles":[
-            {
-               "Name":"RetroArch (CEX)",
-               "Region":"",
-               "Version":"1.9.0",
-               "LastUpdated":"2022-04-28T01:13:37.126946+01:00",
-               "Url":"https://dl.dropbox.com/s/haq3blsg9hpd0ng/RetroArch%20%28CEX%29.zip?raw=true",
-               "InstallPaths":[
-                  "/dev_hdd0/packages/RetroArch.PS3.CEX.PS3.pkg"
-               ]
-            },
-            {
-               "Name":"RetroArch (DEX)",
-               "Region":"",
-               "Version":"1.9.0",
-               "LastUpdated":"2022-04-28T01:13:37.126946+01:00",
-               "Url":"https://dl.dropbox.com/s/96ux8rpfa8po2gm/RetroArch%20%28DEX%29.zip?raw=true",
-               "InstallPaths":[
-                  "/dev_hdd0/packages/RetroArch.PS3.DEX.PS3.pkg"
-               ]
-            }
+          {
+            "Name": "RetroArch (CEX)",
+            "Region": "",
+            "Version": "1.9.0",
+            "LastUpdated": "2022-04-28T01:13:37.126946+01:00",
+            "Url": "https://dl.dropbox.com/s/4qjccszzp16g4ji/RetroArch%20%28CEX%29.zip?raw=true",
+            "InstallPaths": [
+              "/dev_hdd0/packages/RetroArch.PS3.CEX.PS3.pkg"
+            ]
+          },
+          {
+            "Name": "RetroArch (DEX)",
+            "Region": "",
+            "Version": "1.9.0",
+            "LastUpdated": "2022-04-28T01:13:37.126946+01:00",
+            "Url": "https://dl.dropbox.com/s/8x6h0ffprb36vbe/RetroArch%20%28DEX%29.zip?raw=true",
+            "InstallPaths": [
+              "/dev_hdd0/packages/RetroArch.PS3.DEX.PS3.pkg"
+            ]
+          }
          ]
       },
       {
