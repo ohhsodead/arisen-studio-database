@@ -87,7 +87,7 @@
       "Region": "",
       "CreatedBy": "Andreas Smas / deank",
       "SubmittedBy": "ohhsodead",
-      "Version": "5.0.548 & 5.0.722",
+      "Version": "5.0.548 & 5.0.730",
       "GameMode": "",
       "ModType": "PKG",
       "Description": "Movian (formerly known as Showtime Media Center) is a media player for use on HTPC media centers. It is primarily intended to be controlled via keypad input such as a IR or bluetooth remote control, keyboards, etc but works also very well with a pointer device.\n\nA quick overview of its features:\n- Playback of video (mkv, mpg, mp4, divx, etc.) and audio files\n- .srt, txt and .sub (Microdvd) subtitles support\n- Per-file and per-folder settings\n- Javascript plugins\n- Unified search\n- View photos and images in slideshow mode\n- Live TV streaming from Tvheadend\n- Icecast/Shoutcast radio streaming\n- Navi-X, YouTube, Opensubtitles integration\n- FTP Server, NTFS support, Temperature monitor\n- FTP client support (Stream content directly from FTP servers)\n- Custom background (via plugin)\n- Support for BIG5 character encoding, On Screen Keyboard layouts.\n\nAvailable on Android, Linux, OS/X, Raspberry Pi and PS3\n\nNote: Movian has its own project site where you can learn and even participate. Also you can download the latest releases in the download page.",
@@ -105,11 +105,11 @@
         {
           "Name": "Movian (deank)",
           "Region": "",
-          "Version": "5.0.724",
-          "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
+          "Version": "5.0.730",
+          "LastUpdated": "2023-01-10T01:13:37.126946+01:00",
           "Url": "https://dl.dropbox.com/s/0z482kzxy9y7jx7/Movian%20%28deank%29.zip?raw=true",
           "InstallPaths": [
-            "/dev_hdd0/packages/movian-5.0.724-deank.pkg"
+            "/dev_hdd0/packages/movian-5.0.730-deank.pkg"
           ]
         }
       ]
@@ -262,10 +262,10 @@
           "Name": "IRISMAN Full Edition",
           "Region": "",
           "Version": "4.89",
-          "LastUpdated": "2022-08-12T01:13:37.126946+01:00",
+          "LastUpdated": "2023-01-08T01:13:37.126946+01:00",
           "Url": "https://dl.dropbox.com/s/tpmu019c4smzfz3/IRISMAN%20Full%20Edition.zip?raw=true",
           "InstallPaths": [
-            "/dev_hdd0/packages/IRISMAN_4.89.pkg.874.v4.89.pkg"
+            "/dev_hdd0/packages/IRISMAN_4.89.pkg.583.v4.89.pkg"
           ]
         }
       ]
@@ -601,7 +601,7 @@
           "Name": "webMAN MOD",
           "Region": "",
           "Version": "1.47.42",
-          "LastUpdated": "2022-12-04T01:13:37.126946+01:00",
+          "LastUpdated": "2023-01-11T01:13:37.126946+01:00",
           "InstallPaths": [
 
             "/dev_hdd0/packages/webMAN_MOD_1.47.42_Installer.pkg"
