@@ -43,7 +43,7 @@ body:
   - type: checkboxes
     id: consoletype
     attributes:
-      label: Code of Conduct
+      label: System Type
       description: |
         If the platform is PlayStation 3, then you must choose at least one console type that is supported.
       options:
