@@ -253,7 +253,7 @@
          "Region":"",
          "CreatedBy":"various",
          "SubmittedBy":"ohhsodead",
-         "Version":"4.89",
+         "Version":"4.90",
          "GameMode":"",
          "ModType":"PKG",
          "Description":"Iris Manager fork including latest mamba from NzV..\n\nCredits:\n- Iris Manager: Estwald / D_skywalk\n- IRISMAN: aldostools\n- Unofficial IRISMAN Updates: Joonie / Alexander\n\n- Mamba support by Estwald, NzV, Rancid-O, Joonie, Habib, aldostools, Zar, littlebalup, KW, Alexander, Haxxxen, Evilnat, deank, Team Cobra\n- Zip, rar, 7z support by bucanero",
@@ -261,11 +261,11 @@
             {
                "Name":"IRISMAN Full Edition",
                "Region":"",
-               "Version":"4.89",
-               "LastUpdated":"2023-02-11T01:13:37.126946+01:00",
+               "Version":"4.90",
+               "LastUpdated":"2023-03-07T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/tpmu019c4smzfz3/IRISMAN%20Full%20Edition.zip?raw=true",
                "InstallPaths":[
-                  "/dev_hdd0/packages/IRISMAN_4.89.pkg"
+                  "/dev_hdd0/packages/IRISMAN_4.90.pkg"
                ]
             }
          ]
@@ -592,7 +592,7 @@
          "Region":"",
          "CreatedBy":"aldostools",
          "SubmittedBy":"ohhsodead",
-         "Version":"1.47.43",
+         "Version":"1.47.44",
          "GameMode":"",
          "ModType":"PKG",
          "Description":"webMAN MOD is a homebrew plugin with many features added on the original webMAN/sMAN by Deank. We wanted to integrate most of the existing features available on the PS3 Scene like an AIO plugin, and webMAN MOD was born.\n\n\n- For content stored remotely on PC use ps3netsrv_20190701.zip\n- For ROMS support install ROMS/PKG Launcher and RetroArch.\n- For NTFS support on lite edition, scan content with prepNTFS\n- For PS2 Classics games install the CONFIG database & PS2 Classics Launcher\n- For PSP ISO install both PSP launchers for Minis & Remasters\n\n\nVisit the Official GitHub repository for additional add-ons, source code and previous versions",
@@ -601,9 +601,9 @@
                "Name":"webMAN MOD",
                "Region":"",
                "Version":"1.47.43",
-               "LastUpdated":"2023-02-12T01:13:37.126946+01:00",
+               "LastUpdated":"2023-03-19T01:13:37.126946+01:00",
                "InstallPaths":[
-                  "/dev_hdd0/packages/webMAN_MOD_1.47.43_Installer.pkg"
+                  "/dev_hdd0/packages/webMAN_MOD_1.47.44_Installer.pkg"
                ]
             }
          ]
@@ -799,7 +799,7 @@
          "Region":"",
          "CreatedBy":"Bucanero",
          "SubmittedBy":"ohhsodead",
-         "Version":"1.7.4",
+         "Version":"1.8.0",
          "GameMode":"",
          "ModType":"PKG",
          "Description":"Apollo Save Tool is an application to manage save-game files on the PlayStation 3.\n\nThe apollo-ps3 homebrew app allows to download, unlock, patch and resign save-game files directly on your PS3.",
@@ -807,8 +807,8 @@
             {
                "Name":"Apollo Save Tool",
                "Region":"",
-               "Version":"1.7.4",
-               "LastUpdated":"2022-10-28T01:13:37.126946+01:00",
+               "Version":"1.8.0",
+               "LastUpdated":"2023-01-28T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/kqwuvt4ktufx8c6/Apollo%20Save%20Tool.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/apollo-ps3.pkg"
@@ -877,7 +877,7 @@
          "Region":"",
          "CreatedBy":"bucanero",
          "SubmittedBy":"ohhsodead",
-         "Version":"1.2.2",
+         "Version":"1.2.4",
          "GameMode":"",
          "ModType":"PKG",
          "Description":"PKGi PS3 is a PlayStation 3 port of PSVita pkgi.",
@@ -885,11 +885,11 @@
             {
                "Name":"PKGi",
                "Region":"",
-               "Version":"1.2.2",
+               "Version":"1.2.4",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/thbx4qdh2h246fj/PKGi.zip?raw=true",
                "InstallPaths":[
-                  "/dev_hdd0/packages/pkgi-ps3.pkg.485.v1.2.2_brewology_com.pkg"
+                  "/dev_hdd0/packages/pkgi-ps3-1.2.4.pkg"
                ]
             }
          ]
