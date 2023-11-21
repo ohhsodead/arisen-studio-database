@@ -237,6 +237,15 @@
          ]
       },
       {
+         "Title":"Far Cry 4",
+         "Id":"fc4",
+         "Type":"game",
+         "Regions":[
+            "BLUS31420",
+            "BLES02011"
+         ]
+      },
+      {
          "Title":"Call of Duty: Advanced Warfare",
          "Id":"codaw",
          "Type":"game",

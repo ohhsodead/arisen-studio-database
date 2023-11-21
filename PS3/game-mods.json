@@ -8032,6 +8032,32 @@
                ]
             }
          ]
+      },
+      {
+         "Platform":"PS3",
+         "Id":387,
+         "CategoryId":"fc4",
+         "Name":"Simple Mod Menu",
+         "FirmwareType":"CEX/DEX",
+         "Region":"BLES",
+         "CreatedBy":"crytek",
+         "SubmittedBy":"oliver",
+         "Version":"1.0",
+         "GameMode":"MP",
+         "ModType":"EBOOT",
+         "Description":"ENJOY GOOD GAMME ",
+         "DownloadFiles":[
+            {
+               "Name":"Simple Mod Menu",
+               "Region":"BLES02011",
+               "Version":"1.0",
+               "LastUpdated":"2023-11-21T01:13:37.126946+01:00",
+               "Url":"https://dl.dropbox.com/scl/fi/3a15i1pgq7kj00x4i0187/Simple-Mod-Menu.zip?rlkey=jnijhxm251jgcduyc2r6r4tyc&raw=true",
+               "InstallPaths":[
+                  "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
+               ]
+            }
+         ]
       }
    ]
 }
