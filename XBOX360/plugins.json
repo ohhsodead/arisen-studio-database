@@ -1241,29 +1241,6 @@
           ]
         }
       ]
-    },
-    {
-      "Platform": "XBOX",
-      "CategoryId": "codbo1",
-      "Id": 55,
-      "Name": "Myten Menu",
-      "CreatedBy": "Smokey xKoVx",
-      "SubmittedBy": "Moxah",
-      "Version": "1.0",
-      "GameMode": "MP",
-      "ModType": "XEX",
-      "Description": "Q1: How to access all client menu?\nAnswer: You use the player menu inside the off host!\n\nQ2: Why does this menu crash?\nAnswer 1: Make sure your game is on the latest update\nAnswer 2: Disable stealth server cheats\nAnswer 3: If still crashing then it is your stealth\n\nUpdates:\nIf any updates come out, they will be released on my youtube @Smokey xKoVx.\n\nIf you find any bugs, then be sure to let me know!\n\nHope you enjoy this free mod menu!\n\nOptional Load Screen:\nIf you wish to use my load screen, place the file inside\nyour black ops folder (Where all the files are)",
-      "DownloadFiles": [
-        {
-          "Name": "Myten Menu",
-          "Version": "1.0",
-          "LastUpdated": "2023-12-20T01:13:37.126946+01:00",
-          "Url": "https://dl.dropbox.com/scl/fi/1s3jixnk8r05rb26mw26p/Exclusion-Menu.zip?rlkey=afljlouebi7sylqupmxrzsrc0?raw=true",
-          "InstallPaths": [
-            "Hdd:\\Arisen Mods\\{CATEGORYID}\\Myten V1 Bo1.xex"
-          ]
-        }
-      ]
     }
   ]
 }
