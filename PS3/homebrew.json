@@ -87,7 +87,7 @@
          "Region":"",
          "CreatedBy":"Andreas Smas / deank",
          "SubmittedBy":"ohhsodead",
-         "Version":"5.0.548 & 5.0.730",
+         "Version":"5.0.548 & 5.0.753",
          "GameMode":"",
          "ModType":"PKG",
          "Description":"Movian (formerly known as Showtime Media Center) is a media player for use on HTPC media centers. It is primarily intended to be controlled via keypad input such as a IR or bluetooth remote control, keyboards, etc but works also very well with a pointer device.\n\nA quick overview of its features:\n- Playback of video (mkv, mpg, mp4, divx, etc.) and audio files\n- .srt, txt and .sub (Microdvd) subtitles support\n- Per-file and per-folder settings\n- Javascript plugins\n- Unified search\n- View photos and images in slideshow mode\n- Live TV streaming from Tvheadend\n- Icecast/Shoutcast radio streaming\n- Navi-X, YouTube, Opensubtitles integration\n- FTP Server, NTFS support, Temperature monitor\n- FTP client support (Stream content directly from FTP servers)\n- Custom background (via plugin)\n- Support for BIG5 character encoding, On Screen Keyboard layouts.\n\nAvailable on Android, Linux, OS/X, Raspberry Pi and PS3\n\nNote: Movian has its own project site where you can learn and even participate. Also you can download the latest releases in the download page.",
@@ -105,11 +105,11 @@
             {
                "Name":"Movian (deank)",
                "Region":"",
-               "Version":"5.0.730",
-               "LastUpdated":"2023-01-10T01:13:37.126946+01:00",
+               "Version":"5.0.753",
+               "LastUpdated":"2023-12-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/0z482kzxy9y7jx7/Movian%20%28deank%29.zip?raw=true",
                "InstallPaths":[
-                  "/dev_hdd0/packages/movian-5.0.730-deank.pkg"
+                  "/dev_hdd0/packages/movian-5.0.753-deank.pkg"
                ]
             }
          ]
@@ -800,7 +800,7 @@
          "Region":"",
          "CreatedBy":"Bucanero",
          "SubmittedBy":"ohhsodead",
-         "Version":"1.8.0",
+         "Version":"1.8.7",
          "GameMode":"",
          "ModType":"PKG",
          "Description":"Apollo Save Tool is an application to manage save-game files on the PlayStation 3.\n\nThe apollo-ps3 homebrew app allows to download, unlock, patch and resign save-game files directly on your PS3.",
@@ -808,8 +808,8 @@
             {
                "Name":"Apollo Save Tool",
                "Region":"",
-               "Version":"1.8.0",
-               "LastUpdated":"2023-01-28T01:13:37.126946+01:00",
+               "Version":"1.8.7",
+               "LastUpdated":"2023-12-02T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/kqwuvt4ktufx8c6/Apollo%20Save%20Tool.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/apollo-ps3.pkg"
