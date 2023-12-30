@@ -4,31 +4,37 @@
          "CategoryId":"gta5",
          "Message":"",
          "ImageUrl":"https://assetsio.reedpopcdn.com/grand-theft-auto-5-1647623589100.jpg",
-         "Platform":"PS3|XBOX"
+         "Platform":"PS3/XBOX"
       },
       {
          "CategoryId":"codbo",
          "Message":"",
          "ImageUrl":"https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-black-ops/5/5d/1280x1024_codbo1_title.jpg",
-         "Platform":"PS3|XBOX"
+         "Platform":"PS3/XBOX"
       },
       {
          "CategoryId":"codmw2",
          "Message":"",
          "ImageUrl":"https://assets-prd.ignimgs.com/2023/07/28/mw2-1690537150835.jpg",
-         "Platform":"PS3|XBOX"
+         "Platform":"PS3/XBOX"
       },
       {
          "CategoryId":"codbo2",
          "Message":"",
          "ImageUrl":"https://assets-prd.ignimgs.com/2022/12/21/top10-callofdutycampaigns-blogroll-1671628720951.jpg",
-         "Platform":"PS3|XBOX"
+         "Platform":"PS3/XBOX"
       },
       {
          "CategoryId":"codmw3",
          "Message":"",
          "ImageUrl":"https://m.media-amazon.com/images/I/815O+77Z8AL.jpg",
-         "Platform":"PS3|XBOX"
+         "Platform":"PS3/XBOX"
+      },
+      {
+         "CategoryId":"codwaw",
+         "Message":"",
+         "ImageUrl":"https://darkzero.co.uk/wp-content/uploads/2008/11/codworldatwar-2.jpg",
+         "Platform":"PS3/XBOX"
       },
       {
          "CategoryId":"bf4",
@@ -37,10 +43,10 @@
          "Platform":"PS3"
       },
       {
-         "CategoryId":"codbo",
+         "CategoryId":"sk3",
          "Message":"",
-         "ImageUrl":"",
-         "Platform":"XBOX"
+         "ImageUrl":"https://emuladorps3.com/wp-content/uploads/Skate-3-ROM-1-300x169.jpg",
+         "Platform":"PS3"
       }
    ]
 }
