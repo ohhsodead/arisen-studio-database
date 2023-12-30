@@ -9,31 +9,25 @@
       {
          "CategoryId":"codbo",
          "Message":"",
-         "ImageUrl":"",
+         "ImageUrl":"https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-black-ops/5/5d/1280x1024_codbo1_title.jpg",
+         "Platform":"PS3"
+      },      
+      {
+         "CategoryId":"codmw3",
+         "Message":"",
+         "ImageUrl":"https://m.media-amazon.com/images/I/815O+77Z8AL.jpg",
          "Platform":"PS3"
       },
       {
          "CategoryId":"gta5",
          "Message":"",
-         "ImageUrl":"",
-         "Platform":"XBOX"
-      },
-      {
-         "CategoryId":"gta5",
-         "Message":"",
-         "ImageUrl":"",
-         "Platform":"XBOX"
-      },
-      {
-         "CategoryId":"gta5",
-         "Message":"",
-         "ImageUrl":"",
+         "ImageUrl":"https://assetsio.reedpopcdn.com/grand-theft-auto-5-1647623589100.jpg",
          "Platform":"XBOX"
       },
       {
          "CategoryId":"codmw3",
          "Message":"",
-         "ImageUrl":"",
+         "ImageUrl":"https://m.media-amazon.com/images/I/815O+77Z8AL.jpg",
          "Platform":"XBOX"
       },
       {
