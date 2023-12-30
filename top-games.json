@@ -4,37 +4,37 @@
          "CategoryId":"gta5",
          "Message":"",
          "ImageUrl":"https://assetsio.reedpopcdn.com/grand-theft-auto-5-1647623589100.jpg",
-         "Platform":"PS3"
+         "Platform":"PS3|XBOX"
       },
       {
          "CategoryId":"codbo",
          "Message":"",
          "ImageUrl":"https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-black-ops/5/5d/1280x1024_codbo1_title.jpg",
-         "Platform":"PS3"
-      },      
-      {
-         "CategoryId":"codmw3",
-         "Message":"",
-         "ImageUrl":"https://m.media-amazon.com/images/I/815O+77Z8AL.jpg",
-         "Platform":"PS3"
+         "Platform":"PS3|XBOX"
       },
       {
-         "CategoryId":"gta5",
+         "CategoryId":"codmw2",
          "Message":"",
-         "ImageUrl":"https://assetsio.reedpopcdn.com/grand-theft-auto-5-1647623589100.jpg",
-         "Platform":"XBOX"
-      },
-      {
-         "CategoryId":"codmw3",
-         "Message":"",
-         "ImageUrl":"https://m.media-amazon.com/images/I/815O+77Z8AL.jpg",
-         "Platform":"XBOX"
+         "ImageUrl":"https://assets-prd.ignimgs.com/2023/07/28/mw2-1690537150835.jpg",
+         "Platform":"PS3|XBOX"
       },
       {
          "CategoryId":"codbo2",
          "Message":"",
-         "ImageUrl":"",
-         "Platform":"XBOX"
+         "ImageUrl":"https://assets-prd.ignimgs.com/2022/12/21/top10-callofdutycampaigns-blogroll-1671628720951.jpg",
+         "Platform":"PS3|XBOX"
+      },
+      {
+         "CategoryId":"codmw3",
+         "Message":"",
+         "ImageUrl":"https://m.media-amazon.com/images/I/815O+77Z8AL.jpg",
+         "Platform":"PS3|XBOX"
+      },
+      {
+         "CategoryId":"bf4",
+         "Message":"",
+         "ImageUrl":"https://assetsio.reedpopcdn.com/138304387418.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp",
+         "Platform":"PS3"
       },
       {
          "CategoryId":"codbo",
