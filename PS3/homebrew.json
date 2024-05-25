@@ -82,24 +82,24 @@
          "Platform":"PS3",
          "Id":4,
          "CategoryId":"ha",
-         "Name":"Movian (Official/deank)",
+         "Name":"Movian M7 (Official/deank)",
          "FirmwareType":"CEX/DEX",
          "Region":"",
          "CreatedBy":"Andreas Smas / deank",
          "SubmittedBy":"ohhsodead",
-         "Version":"5.0.548 & 5.0.753",
+         "Version":"7.0.75 & 5.0.753",
          "GameMode":"",
          "ModType":"PKG",
-         "Description":"Movian (formerly known as Showtime Media Center) is a media player for use on HTPC media centers. It is primarily intended to be controlled via keypad input such as a IR or bluetooth remote control, keyboards, etc but works also very well with a pointer device.\n\nA quick overview of its features:\n- Playback of video (mkv, mpg, mp4, divx, etc.) and audio files\n- .srt, txt and .sub (Microdvd) subtitles support\n- Per-file and per-folder settings\n- Javascript plugins\n- Unified search\n- View photos and images in slideshow mode\n- Live TV streaming from Tvheadend\n- Icecast/Shoutcast radio streaming\n- Navi-X, YouTube, Opensubtitles integration\n- FTP Server, NTFS support, Temperature monitor\n- FTP client support (Stream content directly from FTP servers)\n- Custom background (via plugin)\n- Support for BIG5 character encoding, On Screen Keyboard layouts.\n\nAvailable on Android, Linux, OS/X, Raspberry Pi and PS3\n\nNote: Movian has its own project site where you can learn and even participate. Also you can download the latest releases in the download page.",
+         "Description":"Movian (formerly known as Showtime Media Center) is a media player for use on HTPC media centers. It is primarily intended to be controlled via keypad input such as a IR or bluetooth remote control, keyboards, etc but works also very well with a pointer device.\n\nA quick overview of its features:\n- Playback of video (mkv, mpg, mp4, divx, etc.) and audio files\n- .srt, txt and .sub (Microdvd) subtitles support\n- Per-file and per-folder settings\n- Javascript plugins\n- Unified search\n- View photos and images in slideshow mode\n- Live TV streaming from Tvheadend\n- Icecast/Shoutcast radio streaming\n- Navi-X, YouTube, Opensubtitles integration\n- FTP Server, NTFS support, Temperature monitor\n- FTP client support (Stream content directly from FTP servers)\n- Custom background (via plugin)\n- Support for BIG5 character encoding, On Screen Keyboard layouts.",
          "DownloadFiles":[
             {
                "Name":"Movian (Official)",
                "Region":"",
                "Version":"5.0.548",
-               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "LastUpdated":"2024-05-11T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/7lqszypetmtixcv/Movian%20%28Official%29.zip?raw=true",
                "InstallPaths":[
-                  "/dev_hdd0/packages/movian-5.0.548.pkg.197.v5.0.548.pkg"
+                  "/dev_hdd0/packages/movianM7-7.0.75.pkg"
                ]
             },
             {
@@ -187,7 +187,7 @@
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/vosuvlrb9gden6m/HAN%20Toolbox.zip?raw=true",
                "InstallPaths":[
-                  "/dev_hdd0/packages/HAN_Toolbox_v0.7.1_CEX-EN.pkg.736.v0.7.1_brewology_com.pkg"
+                  "/dev_hdd0/packages/HAN_Toolbox.pkg"
                ]
             }
          ]
@@ -253,7 +253,7 @@
          "Region":"",
          "CreatedBy":"various",
          "SubmittedBy":"ohhsodead",
-         "Version":"4.90",
+         "Version":"4.91",
          "GameMode":"",
          "ModType":"PKG",
          "Description":"Iris Manager fork including latest mamba from NzV..\n\nCredits:\n- Iris Manager: Estwald / D_skywalk\n- IRISMAN: aldostools\n- Unofficial IRISMAN Updates: Joonie / Alexander\n\n- Mamba support by Estwald, NzV, Rancid-O, Joonie, Habib, aldostools, Zar, littlebalup, KW, Alexander, Haxxxen, Evilnat, deank, Team Cobra\n- Zip, rar, 7z support by bucanero",
@@ -262,10 +262,10 @@
                "Name":"IRISMAN Full Edition",
                "Region":"",
                "Version":"4.90",
-               "LastUpdated":"2023-03-07T01:13:37.126946+01:00",
+               "LastUpdated":"2024-03-10T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/tpmu019c4smzfz3/IRISMAN%20Full%20Edition.zip?raw=true",
                "InstallPaths":[
-                  "/dev_hdd0/packages/IRISMAN_4.90.pkg"
+                  "/dev_hdd0/packages/IRISMAN_4.91.pkg"
                ]
             }
          ]
@@ -592,7 +592,7 @@
          "Region":"",
          "CreatedBy":"aldostools",
          "SubmittedBy":"ohhsodead",
-         "Version":"1.47.45",
+         "Version":"1.47.46",
          "GameMode":"",
          "ModType":"PKG",
          "Description":"webMAN MOD is a homebrew plugin with many features added on the original webMAN/sMAN by Deank. We wanted to integrate most of the existing features available on the PS3 Scene like an AIO plugin, and webMAN MOD was born.\n\n\n- For content stored remotely on PC use ps3netsrv_20190701.zip\n- For ROMS support install ROMS/PKG Launcher and RetroArch.\n- For NTFS support on lite edition, scan content with prepNTFS\n- For PS2 Classics games install the CONFIG database & PS2 Classics Launcher\n- For PSP ISO install both PSP launchers for Minis & Remasters\n\n\nVisit the Official GitHub repository for additional add-ons, source code and previous versions",
@@ -600,11 +600,11 @@
             {
                "Name":"webMAN MOD",
                "Region":"",
-               "Version":"1.47.45",
-               "LastUpdated":"2023-07-29T01:13:37.126946+01:00",
+               "Version":"1.47.46",
+               "LastUpdated":"2024-05-24T01:13:37.126946+01:00",
 			   "Url":"https://dl.dropbox.com/s/p5eijohlv4t6sk4/webMAN%20MOD.zip?raw=true",
                "InstallPaths":[
-                  "/dev_hdd0/packages/webMAN_MOD_1.47.45_Installer.pkg"
+                  "/dev_hdd0/packages/webMAN_MOD_1.47.46_Installer"
                ]
             }
          ]
@@ -800,7 +800,7 @@
          "Region":"",
          "CreatedBy":"Bucanero",
          "SubmittedBy":"ohhsodead",
-         "Version":"1.8.7",
+         "Version":"2.0.0",
          "GameMode":"",
          "ModType":"PKG",
          "Description":"Apollo Save Tool is an application to manage save-game files on the PlayStation 3.\n\nThe apollo-ps3 homebrew app allows to download, unlock, patch and resign save-game files directly on your PS3.",
@@ -808,8 +808,8 @@
             {
                "Name":"Apollo Save Tool",
                "Region":"",
-               "Version":"1.8.7",
-               "LastUpdated":"2023-12-02T01:13:37.126946+01:00",
+               "Version":"2.0.0",
+               "LastUpdated":"2024-04-10T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/kqwuvt4ktufx8c6/Apollo%20Save%20Tool.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/apollo-ps3.pkg"
@@ -1541,6 +1541,32 @@
                "Version":"1.2.2",
                "LastUpdated":"2022-10-24T01:13:37.126946+01:00",
                "Url":"https://dl.dropbox.com/s/6o9m4lvjo832fsl/Akari.zip?raw=true",
+               "InstallPaths":[
+                  "/dev_hdd0/plugins/Akari.sprx"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"PS3",
+         "Id":59,
+         "CategoryId":"ha",
+         "Name":"ezRemote Client",
+         "FirmwareType":"CEX/DEX/HEN",
+         "Region":"",
+         "CreatedBy":"cy33hc",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.02",
+         "GameMode":"",
+         "ModType":"PKG",
+         "Description":"This is a port of ezRemote Client for the PS3 that exists on the Vita, Switch and PS4.\nInstall PKG files from any remote Server using FTP / SMB / NFS / WebDAV / HTTP protocols.\n\n##Features\n- Connect to and transfer files back and forth between PS3 and FTP/SMB/NFS/WebDAV/HTTP server\n- Support for connecting to Http Servers like (Apache,Nginx,RClone,Microsoft IIS, NPX Serve) with html directory listings.\n- Install PKG files from any remote Server. This will automatically download the PKG to the PS3 and install the rap/rif files if any found. Creates the install bubble in the "PlayStation Network Content" of Package Manager.\n- The rap/rif files must be in the same folder or in a exdata sub folder where the PKG file exists on the remote server. If a rif file already exists in the PS3 account, the rif file won't be replaced. See example screenshot\n- In the application settings dialog, you have the option of chosing the PS3 account for installation of the rap/rif files\n- For WebDAV and HTTP Servers that doesn't require username/password, you have the option to enable Backgroud downloads. Just like PS3 PKGi, you need to restart the PS3 for background downloads to start.\n- Create Zip files\n- Extract from zip and 7zip files\n- File management function include cut/copy/paste/rename/delete/new folder/file for files on PS3.\n- Simple Text Editor to make simply changes to config text files. Limited to edit files over 32kb and limited to edit lines up to 512 characters. If you try edit lines longer then 512 characters, it will be truncated. For common text files with the following extensions (txt, log, ini, json, xml, html, conf, config) selecting them in the file browser with the X button will automatically open the Text Editor.\n\n## Known Issues\nUI Glitches, but doesn't affect functionality. Will try to address the UI glitches later on.\n\nPS3 ezRemote Client v1.01\n- Add ability to extract ZIP, RAR, 7ZIP, tar, tar.gz, tar.bz2 directly from Local and Remote Servers",
+         "DownloadFiles":[
+            {
+               "Name":"ezRemote Client",
+               "Region":"",
+               "Version":"1.02",
+               "LastUpdated":"2024-04-23T01:13:37.126946+01:00",
+               "Url":"https://dl.dropbox.com/scl/fi/66r33d5v7am7vj3qk5avp/ezRemote-Client.zip?rlkey=iw5vc77bfwt5me0i4ajrkg583&st=cqxpu8cd&raw=true",
                "InstallPaths":[
                   "/dev_hdd0/plugins/Akari.sprx"
                ]
