@@ -592,7 +592,7 @@
          "Region":"",
          "CreatedBy":"aldostools",
          "SubmittedBy":"ohhsodead",
-         "Version":"1.47.46",
+         "Version":"1.47.46e",
          "GameMode":"",
          "ModType":"PKG",
          "Description":"webMAN MOD is a homebrew plugin with many features added on the original webMAN/sMAN by Deank. We wanted to integrate most of the existing features available on the PS3 Scene like an AIO plugin, and webMAN MOD was born.\n\n\n- For content stored remotely on PC use ps3netsrv_20190701.zip\n- For ROMS support install ROMS/PKG Launcher and RetroArch.\n- For NTFS support on lite edition, scan content with prepNTFS\n- For PS2 Classics games install the CONFIG database & PS2 Classics Launcher\n- For PSP ISO install both PSP launchers for Minis & Remasters\n\n\nVisit the Official GitHub repository for additional add-ons, source code and previous versions",
@@ -600,11 +600,11 @@
             {
                "Name":"webMAN MOD",
                "Region":"",
-               "Version":"1.47.46",
-               "LastUpdated":"2024-05-24T01:13:37.126946+01:00",
+               "Version":"1.47.46e",
+               "LastUpdated":"2024-06-09T01:13:37.126946+01:00",
 			   "Url":"https://dl.dropbox.com/s/p5eijohlv4t6sk4/webMAN%20MOD.zip?raw=true",
                "InstallPaths":[
-                  "/dev_hdd0/packages/webMAN_MOD_1.47.46_Installer"
+                  "/dev_hdd0/packages/webMAN_MOD_1.47.46_Installer.pkg"
                ]
             }
          ]
