@@ -18,6 +18,14 @@
          ]
       },
       {
+         "Title":"Applications",
+         "Id":"app",
+         "Type":"application",
+         "Regions":[
+            
+         ]
+      },
+      {
          "Title":"Fallout: New Vegas - Ultimate Edition",
          "Id":"falloutnvue",
          "Type":"game",
@@ -403,6 +411,14 @@
          "Title":"Emulators",
          "Id":"emu",
          "Type":"homebrew",
+         "Regions":[
+            
+         ]
+      },
+      {
+         "Title":"Emulators",
+         "Id":"emu",
+         "Type":"application",
          "Regions":[
             
          ]
@@ -816,6 +832,22 @@
          "Title":"XMB",
          "Id":"xmbr",
          "Type":"resource",
+         "Regions":[
+            
+         ]
+      },
+      {
+         "Title":"Utility",
+         "Id":"util",
+         "Type":"application",
+         "Regions":[
+            
+         ]
+      },
+      {
+         "Title":"Media",
+         "Id":"media",
+         "Type":"application",
          "Regions":[
             
          ]

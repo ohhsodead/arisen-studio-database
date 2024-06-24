@@ -1,0 +1,1139 @@
+{
+   "Mods":[
+      {
+         "Platform":"PS4",
+         "Id":1,
+         "CategoryId":"util",
+         "Name":"PS4 Controller Homebrew",
+         "CreatedBy":"LM",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.00",
+         "PlayableVersion":"4.55+",
+         "TitleId":"NPXX51364",
+         "Description":"Utility to test PS4 controllers, WARNING pressing the touch bar will crash it",
+         "DownloadFiles":[
+            {
+               "Name":"PS4 Controller Homebrew",
+               "Version":"1.00",
+               "PlayableVersion":"4.55+",
+               "LastUpdated":"2024-06-12T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":2,
+         "CategoryId":"util",
+         "Name":"Apollo Save Tool",
+         "CreatedBy":"bucanero",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.4.4",
+         "PlayableVersion":"5.05+",
+         "TitleId":"APOL00004",
+         "Description":"Automatic Save-mounting (GoldHEN or ps4debug required) Offline Account activation Show Parental security passcode Save Keystone fingerprint dump",
+         "DownloadFiles":[
+            {
+               "Name":"Apollo Save Tool",
+               "Version":"1.4.4",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-06-12T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            },
+            {
+               "Name":"Apollo Save Tool",
+               "Version":"1.4.2",
+               "PlayableVersion":"5.05, 6.72, 7.5X, 9.00",
+               "LastUpdated":"2024-06-12T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":3,
+         "CategoryId":"util",
+         "Name":"PS4 Player 3D",
+         "CreatedBy":"Lapy",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.01",
+         "PlayableVersion":"5.05+",
+         "TitleId":"LAPY20014",
+         "Description":"3D Video Player with VR Support (No required)",
+         "DownloadFiles":[
+            {
+               "Name":"PS4 Player 3D",
+               "Version":"1.01",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-06-12T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":4,
+         "CategoryId":"util",
+         "Name":"PS4 Kernel BTTF",
+         "CreatedBy":"Lapy",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.01",
+         "PlayableVersion":"5.05",
+         "TitleId":"LAPY20010",
+         "Description":"Utility to set the internal clock date/time",
+         "DownloadFiles":[
+            {
+               "Name":"PS4 Kernel BTTF",
+               "Version":"1.01",
+               "PlayableVersion":"5.05",
+               "LastUpdated":"2024-06-12T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":5,
+         "CategoryId":"util",
+         "Name":"Cheats Manager",
+         "CreatedBy":"Lapy",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.2.0",
+         "PlayableVersion":"5.05/6.72/7.5X/9.00",
+         "TitleId":"CHTM00777",
+         "Description":"Cheats Manager is a simple PS4 homebrew application that manages cheat codes files.",
+         "DownloadFiles":[
+            {
+               "Name":"Cheats Manager",
+               "Version":"1.2.0",
+               "PlayableVersion":"5.05/6.72/7.5X/9.00",
+               "LastUpdated":"2024-06-12T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":6,
+         "CategoryId":"util",
+         "Name":"GameBaTo",
+         "CreatedBy":"gamebato",
+         "SubmittedBy":"ohhsodead",
+         "Version":"0.0",
+         "PlayableVersion":"5.05+",
+         "TitleId":"GBTX00000",
+         "Description":"Your Ultimate Fpkg app for PS4 Discover a world of Apps and enjoy hassle-free downloads and installations directly on your PS4. Access 2000+ Content on Your PS4 Explore an extensive online app store with over 2000 titles/effortlessly manage your games/and install DLC with a single click—all from the convenience of your PS4",
+         "DownloadFiles":[
+            {
+               "Name":"GameBaTo",
+               "Version":"0.0",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-06-12T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":7,
+         "CategoryId":"util",
+         "Name":"ezRemote Client",
+         "CreatedBy":"cy33hc",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.24",
+         "PlayableVersion":"4.55+",
+         "TitleId":"RMTC00001",
+         "Description":"ezRemote Client is an application that allows you to connect the PS4 to remote FTP/SMB/WebDAV/NFS/HTTP(Nginx,Apache,Serve,MS IIS) and Google Drive to transfer files.",
+         "DownloadFiles":[
+            {
+               "Name":"ezRemote Client",
+               "Version":"1.24",
+               "PlayableVersion":"4.55+",
+               "LastUpdated":"2024-06-12T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":8,
+         "CategoryId":"util",
+         "Name":"PS4 WebDAV Client",
+         "CreatedBy":"cy33hc",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.04",
+         "PlayableVersion":"4.55+",
+         "TitleId":"WDVC00001",
+         "Description":"Simple WebDAV client for the PS4. Allows you to transfer files between the PS4 and a local WebDAV server or Cloud Storage that supports WebDAV",
+         "DownloadFiles":[
+            {
+               "Name":"PS4 WebDAV Client",
+               "Version":"1.04",
+               "PlayableVersion":"4.55+",
+               "LastUpdated":"2024-06-12T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":9,
+         "CategoryId":"util",
+         "Name":"Itemzflow Game Manager",
+         "CreatedBy":"LM",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.04",
+         "PlayableVersion":"5.05+ != 6.72",
+         "TitleId":"ITEM00001",
+         "Description":"Itemzflow is a Free and Open source PS4 home menu alternative Itemzflow expands the beyond limits of Sony's ShellUI",
+         "DownloadFiles":[
+            {
+               "Name":"Itemzflow Game Manager",
+               "Version":"1.04",
+               "PlayableVersion":"5.05+ != 6.72",
+               "LastUpdated":"2024-06-12T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":10,
+         "CategoryId":"util",
+         "Name":"App Lock",
+         "CreatedBy":"Lapy",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.04",
+         "PlayableVersion":"5.05/6.72/7.02/7.5X/9.00",
+         "TitleId":"LAPY20004",
+         "Description":"HB for Lock PKG . Unity",
+         "DownloadFiles":[
+            {
+               "Name":"App Lock",
+               "Version":"1.07",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-06-12T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            },
+            {
+               "Name":"App Lock",
+               "Version":"1.06",
+               "PlayableVersion":"5.05/6.72/7.02/7.5X/9.00",
+               "LastUpdated":"2024-06-12T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":11,
+         "CategoryId":"util",
+         "Name":"Temperature",
+         "CreatedBy":"Lapy",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.06/1.07",
+         "PlayableVersion":"4.74/5.05/6.72/7.02/7.55/9.00",
+         "TitleId":"LAPY20006",
+         "Description":"PS4's APU Temp . Unity",
+         "DownloadFiles":[
+            {
+               "Name":"Temperature",
+               "Version":"1.07",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            },
+            {
+               "Name":"Temperature",
+               "Version":"1.06",
+               "PlayableVersion":"4.74/5.05/6.72/7.02/7.55/9.00",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":12,
+         "CategoryId":"util",
+         "Name":"NoBD Toolkit",
+         "CreatedBy":"LM/TW/Zeco",
+         "SubmittedBy":"ohhsodead",
+         "Version":"2.00",
+         "PlayableVersion":"5.05+",
+         "TitleId":"UDAT99998",
+         "Description":"Updates PS4s with NO Blu-Ray Drive Read the Guide @ https://orbis.repair before downloading",
+         "DownloadFiles":[
+            {
+               "Name":"NoBD Toolkit",
+               "Version":"2.00",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":13,
+         "CategoryId":"util",
+         "Name":"Payload Guest",
+         "CreatedBy":"AlAzif",
+         "SubmittedBy":"ohhsodead",
+         "Version":"0.98",
+         "PlayableVersion":"5.05+",
+         "TitleId":"AZIF00003",
+         "Description":"App to launch Payloads from a USB",
+         "DownloadFiles":[
+            {
+               "Name":"Payload Guest",
+               "Version":"0.98",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":14,
+         "CategoryId":"util",
+         "Name":"Brew",
+         "CreatedBy":"Flatz/TOXXIC407",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.0",
+         "PlayableVersion":"5.05",
+         "TitleId":"BREW69420",
+         "Description":"Modified Version of flatz's remote PKG Installer with an integrated Homebrew Store",
+         "DownloadFiles":[
+            {
+               "Name":"Brew",
+               "Version":"1.0",
+               "PlayableVersion":"5.05",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":15,
+         "CategoryId":"util",
+         "Name":"Consolepedia 3D",
+         "CreatedBy":"VitaHEX",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.32",
+         "PlayableVersion":"4.50+",
+         "TitleId":"VTHX21368",
+         "Description":"Consolepedia 3D is a virtual encyclopedia of game systems developed in Unity.",
+         "DownloadFiles":[
+            {
+               "Name":"Consolepedia 3D",
+               "Version":"1.32",
+               "PlayableVersion":"4.50+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":16,
+         "CategoryId":"util",
+         "Name":"Icon Mask",
+         "CreatedBy":"Lapy/Anubis",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.12/1.14/1.15",
+         "PlayableVersion":"4.50+",
+         "TitleId":"LAPY20007",
+         "Description":"App to change PS4 Icons",
+         "DownloadFiles":[
+            {
+               "Name":"Icon Mask",
+               "Version":"1.15",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            },
+            {
+               "Name":"Icon Mask",
+               "Version":"1.14",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            },
+            {
+               "Name":"Icon Mask",
+               "Version":"1.12",
+               "PlayableVersion":"5.05/9.00",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":17,
+         "CategoryId":"util",
+         "Name":"PluginX",
+         "CreatedBy":"xDPx",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.00",
+         "PlayableVersion":"5.05+",
+         "TitleId":"XDPX20006",
+         "Description":"R3 -Copy files from usb folder (/usb0 or /usb1) to the correct folder ( Folder structure on USB will be /usb0/PluginX/CUSA0001) [] - Create the esential folders on usb (/usb0/PluginX/)",
+         "DownloadFiles":[
+            {
+               "Name":"PluginX",
+               "Version":"1.00",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":18,
+         "CategoryId":"util",
+         "Name":"Tools",
+         "CreatedBy":"xDPx",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.33",
+         "PlayableVersion":"5.05+",
+         "TitleId":"XDPX20006",
+         "Description":"PS4 Utility Made with Unity",
+         "DownloadFiles":[
+            {
+               "Name":"Tools",
+               "Version":"1.33",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":19,
+         "CategoryId":"util",
+         "Name":"ReSys - Hybrid Installer",
+         "CreatedBy":"LM",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.01",
+         "PlayableVersion":"7.55/9.00",
+         "TitleId":"UDAT99999",
+         "Description":"Flashes a Debug Hybrid FW",
+         "DownloadFiles":[
+            {
+               "Name":"ReSys - Hybrid Installer",
+               "Version":"1.01",
+               "PlayableVersion":"7.55/9.00",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":20,
+         "CategoryId":"util",
+         "Name":"LogMeIn Hamachi (UNOFFICIAL)",
+         "CreatedBy":"Sleirsgoevy",
+         "SubmittedBy":"ohhsodead",
+         "Version":"0.2.3",
+         "PlayableVersion":"5.05/6.72/7.02/7.5X/9.00",
+         "TitleId":"BREW00179",
+         "Description":"LogMeIn Hamachi port HEN supported",
+         "DownloadFiles":[
+            {
+               "Name":"LogMeIn Hamachi (UNOFFICIAL)",
+               "Version":"0.2.3",
+               "PlayableVersion":"7.55/9.00",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":21,
+         "CategoryId":"util",
+         "Name":"PKGi",
+         "CreatedBy":"ThoeryWrong",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.00",
+         "PlayableVersion":"5.05+",
+         "TitleId":"PKGI00001",
+         "Description":"repo downloader Needs Mira",
+         "DownloadFiles":[
+            {
+               "Name":"PKGi",
+               "Version":"1.00",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":22,
+         "CategoryId":"util",
+         "Name":"Tiny PS4 Shell (Telnet Shell)",
+         "CreatedBy":"SB",
+         "SubmittedBy":"ohhsodead",
+         "Version":"0.0.1",
+         "PlayableVersion":"5.05+",
+         "TitleId":"BREW00009",
+         "Description":"PS4 Shell Daemon (Installer PKG)",
+         "DownloadFiles":[
+            {
+               "Name":"Tiny PS4 Shell (Telnet Shell)",
+               "Version":"0.0.1",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":23,
+         "CategoryId":"util",
+         "Name":"Pokemon",
+         "CreatedBy":"TER152/IIcolour_Spectrum",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.00",
+         "PlayableVersion":"4.55+",
+         "TitleId":"NPXX51522",
+         "Description":"Pokemon for the PS4",
+         "DownloadFiles":[
+            {
+               "Name":"Pokemon",
+               "Version":"1.00",
+               "PlayableVersion":"4.55+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":24,
+         "CategoryId":"util",
+         "Name":"Rogue Galaxy™ (uLaunchELF)",
+         "CreatedBy":"DarkElementPL",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.00",
+         "PlayableVersion":"5.05+",
+         "TitleId":"CUSA02222",
+         "Description":"PS2 Elf Loader ported to PS4",
+         "DownloadFiles":[
+            {
+               "Name":"Rogue Galaxy™ (uLaunchELF)",
+               "Version":"1.00",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":25,
+         "CategoryId":"util",
+         "Name":"MediaPlayer",
+         "CreatedBy":"RetroGamer74",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.00",
+         "PlayableVersion":"5.05",
+         "TitleId":"NPXX51363",
+         "Description":"MP4 player with Sound made using Unity",
+         "DownloadFiles":[
+            {
+               "Name":"MediaPlayer",
+               "Version":"1.00",
+               "PlayableVersion":"5.05",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":26,
+         "CategoryId":"util",
+         "Name":"PS4-Xplorer",
+         "CreatedBy":"Lapy/LM/xDP/Zeco",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.34",
+         "PlayableVersion":"4.55/4.74/5.01/5.05/6.72/7.5X/9.00",
+         "TitleId":"LAPY20001",
+         "Description":"File Manager for the PS4",
+         "DownloadFiles":[
+            {
+               "Name":"PS4-Xplorer",
+               "Version":"1.34",
+               "PlayableVersion":"4.55/4.74/5.01/5.05/6.72/7.5X/9.00",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":27,
+         "CategoryId":"util",
+         "Name":"PSN-Enabler (Troll)",
+         "CreatedBy":"TOXXIC407",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.00",
+         "PlayableVersion":"",
+         "TitleId":"PSNE99999",
+         "Description":"reenables PSN to restore online access",
+         "DownloadFiles":[
+            {
+               "Name":"PSN-Enabler (Troll)",
+               "Version":"1.00",
+               "PlayableVersion":"",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":28,
+         "CategoryId":"util",
+         "Name":"ORBISMAN (BETA)",
+         "CreatedBy":"LM",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.00",
+         "PlayableVersion":"4.55/5.05",
+         "TitleId":"NPXX33362",
+         "Description":"Utility App/Only available on 4.55-5.05 (do not install if you are above 505)",
+         "DownloadFiles":[
+            {
+               "Name":"ORBISMAN (BETA)",
+               "Version":"1.00",
+               "PlayableVersion":"4.55/5.05",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":29,
+         "CategoryId":"util",
+         "Name":"Remote PKG installer",
+         "CreatedBy":"Flatz",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.02",
+         "PlayableVersion":"5.05+",
+         "TitleId":"FLTZ00003",
+         "Description":"Allows you to install packages remotely/Req. fself patches",
+         "DownloadFiles":[
+            {
+               "Name":"Remote PKG installer",
+               "Version":"1.02",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":30,
+         "CategoryId":"util",
+         "Name":"Payload Loader",
+         "CreatedBy":"Flatz",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.00",
+         "PlayableVersion":"5.05",
+         "TitleId":"FLTZ00001",
+         "Description":"Payload Loader for the ELFs",
+         "DownloadFiles":[
+            {
+               "Name":"Payload Loader",
+               "Version":"1.00",
+               "PlayableVersion":"5.05",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":31,
+         "CategoryId":"util",
+         "Name":"PS4 Player",
+         "CreatedBy":"Lapy",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.07/1.08",
+         "PlayableVersion":"5.05/6.72/7.02/7.55/9.00",
+         "TitleId":"LAPY20002",
+         "Description":"Video Player for the PS4",
+         "DownloadFiles":[
+            {
+               "Name":"PS4 Player",
+               "Version":"1.08",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            },
+            {
+               "Name":"PS4 Player",
+               "Version":"1.07",
+               "PlayableVersion":"5.05/6.72/7.02/7.55/9.00",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":32,
+         "CategoryId":"util",
+         "Name":"PS4Vibe",
+         "CreatedBy":"AlAzif",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.02",
+         "PlayableVersion":"5.05+",
+         "TitleId":"AZIF00001",
+         "Description":"Utility to Make your Controller Vibrate",
+         "DownloadFiles":[
+            {
+               "Name":"PS4Vibe",
+               "Version":"1.02",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":33,
+         "CategoryId":"emu",
+         "Name":"pGEN - Portable Genesis Plus GX",
+         "CreatedBy":"Cpasjuste",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.0",
+         "PlayableVersion":"5.05+",
+         "TitleId":"PGEN00001",
+         "Description":"copy gamegear roms to '/data/pgen/gamegear/' copy megadrive roms to '/data/pgen/megadrive/' copy master system roms to '/data/pgen/sms/'",
+         "DownloadFiles":[
+            {
+               "Name":"pGEN - Portable Genesis Plus GX",
+               "Version":"6.7",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-06-12T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":34,
+         "CategoryId":"emu",
+         "Name":"Chip 8",
+         "CreatedBy":"Klairm",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.04",
+         "PlayableVersion":"9.00",
+         "TitleId":"CHIP80020",
+         "Description":"CHIP 8 Emulator/Interpreter ported to PS4 using OpenOrbis toolchain.",
+         "DownloadFiles":[
+            {
+               "Name":"Chip 8",
+               "Version":"1.04",
+               "PlayableVersion":"9.00",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":35,
+         "CategoryId":"emu",
+         "Name":"mGBA",
+         "CreatedBy":"Znullptr",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.00",
+         "PlayableVersion":"5.05+",
+         "TitleId":"ZZZZ00002",
+         "Description":"GBA Emulator Add all roms to a folder in /data via ftp",
+         "DownloadFiles":[
+            {
+               "Name":"mGBA",
+               "Version":"1.00",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":36,
+         "CategoryId":"emu",
+         "Name":"PS4 P-8 / Pico8",
+         "CreatedBy":"Victor Oliva",
+         "SubmittedBy":"ohhsodead",
+         "Version":"0.10",
+         "PlayableVersion":"5.05+",
+         "TitleId":"BREW34965",
+         "Description":"Pico-8 is a Fantasy Programmable Console made by Lexaloffle Games. This emulator is compatible with built pico-8 cartridges in PNG format Games will be loaded in runtime from PS4's /data/p8-cartridges folder.",
+         "DownloadFiles":[
+            {
+               "Name":"PS4 P-8 / Pico8",
+               "Version":"0.10",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":37,
+         "CategoryId":"emu",
+         "Name":"pNES - Portable Nestopia",
+         "CreatedBy":"Cpasjuste",
+         "SubmittedBy":"ohhsodead",
+         "Version":"6.7",
+         "PlayableVersion":"5.05+",
+         "TitleId":"PNES00001",
+         "Description":"create '/data/pnes' directory on hdd copy roms to '/data/pnes/roms' directory on hdd",
+         "DownloadFiles":[
+            {
+               "Name":"pNES - Portable Nestopia",
+               "Version":"6.7",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":38,
+         "CategoryId":"emu",
+         "Name":"pSNES - Portable Snes9x",
+         "CreatedBy":"Cpasjuste",
+         "SubmittedBy":"ohhsodead",
+         "Version":"6.7",
+         "PlayableVersion":"5.05+",
+         "TitleId":"PSNE00001",
+         "Description":"create '/data/pnes' directory on hdd copy roms to '/data/pnes/roms' directory on hdd",
+         "DownloadFiles":[
+            {
+               "Name":"pSNES - Portable Snes9x",
+               "Version":"6.7",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":39,
+         "CategoryId":"emu",
+         "Name":"Portable Final Burn Neo",
+         "CreatedBy":"Cpasjuste",
+         "SubmittedBy":"ohhsodead",
+         "Version":"6.7",
+         "PlayableVersion":"5.05+",
+         "TitleId":"PFBN00001",
+         "Description":"create '/data/pfba' directory on hdd copy roms to '/data/pfba/roms' directory on hdd",
+         "DownloadFiles":[
+            {
+               "Name":"Portable Final Burn Neo",
+               "Version":"6.7",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":40,
+         "CategoryId":"emu",
+         "Name":"PCSX-R (Playstation)",
+         "CreatedBy":"Znullptr",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.00",
+         "PlayableVersion":"5.05",
+         "TitleId":"PCSX00002",
+         "Description":"PS1 emu",
+         "DownloadFiles":[
+            {
+               "Name":"PCSX-R (Playstation)",
+               "Version":"1.00",
+               "PlayableVersion":"5.05",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":41,
+         "CategoryId":"emu",
+         "Name":"RetroArch Core Installer",
+         "CreatedBy":"OsirisX",
+         "SubmittedBy":"ohhsodead",
+         "Version":"4.00",
+         "PlayableVersion":"5.05+",
+         "TitleId":"SSNE20000",
+         "Description":"Core installer For PS4 RetroArch Needed for RetroArch",
+         "DownloadFiles":[
+            {
+               "Name":"RetroArch Core Installer",
+               "Version":"4.00",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":42,
+         "CategoryId":"emu",
+         "Name":"Unofficial RetroArch",
+         "CreatedBy":"OsirisX",
+         "SubmittedBy":"ohhsodead",
+         "Version":"4.00",
+         "PlayableVersion":"5.05+",
+         "TitleId":"SSNE10000",
+         "Description":"Multi-System Emulator Download and Install the Cores",
+         "DownloadFiles":[
+            {
+               "Name":"Unofficial RetroArch",
+               "Version":"4.00",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":43,
+         "CategoryId":"emu",
+         "Name":"Mednafen",
+         "CreatedBy":"Znullptr",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.00",
+         "PlayableVersion":"5.05",
+         "TitleId":"MEDN00001",
+         "Description":"Multi-System Emulator Download and Install the Cores",
+         "DownloadFiles":[
+            {
+               "Name":"Mednafen",
+               "Version":"1.00",
+               "PlayableVersion":"5.05",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":44,
+         "CategoryId":"emu",
+         "Name":"Reicast Beta 2",
+         "CreatedBy":"Znullptr",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.00",
+         "PlayableVersion":"5.05",
+         "TitleId":"ZZZZ00001",
+         "Description":"Reicast Beta for PS4 Needs BOIS See Znullptr HEN 1.9+ Required",
+         "DownloadFiles":[
+            {
+               "Name":"Reicast Beta 2",
+               "Version":"1.00",
+               "PlayableVersion":"5.05",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":45,
+         "CategoryId":"emu",
+         "Name":"Yabause (Saturn)",
+         "CreatedBy":"Znullptr",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.00",
+         "PlayableVersion":"5.05",
+         "TitleId":"PPPP00002",
+         "Description":"Sega Saturn Emulator needs /data/yabause/saturn.bin BOIS",
+         "DownloadFiles":[
+            {
+               "Name":"Yabause (Saturn)",
+               "Version":"1.00",
+               "PlayableVersion":"5.05",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":46,
+         "CategoryId":"emu",
+         "Name":"Orbis MSX",
+         "CreatedBy":"BigBoss",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.00",
+         "PlayableVersion":"4.55/5.05",
+         "TitleId":"FMSX00000",
+         "Description":"MSX Emulator for PS4",
+         "DownloadFiles":[
+            {
+               "Name":"Orbis MSX",
+               "Version":"1.00",
+               "PlayableVersion":"4.55/5.05",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":47,
+         "CategoryId":"emu",
+         "Name":"ps4Gearsystem",
+         "CreatedBy":"M0rph3us1987",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.00",
+         "PlayableVersion":"5.05",
+         "TitleId":"MRPH00001",
+         "Description":"Emulator for the Sega Master System",
+         "DownloadFiles":[
+            {
+               "Name":"ps4Gearsystem",
+               "Version":"1.00",
+               "PlayableVersion":"5.05",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":48,
+         "CategoryId":"emu",
+         "Name":"SNES STATION",
+         "CreatedBy":"Nominus",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.00",
+         "PlayableVersion":"5.05",
+         "TitleId":"CUSA00000",
+         "Description":"Emulator for the SNES",
+         "DownloadFiles":[
+            {
+               "Name":"SNES STATION",
+               "Version":"1.00",
+               "PlayableVersion":"5.05",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":49,
+         "CategoryId":"emu",
+         "Name":"PS4NES",
+         "CreatedBy":"M0rph3us1987",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.01",
+         "PlayableVersion":"5.05",
+         "TitleId":"PNES00002",
+         "Description":"Emulator for the NES",
+         "DownloadFiles":[
+            {
+               "Name":"PS4NES",
+               "Version":"1.01",
+               "PlayableVersion":"5.05",
+               "LastUpdated":"2024-05-10T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+      {
+         "Platform":"PS4",
+         "Id":50,
+         "CategoryId":"util",
+         "Name":"PS4-Xplorer",
+         "CreatedBy":"Lapy",
+         "SubmittedBy":"ohhsodead",
+         "Version":"2.03",
+         "PlayableVersion":"5.05+",
+         "TitleId":"LAPY20009",
+         "Description":"File Manager for PS4",
+         "DownloadFiles":[
+            {
+               "Name":"PS4-Xplorer",
+               "Version":"2.03",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-06-19T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            },
+            {
+               "Name":"PS4-Xplorer",
+               "Version":"2.02",
+               "PlayableVersion":"5.05+",
+               "LastUpdated":"2024-06-19T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      },
+	  ,
+      {
+         "Platform":"PS4",
+         "Id":51,
+         "CategoryId":"util",
+         "Name":"PS4 TOOLSET",
+         "CreatedBy":"Snake",
+         "SubmittedBy":"ohhsodead",
+         "Version":"2.20",
+         "PlayableVersion":"5.05+",
+         "TitleId":"SAAT29385",
+         "Description":"FW Compatibility 900 | 1100 System Options 1.- Change font type 2.- Hide/Show applications in the main menu 3.- Make a security backup in an easy recovery 4.- Recover Lost Games 5.- Install Custom Theme, created from our windows app",
+         "DownloadFiles":[
+            {
+               "Name":"PS4 TOOLSET",
+               "Version":"2.20",
+               "PlayableVersion":"9.00, 11.00",
+               "LastUpdated":"2024-06-19T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            },
+            {
+               "Name":"PS4 TOOLSET",
+               "Version":"2.10",
+               "PlayableVersion":"9.00, 11.00",
+               "LastUpdated":"2024-06-19T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            },
+            {
+               "Name":"PS4 TOOLSET",
+               "Version":"2.0.0",
+               "PlayableVersion":"9.00",
+               "LastUpdated":"2024-06-19T01:13:37.126946+01:00",
+               "InstallPath":"/data/pkg/{TitleId}/{Name}-{Version}.pkg"
+            }
+         ]
+      }
+   ]
+}
