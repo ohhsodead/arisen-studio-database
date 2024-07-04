@@ -3,7 +3,7 @@
       {
          "Platform":"PS3",
          "Id":1,
-         "CategoryId":"hg",
+         "CategoryId":"hbg",
          "Name":"Scogger HD",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -29,7 +29,7 @@
       {
          "Platform":"PS3",
          "Id":2,
-         "CategoryId":"hg",
+         "CategoryId":"hbg",
          "Name":"Cylinder Dodge",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -55,7 +55,7 @@
       {
          "Platform":"PS3",
          "Id":3,
-         "CategoryId":"hg",
+         "CategoryId":"hbg",
          "Name":"BreakOutX",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -81,7 +81,7 @@
       {
          "Platform":"PS3",
          "Id":4,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"Movian M7 (Official/deank)",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -117,7 +117,7 @@
       {
          "Platform":"PS3",
          "Id":5,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"Advanced Power Options",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -143,7 +143,7 @@
       {
          "Platform":"PS3",
          "Id":6,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"Extras Category",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -169,7 +169,7 @@
       {
          "Platform":"PS3",
          "Id":7,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"HAN Toolbox",
          "FirmwareType":"HAN",
          "Region":"",
@@ -195,7 +195,7 @@
       {
          "Platform":"PS3",
          "Id":8,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"HEN Toolbox",
          "FirmwareType":"HEN",
          "Region":"",
@@ -221,7 +221,7 @@
       {
          "Platform":"PS3",
          "Id":9,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"HENBrew Store",
          "FirmwareType":"HEN",
          "Region":"",
@@ -247,7 +247,7 @@
       {
          "Platform":"PS3",
          "Id":10,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"IRISMAN Full Edition",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -273,7 +273,7 @@
       {
          "Platform":"PS3",
          "Id":11,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"MambaPRX Loader (Unofficial)",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -299,7 +299,7 @@
       {
          "Platform":"PS3",
          "Id":12,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"ManaGunZ",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -325,7 +325,7 @@
       {
          "Platform":"PS3",
          "Id":13,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"OpenPS3FTP",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -351,7 +351,7 @@
       {
          "Platform":"PS3",
          "Id":14,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"prepNTFS",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -377,7 +377,7 @@
       {
          "Platform":"PS3",
          "Id":15,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"PS2 Classics Manager",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -404,7 +404,7 @@
       {
          "Platform":"PS3",
          "Id":16,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"PS2 ISO Launcher",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -430,7 +430,7 @@
       {
          "Platform":"PS3",
          "Id":17,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"PS2 Launcher (REBUG Edition)",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -456,7 +456,7 @@
       {
          "Platform":"PS3",
          "Id":18,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"PS3 EXTRANET",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -482,7 +482,7 @@
       {
          "Platform":"PS3",
          "Id":19,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"PSN Patch (Stealth)",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -508,7 +508,7 @@
       {
          "Platform":"PS3",
          "Id":20,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"REBUG TOOLBOX Multi",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -534,7 +534,7 @@
       {
          "Platform":"PS3",
          "Id":21,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"SEN Enabler",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -560,7 +560,7 @@
       {
          "Platform":"PS3",
          "Id":22,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"Showtime Disc Access",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -586,7 +586,7 @@
       {
          "Platform":"PS3",
          "Id":23,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"webMAN MOD",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -612,7 +612,7 @@
       {
          "Platform":"PS3",
          "Id":24,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"What's New on PSX-Place",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -638,7 +638,7 @@
       {
          "Platform":"PS3",
          "Id":25,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"Retro Homebrew Collection (Nintendo NES)",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -664,7 +664,7 @@
       {
          "Platform":"PS3",
          "Id":26,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"Retro Homebrew Collection (Atari 2600)",
          "FirmwareType":"CEX/DEX/HEN",
          "Region":"",
@@ -690,7 +690,7 @@
       {
          "Platform":"PS3",
          "Id":27,
-         "CategoryId":"hg",
+         "CategoryId":"hbg",
          "Name":"Five Nights at Freddy's",
          "FirmwareType":"CEX/DEX/HEN",
          "Region":"",
@@ -706,7 +706,7 @@
                "Region":"",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://dl.dropbox.com/s/uwhgq27dgozgl8p/Five%20Nights%20at%20Freddy%27s.zip?raw=true",
+               "Url":"https://dl.dropbox.com/s/uwhbgq27dgozgl8p/Five%20Nights%20at%20Freddy%27s.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/FNaF_2nd_Preview.pkg.929.v1.0_brewology_com.pkg"
                ]
@@ -716,7 +716,7 @@
       {
          "Platform":"PS3",
          "Id":28,
-         "CategoryId":"hg",
+         "CategoryId":"hbg",
          "Name":"Flappy Birds Family",
          "FirmwareType":"CEX/DEX/HEN",
          "Region":"",
@@ -742,7 +742,7 @@
       {
          "Platform":"PS3",
          "Id":29,
-         "CategoryId":"hg",
+         "CategoryId":"hbg",
          "Name":"Ps3UserCheat",
          "FirmwareType":"CEX/DEX/HEN",
          "Region":"",
@@ -768,7 +768,7 @@
       {
          "Platform":"PS3",
          "Id":30,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"Atari Emulator",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -794,7 +794,7 @@
       {
          "Platform":"PS3",
          "Id":31,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"Apollo Save Tool",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -820,7 +820,7 @@
       {
          "Platform":"PS3",
          "Id":32,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"Unlock HDD Space",
          "FirmwareType":"CEX/DEX/HEN",
          "Region":"",
@@ -846,7 +846,7 @@
       {
          "Platform":"PS3",
          "Id":33,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"reActPSN",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -872,7 +872,7 @@
       {
          "Platform":"PS3",
          "Id":34,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"PKGi",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -898,7 +898,7 @@
       {
          "Platform":"PS3",
          "Id":35,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"ArtemisPS3",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -940,7 +940,7 @@
                "Region":"",
                "Version":"2.2.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://dl.dropbox.com/s/n9i71mi3hg2nnmw/ScummVM.zip?raw=true",
+               "Url":"https://dl.dropbox.com/s/n9i71mi3hbg2nnmw/ScummVM.zip?raw=true",
                "InstallPaths":[
                   "/dev_hdd0/packages/scummvm-ps3.pkg.408.v2.2.0_brewology_com.pkg"
                ]
@@ -950,7 +950,7 @@
       {
          "Platform":"PS3",
          "Id":38,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"MAME",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -976,7 +976,7 @@
       {
          "Platform":"PS3",
          "Id":39,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"IDPSet",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -1002,7 +1002,7 @@
       {
          "Platform":"PS3",
          "Id":40,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"Control Fan Utility",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -1028,7 +1028,7 @@
       {
          "Platform":"PS3",
          "Id":41,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"gameDATA Tool",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -1054,7 +1054,7 @@
       {
          "Platform":"PS3",
          "Id":42,
-         "CategoryId":"hg",
+         "CategoryId":"hbg",
          "Name":"Sketch Fight",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -1080,7 +1080,7 @@
       {
          "Platform":"PS3",
          "Id":43,
-         "CategoryId":"hg",
+         "CategoryId":"hbg",
          "Name":"Super Mario War",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -1106,7 +1106,7 @@
       {
          "Platform":"PS3",
          "Id":44,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"XMB Mods Collection",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -1132,7 +1132,7 @@
       {
          "Platform":"PS3",
          "Id":45,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"PS3 4K Pro",
          "FirmwareType":"CEX/DEX/HEN",
          "Region":"",
@@ -1168,7 +1168,7 @@
       {
          "Platform":"PS3",
          "Id":46,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"Minus 18MB",
          "FirmwareType":"DEX",
          "Region":"",
@@ -1194,7 +1194,7 @@
       {
          "Platform":"PS3",
          "Id":47,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"Extended Download Plugin",
          "FirmwareType":"HEN",
          "Region":"",
@@ -1220,7 +1220,7 @@
       {
          "Platform":"PS3",
          "Id":48,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"Podcast Player",
          "FirmwareType":"CEX/DEX/HEN/HAN",
          "Region":"",
@@ -1246,7 +1246,7 @@
       {
          "Platform":"PS3",
          "Id":49,
-         "CategoryId":"hg",
+         "CategoryId":"hbg",
          "Name":"OpenSupaplex",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -1272,7 +1272,7 @@
       {
          "Platform":"PS3",
          "Id":50,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"Simple File Manager",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -1298,7 +1298,7 @@
       {
          "Platform":"PS3",
          "Id":51,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"MONSTER Manager",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -1324,7 +1324,7 @@
       {
          "Platform":"PS3",
          "Id":52,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"Play Manager",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -1350,7 +1350,7 @@
       {
          "Platform":"PS3",
          "Id":53,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"WikiStore",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -1390,7 +1390,7 @@
       {
          "Platform":"PS3",
          "Id":54,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"Ultimate Toolbox",
          "FirmwareType":"CEX/DEX/HEN",
          "Region":"",
@@ -1478,7 +1478,7 @@
       {
          "Platform":"PS3",
          "Id":57,
-         "CategoryId":"hg",
+         "CategoryId":"hbg",
          "Name":"Bubble Bobble",
          "FirmwareType":"CEX/DEX",
          "Region":"",
@@ -1524,7 +1524,7 @@
       {
          "Platform":"PS3",
          "Id":58,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"Akari",
          "FirmwareType":"CEX/DEX/HEN",
          "Region":"",
@@ -1550,7 +1550,7 @@
       {
          "Platform":"PS3",
          "Id":59,
-         "CategoryId":"ha",
+         "CategoryId":"hba",
          "Name":"ezRemote Client",
          "FirmwareType":"CEX/DEX/HEN",
          "Region":"",
