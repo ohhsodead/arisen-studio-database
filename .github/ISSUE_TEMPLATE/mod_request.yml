@@ -1,9 +1,9 @@
 ---
-name: Request
+name: Mod Request
 description: Request a mod to be added to the database
 title: "[Request]: "
 labels:
-  - "request"
+  - "mod request"
 
 body:
   - type: input
