@@ -3,6 +3,7 @@ name: Update Mod Count Badge
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:      # Allows manual triggering
 
 jobs:
   update-badge:
