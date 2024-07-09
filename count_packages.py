@@ -1,5 +1,6 @@
 import json
 import requests
+import os
 
 def count_packages_in_files(files):
     total_packages = 0
@@ -26,5 +27,6 @@ if __name__ == "__main__":
         "color": "brightgreen"
     }
     
-    with open('package_count_badge.json', 'w') as f:
+    os.makedirs('Badges', exist_ok=True)
+    with open('Badges/package_count_badge.json', 'w') as f:
         json.dump(badge_data, f)
