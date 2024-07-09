@@ -1,4 +1,4 @@
-name: Count Packages and Generate Badge
+name: Update Package Count Badge
 
 on:
   push:
