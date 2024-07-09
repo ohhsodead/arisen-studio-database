@@ -24,6 +24,7 @@ jobs:
       - name: Count mods and update badge
         run: |
           python count_mods.py
+          mkdir -p badge
           mv mod_count_badge.json badge/mod_count_badge.json
 
       - name: Commit and push changes
