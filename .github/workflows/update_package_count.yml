@@ -23,7 +23,7 @@ jobs:
       run: python -m pip install --upgrade pip requests
 
     - name: Count packages and generate badge
-      run: python count_packages_and_generate_badge.py
+      run: python count_packages.py
 
     - name: Upload badge to repository
       run: |
