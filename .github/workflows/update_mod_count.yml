@@ -1,11 +1,8 @@
 name: Update Mod Count Badge
 
 on:
-  push:
-    paths:
-      - '**.json'
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
 
 jobs:
   update-badge:
