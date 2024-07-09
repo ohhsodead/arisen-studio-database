@@ -13,5 +13,11 @@ def count_mods_in_json_files(directory):
 if __name__ == "__main__":
     directory = './'  # Adjust to the path where your JSON files are located
     total_mods = count_mods_in_json_files(directory)
+    badge_data = {
+        "schemaVersion": 1,
+        "label": "mods",
+        "message": str(total_mods),
+        "color": "brightgreen"
+    }
     with open('mod_count_badge.json', 'w') as f:
-        json.dump({"schemaVersion": 1, "label": "mods", "message": str(total_mods), "color": "brightgreen"}, f)
+        json.dump(badge_data, f)
