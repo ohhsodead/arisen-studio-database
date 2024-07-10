@@ -32,7 +32,7 @@
          "Platform":"PS4",
          "Id":2,
          "CategoryId":"utili",
-         "Name":"PS4 TOOLSET",
+         "Name":"TOOLSET",
          "CreatedBy":"Snake",
          "SubmittedBy":"ohhsodead",
          "Version":"2.0.0",
@@ -42,21 +42,21 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.20",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.10",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.0.0",
                "PlayableVersion":"9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -67,7 +67,7 @@
          "Platform":"PS4",
          "Id":3,
          "CategoryId":"utili",
-         "Name":"PS4 Controller Homebrew",
+         "Name":"Controller Homebrew",
          "CreatedBy":"LM",
          "SubmittedBy":"ohhsodead",
          "Version":"1.00",
@@ -77,7 +77,7 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:52:00",
-               "Name":"PS4 Controller Homebrew",
+               "Name":"Controller Homebrew",
                "Version":"1.00",
                "PlayableVersion":"4.55+, PS5 SUPPORTED",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -228,7 +228,7 @@
          "Platform":"PS4",
          "Id":10,
          "CategoryId":"utili",
-         "Name":"PS4 WebDAV Client",
+         "Name":"WebDAV Client",
          "CreatedBy":"cy33hc",
          "SubmittedBy":"ohhsodead",
          "Version":"1.04",
@@ -238,7 +238,7 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T18:32:00",
-               "Name":"PS4 WebDAV Client",
+               "Name":"WebDAV Client",
                "Version":"1.04",
                "PlayableVersion":"4.55+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -249,7 +249,7 @@
          "Platform":"PS4",
          "Id":11,
          "CategoryId":"utili",
-         "Name":"PS4 FTP Client",
+         "Name":"FTP Client",
          "CreatedBy":"cy33hc",
          "SubmittedBy":"ohhsodead",
          "Version":"1.0.8",
@@ -259,7 +259,7 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:41:00",
-               "Name":"PS4 FTP Client",
+               "Name":"FTP Client",
                "Version":"1.0.8",
                "PlayableVersion":"4.55+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -297,7 +297,7 @@
          "Version":"1.34",
          "PlayableVersion":"4.55, 4.74, 5.01, 5.05, 6.72, 7.5X, 9.00",
          "TitleId":"LAPY20001",
-         "Description":"File Manager for\nthe PS4",
+         "Description":"File Manager for the PS4",
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T20:00:00",
@@ -382,7 +382,7 @@
          "Platform":"PS4",
          "Id":16,
          "CategoryId":"utili",
-         "Name":"PS4 Cheats Manager",
+         "Name":"Cheats Manager",
          "CreatedBy":"bucanero",
          "SubmittedBy":"ohhsodead",
          "Version":"1.2.0",
@@ -392,14 +392,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.2",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.0",
                "PlayableVersion":"5.05, 6.72, 7.5X, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -466,7 +466,7 @@
          "Platform":"PS4",
          "Id":19,
          "CategoryId":"utili",
-         "Name":"PS4 Temperature",
+         "Name":"Temperature",
          "CreatedBy":"Lapy, LM, Zeco, AlAzif, Zer0xFF",
          "SubmittedBy":"ohhsodead",
          "Version":"1.06",
@@ -476,14 +476,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.07",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.06",
                "PlayableVersion":"4.74, 5.05, 6.72, 7.02, 7.55, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -494,7 +494,7 @@
          "Platform":"PS4",
          "Id":20,
          "CategoryId":"utili",
-         "Name":"PS4 TOOLSET",
+         "Name":"TOOLSET",
          "CreatedBy":"Snake",
          "SubmittedBy":"ohhsodead",
          "Version":"2.0.0",
@@ -504,21 +504,21 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.20",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.10",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.0.0",
                "PlayableVersion":"9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -585,7 +585,7 @@
          "Platform":"PS4",
          "Id":23,
          "CategoryId":"utili",
-         "Name":"PS4 WebDAV Client",
+         "Name":"WebDAV Client",
          "CreatedBy":"cy33hc",
          "SubmittedBy":"ohhsodead",
          "Version":"1.04",
@@ -595,7 +595,7 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T18:32:00",
-               "Name":"PS4 WebDAV Client",
+               "Name":"WebDAV Client",
                "Version":"1.04",
                "PlayableVersion":"4.55+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -690,7 +690,7 @@
          "Platform":"PS4",
          "Id":28,
          "CategoryId":"utili",
-         "Name":"PS4 Kernel BTTF",
+         "Name":"Kernel BTTF",
          "CreatedBy":"Lapy",
          "SubmittedBy":"ohhsodead",
          "Version":"1.00",
@@ -700,7 +700,7 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T18:27:00",
-               "Name":"PS4 Kernel BTTF",
+               "Name":"Kernel BTTF",
                "Version":"1.00",
                "PlayableVersion":"5.05",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -746,7 +746,7 @@
          "Platform":"PS4",
          "Id":30,
          "CategoryId":"utili",
-         "Name":"PS4 Cheats Manager",
+         "Name":"Cheats Manager",
          "CreatedBy":"bucanero",
          "SubmittedBy":"ohhsodead",
          "Version":"1.2.0",
@@ -756,14 +756,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.2",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.0",
                "PlayableVersion":"5.05, 6.72, 7.5X, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -774,7 +774,7 @@
          "Platform":"PS4",
          "Id":31,
          "CategoryId":"utili",
-         "Name":"PS4 Player 3D",
+         "Name":"Player 3D",
          "CreatedBy":"Lapy",
          "SubmittedBy":"ohhsodead",
          "Version":"1.00",
@@ -784,14 +784,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:08:00",
-               "Name":"PS4 Player 3D",
+               "Name":"Player 3D",
                "Version":"1.01",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:08:00",
-               "Name":"PS4 Player 3D",
+               "Name":"Player 3D",
                "Version":"1.00",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -878,7 +878,7 @@
          "Version":"1.34",
          "PlayableVersion":"4.55, 4.74, 5.01, 5.05, 6.72, 7.5X, 9.00",
          "TitleId":"LAPY20001",
-         "Description":"File Manager for\nthe PS4",
+         "Description":"File Manager for the PS4",
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T20:00:00",
@@ -963,7 +963,7 @@
          "Platform":"PS4",
          "Id":38,
          "CategoryId":"utili",
-         "Name":"PS4 Cheats Manager",
+         "Name":"Cheats Manager",
          "CreatedBy":"bucanero",
          "SubmittedBy":"ohhsodead",
          "Version":"1.2.0",
@@ -973,14 +973,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.2",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.0",
                "PlayableVersion":"5.05, 6.72, 7.5X, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -1047,7 +1047,7 @@
          "Platform":"PS4",
          "Id":41,
          "CategoryId":"utili",
-         "Name":"PS4 Temperature",
+         "Name":"Temperature",
          "CreatedBy":"Lapy, LM, Zeco, AlAzif, Zer0xFF",
          "SubmittedBy":"ohhsodead",
          "Version":"1.06",
@@ -1057,14 +1057,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.07",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.06",
                "PlayableVersion":"4.74, 5.05, 6.72, 7.02, 7.55, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -1075,7 +1075,7 @@
          "Platform":"PS4",
          "Id":42,
          "CategoryId":"utili",
-         "Name":"PS4 TOOLSET",
+         "Name":"TOOLSET",
          "CreatedBy":"Snake",
          "SubmittedBy":"ohhsodead",
          "Version":"2.0.0",
@@ -1085,21 +1085,21 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.20",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.10",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.0.0",
                "PlayableVersion":"9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -1424,7 +1424,7 @@
          "Version":"1.34",
          "PlayableVersion":"4.55, 4.74, 5.01, 5.05, 6.72, 7.5X, 9.00",
          "TitleId":"LAPY20001",
-         "Description":"File Manager for\nthe PS4",
+         "Description":"File Manager for the PS4",
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T20:00:00",
@@ -1509,7 +1509,7 @@
          "Platform":"PS4",
          "Id":60,
          "CategoryId":"utili",
-         "Name":"PS4 Cheats Manager",
+         "Name":"Cheats Manager",
          "CreatedBy":"bucanero",
          "SubmittedBy":"ohhsodead",
          "Version":"1.2.0",
@@ -1519,14 +1519,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.2",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.0",
                "PlayableVersion":"5.05, 6.72, 7.5X, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -1593,7 +1593,7 @@
          "Platform":"PS4",
          "Id":63,
          "CategoryId":"utili",
-         "Name":"PS4 Temperature",
+         "Name":"Temperature",
          "CreatedBy":"Lapy, LM, Zeco, AlAzif, Zer0xFF",
          "SubmittedBy":"ohhsodead",
          "Version":"1.06",
@@ -1603,14 +1603,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.07",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.06",
                "PlayableVersion":"4.74, 5.05, 6.72, 7.02, 7.55, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -1621,7 +1621,7 @@
          "Platform":"PS4",
          "Id":64,
          "CategoryId":"utili",
-         "Name":"PS4 TOOLSET",
+         "Name":"TOOLSET",
          "CreatedBy":"Snake",
          "SubmittedBy":"ohhsodead",
          "Version":"2.0.0",
@@ -1631,21 +1631,21 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.20",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.10",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.0.0",
                "PlayableVersion":"9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -1970,7 +1970,7 @@
          "Version":"1.34",
          "PlayableVersion":"4.55, 4.74, 5.01, 5.05, 6.72, 7.5X, 9.00",
          "TitleId":"LAPY20001",
-         "Description":"File Manager for\nthe PS4",
+         "Description":"File Manager for the PS4",
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T20:00:00",
@@ -2055,7 +2055,7 @@
          "Platform":"PS4",
          "Id":82,
          "CategoryId":"utili",
-         "Name":"PS4 Cheats Manager",
+         "Name":"Cheats Manager",
          "CreatedBy":"bucanero",
          "SubmittedBy":"ohhsodead",
          "Version":"1.2.0",
@@ -2065,14 +2065,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.2",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.0",
                "PlayableVersion":"5.05, 6.72, 7.5X, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -2139,7 +2139,7 @@
          "Platform":"PS4",
          "Id":85,
          "CategoryId":"utili",
-         "Name":"PS4 Temperature",
+         "Name":"Temperature",
          "CreatedBy":"Lapy, LM, Zeco, AlAzif, Zer0xFF",
          "SubmittedBy":"ohhsodead",
          "Version":"1.06",
@@ -2149,14 +2149,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.07",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.06",
                "PlayableVersion":"4.74, 5.05, 6.72, 7.02, 7.55, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -2167,7 +2167,7 @@
          "Platform":"PS4",
          "Id":86,
          "CategoryId":"utili",
-         "Name":"PS4 TOOLSET",
+         "Name":"TOOLSET",
          "CreatedBy":"Snake",
          "SubmittedBy":"ohhsodead",
          "Version":"2.0.0",
@@ -2177,21 +2177,21 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.20",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.10",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.0.0",
                "PlayableVersion":"9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -2342,7 +2342,7 @@
          "Platform":"PS4",
          "Id":93,
          "CategoryId":"utili",
-         "Name":"PS4 Tools",
+         "Name":"Tools",
          "CreatedBy":"xDPx",
          "SubmittedBy":"ohhsodead",
          "Version":"1.33",
@@ -2352,7 +2352,7 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:51:00",
-               "Name":"PS4 Tools",
+               "Name":"Tools",
                "Version":"1.33",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -2426,7 +2426,7 @@
          "Platform":"PS4",
          "Id":97,
          "CategoryId":"emu",
-         "Name":"PS4 P-8 / Pico8",
+         "Name":"P-8 / Pico8",
          "CreatedBy":"Victor Oliva",
          "SubmittedBy":"ohhsodead",
          "Version":"0.10",
@@ -2436,7 +2436,7 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-03T18:37:00",
-               "Name":"PS4 P-8 / Pico8",
+               "Name":"P-8 / Pico8",
                "Version":"0.10",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -2516,7 +2516,7 @@
          "Version":"1.34",
          "PlayableVersion":"4.55, 4.74, 5.01, 5.05, 6.72, 7.5X, 9.00",
          "TitleId":"LAPY20001",
-         "Description":"File Manager for\nthe PS4",
+         "Description":"File Manager for the PS4",
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T20:00:00",
@@ -2601,7 +2601,7 @@
          "Platform":"PS4",
          "Id":104,
          "CategoryId":"utili",
-         "Name":"PS4 Cheats Manager",
+         "Name":"Cheats Manager",
          "CreatedBy":"bucanero",
          "SubmittedBy":"ohhsodead",
          "Version":"1.2.0",
@@ -2611,14 +2611,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.2",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.0",
                "PlayableVersion":"5.05, 6.72, 7.5X, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -2685,7 +2685,7 @@
          "Platform":"PS4",
          "Id":107,
          "CategoryId":"utili",
-         "Name":"PS4 Temperature",
+         "Name":"Temperature",
          "CreatedBy":"Lapy, LM, Zeco, AlAzif, Zer0xFF",
          "SubmittedBy":"ohhsodead",
          "Version":"1.06",
@@ -2695,14 +2695,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.07",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.06",
                "PlayableVersion":"4.74, 5.05, 6.72, 7.02, 7.55, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -2713,7 +2713,7 @@
          "Platform":"PS4",
          "Id":108,
          "CategoryId":"utili",
-         "Name":"PS4 TOOLSET",
+         "Name":"TOOLSET",
          "CreatedBy":"Snake",
          "SubmittedBy":"ohhsodead",
          "Version":"2.0.0",
@@ -2723,21 +2723,21 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.20",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.10",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.0.0",
                "PlayableVersion":"9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -2867,7 +2867,7 @@
          "Platform":"PS4",
          "Id":114,
          "CategoryId":"emu",
-         "Name":"PS4 P-8 / Pico8",
+         "Name":"P-8 / Pico8",
          "CreatedBy":"Victor Oliva",
          "SubmittedBy":"ohhsodead",
          "Version":"0.10",
@@ -2877,7 +2877,7 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-03T18:37:00",
-               "Name":"PS4 P-8 / Pico8",
+               "Name":"P-8 / Pico8",
                "Version":"0.10",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -3035,17 +3035,17 @@
          "Platform":"PS4",
          "Id":122,
          "CategoryId":"media",
-         "Name":"PS4 Media Player",
+         "Name":"Media Player",
          "CreatedBy":"HK31",
          "SubmittedBy":"ohhsodead",
          "Version":"4.01",
          "PlayableVersion":"5.05+",
          "TitleId":"CUSA02012",
-         "Description":"The Official PS4 Media Player app, NoPSN\nDownload the modded patch here: http://api.pkg-zone.com/pkgs/mediap-patch.pkg",
+         "Description":"The Official PS4 Media Player app, NoPSN",
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:20:00",
-               "Name":"PS4 Media Player",
+               "Name":"Media Player",
                "Version":"4.01",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -3062,7 +3062,7 @@
          "Version":"1.34",
          "PlayableVersion":"4.55, 4.74, 5.01, 5.05, 6.72, 7.5X, 9.00",
          "TitleId":"LAPY20001",
-         "Description":"File Manager for\nthe PS4",
+         "Description":"File Manager for the PS4",
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T20:00:00",
@@ -3147,7 +3147,7 @@
          "Platform":"PS4",
          "Id":126,
          "CategoryId":"utili",
-         "Name":"PS4 Cheats Manager",
+         "Name":"Cheats Manager",
          "CreatedBy":"bucanero",
          "SubmittedBy":"ohhsodead",
          "Version":"1.2.0",
@@ -3157,14 +3157,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.2",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.0",
                "PlayableVersion":"5.05, 6.72, 7.5X, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -3181,7 +3181,7 @@
          "Version":"1.02",
          "PlayableVersion":"5.05+",
          "TitleId":"FLTZ00003",
-         "Description":"Allows you to\ninstall packages\nremotely, Req. fself patches",
+         "Description":"Allows you to install packages remotely, Req. fself patches",
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:54:00",
@@ -3231,7 +3231,7 @@
          "Platform":"PS4",
          "Id":129,
          "CategoryId":"utili",
-         "Name":"PS4 Temperature",
+         "Name":"Temperature",
          "CreatedBy":"Lapy, LM, Zeco, AlAzif, Zer0xFF",
          "SubmittedBy":"ohhsodead",
          "Version":"1.06",
@@ -3241,14 +3241,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.07",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.06",
                "PlayableVersion":"4.74, 5.05, 6.72, 7.02, 7.55, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -3259,7 +3259,7 @@
          "Platform":"PS4",
          "Id":130,
          "CategoryId":"utili",
-         "Name":"PS4 TOOLSET",
+         "Name":"TOOLSET",
          "CreatedBy":"Snake",
          "SubmittedBy":"ohhsodead",
          "Version":"2.0.0",
@@ -3269,21 +3269,21 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.20",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.10",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.0.0",
                "PlayableVersion":"9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -3419,7 +3419,7 @@
          "Version":"6.7",
          "PlayableVersion":"5.05+",
          "TitleId":"PFBN00001",
-         "Description":"create '/data/pfba' directory on hdd\ncopy roms to '/data/pfba/roms' directory on hdd",
+         "Description":"create '/data/pfba' directory on hdd, copy roms to '/data/pfba/roms' directory on hdd",
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T18:04:00",
@@ -3440,7 +3440,7 @@
          "Version":"6.7",
          "PlayableVersion":"5.05+",
          "TitleId":"PSNE00001",
-         "Description":"create '/data/psnes' directory on hdd\ncopy roms to '/data/psnes/roms' directory on hdd",
+         "Description":"create '/data/psnes' directory on hdd, copy roms to '/data/psnes/roms' directory on hdd",
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:57:00",
@@ -3461,7 +3461,7 @@
          "Version":"6.7",
          "PlayableVersion":"5.05+",
          "TitleId":"PNES00001",
-         "Description":"create '/data/pnes' directory on hdd\ncopy roms to '/data/pnes/roms' directory on hdd",
+         "Description":"create '/data/pnes' directory on hdd, copy roms to '/data/pnes/roms' directory on hdd",
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T16:05:00",
@@ -3539,7 +3539,7 @@
          "Platform":"PS4",
          "Id":142,
          "CategoryId":"emu",
-         "Name":"PS4 P-8 / Pico8",
+         "Name":"P-8 / Pico8",
          "CreatedBy":"Victor Oliva",
          "SubmittedBy":"ohhsodead",
          "Version":"0.10",
@@ -3549,7 +3549,7 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-03T18:37:00",
-               "Name":"PS4 P-8 / Pico8",
+               "Name":"P-8 / Pico8",
                "Version":"0.10",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -3608,7 +3608,7 @@
          "Version":"1.34",
          "PlayableVersion":"4.55, 4.74, 5.01, 5.05, 6.72, 7.5X, 9.00",
          "TitleId":"LAPY20001",
-         "Description":"File Manager for\nthe PS4",
+         "Description":"File Manager for the PS4",
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T20:00:00",
@@ -3693,7 +3693,7 @@
          "Platform":"PS4",
          "Id":148,
          "CategoryId":"utili",
-         "Name":"PS4 Cheats Manager",
+         "Name":"Cheats Manager",
          "CreatedBy":"bucanero",
          "SubmittedBy":"ohhsodead",
          "Version":"1.2.0",
@@ -3703,14 +3703,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.2",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.0",
                "PlayableVersion":"5.05, 6.72, 7.5X, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -3777,7 +3777,7 @@
          "Platform":"PS4",
          "Id":151,
          "CategoryId":"utili",
-         "Name":"PS4 Temperature",
+         "Name":"Temperature",
          "CreatedBy":"Lapy, LM, Zeco, AlAzif, Zer0xFF",
          "SubmittedBy":"ohhsodead",
          "Version":"1.06",
@@ -3787,14 +3787,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.07",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.06",
                "PlayableVersion":"4.74, 5.05, 6.72, 7.02, 7.55, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -3805,7 +3805,7 @@
          "Platform":"PS4",
          "Id":152,
          "CategoryId":"utili",
-         "Name":"PS4 TOOLSET",
+         "Name":"TOOLSET",
          "CreatedBy":"Snake",
          "SubmittedBy":"ohhsodead",
          "Version":"2.0.0",
@@ -3815,21 +3815,21 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.20",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.10",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.0.0",
                "PlayableVersion":"9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -3959,7 +3959,7 @@
          "Platform":"PS4",
          "Id":158,
          "CategoryId":"utili",
-         "Name":"PS4 Temperature",
+         "Name":"Temperature",
          "CreatedBy":"Lapy, LM, Zeco, AlAzif, Zer0xFF",
          "SubmittedBy":"ohhsodead",
          "Version":"1.06",
@@ -3969,14 +3969,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.07",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.06",
                "PlayableVersion":"4.74, 5.05, 6.72, 7.02, 7.55, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -3987,7 +3987,7 @@
          "Platform":"PS4",
          "Id":159,
          "CategoryId":"utili",
-         "Name":"PS4 App Lock",
+         "Name":"App Lock",
          "CreatedBy":"Lapy",
          "SubmittedBy":"ohhsodead",
          "Version":"1.06",
@@ -3997,14 +3997,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:29:00",
-               "Name":"PS4 App Lock",
+               "Name":"App Lock",
                "Version":"1.07",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:29:00",
-               "Name":"PS4 App Lock",
+               "Name":"App Lock",
                "Version":"1.06",
                "PlayableVersion":"5.05, 6.72, 7.02, 7.5X, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -4189,7 +4189,7 @@
          "Version":"1.34",
          "PlayableVersion":"4.55, 4.74, 5.01, 5.05, 6.72, 7.5X, 9.00",
          "TitleId":"LAPY20001",
-         "Description":"File Manager for\nthe PS4",
+         "Description":"File Manager for the PS4",
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T20:00:00",
@@ -4274,7 +4274,7 @@
          "Platform":"PS4",
          "Id":170,
          "CategoryId":"utili",
-         "Name":"PS4 Cheats Manager",
+         "Name":"Cheats Manager",
          "CreatedBy":"bucanero",
          "SubmittedBy":"ohhsodead",
          "Version":"1.2.0",
@@ -4284,14 +4284,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.2",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.0",
                "PlayableVersion":"5.05, 6.72, 7.5X, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -4358,7 +4358,7 @@
          "Platform":"PS4",
          "Id":173,
          "CategoryId":"utili",
-         "Name":"PS4 Temperature",
+         "Name":"Temperature",
          "CreatedBy":"Lapy, LM, Zeco, AlAzif, Zer0xFF",
          "SubmittedBy":"ohhsodead",
          "Version":"1.06",
@@ -4368,14 +4368,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.07",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.06",
                "PlayableVersion":"4.74, 5.05, 6.72, 7.02, 7.55, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -4386,7 +4386,7 @@
          "Platform":"PS4",
          "Id":174,
          "CategoryId":"utili",
-         "Name":"PS4 TOOLSET",
+         "Name":"TOOLSET",
          "CreatedBy":"Snake",
          "SubmittedBy":"ohhsodead",
          "Version":"2.0.0",
@@ -4396,21 +4396,21 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.20",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.10",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.0.0",
                "PlayableVersion":"9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -4742,7 +4742,7 @@
          "Version":"1.34",
          "PlayableVersion":"4.55, 4.74, 5.01, 5.05, 6.72, 7.5X, 9.00",
          "TitleId":"LAPY20001",
-         "Description":"File Manager for\nthe PS4",
+         "Description":"File Manager for the PS4",
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T20:00:00",
@@ -4827,7 +4827,7 @@
          "Platform":"PS4",
          "Id":192,
          "CategoryId":"utili",
-         "Name":"PS4 Cheats Manager",
+         "Name":"Cheats Manager",
          "CreatedBy":"bucanero",
          "SubmittedBy":"ohhsodead",
          "Version":"1.2.0",
@@ -4837,14 +4837,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.2",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.0",
                "PlayableVersion":"5.05, 6.72, 7.5X, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -4911,7 +4911,7 @@
          "Platform":"PS4",
          "Id":195,
          "CategoryId":"utili",
-         "Name":"PS4 Temperature",
+         "Name":"Temperature",
          "CreatedBy":"Lapy, LM, Zeco, AlAzif, Zer0xFF",
          "SubmittedBy":"ohhsodead",
          "Version":"1.06",
@@ -4921,14 +4921,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.07",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.06",
                "PlayableVersion":"4.74, 5.05, 6.72, 7.02, 7.55, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -4939,7 +4939,7 @@
          "Platform":"PS4",
          "Id":196,
          "CategoryId":"utili",
-         "Name":"PS4 TOOLSET",
+         "Name":"TOOLSET",
          "CreatedBy":"Snake",
          "SubmittedBy":"ohhsodead",
          "Version":"2.0.0",
@@ -4949,21 +4949,21 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.20",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.10",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.0.0",
                "PlayableVersion":"9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -5141,7 +5141,7 @@
          "Version":"1.34",
          "PlayableVersion":"4.55, 4.74, 5.01, 5.05, 6.72, 7.5X, 9.00",
          "TitleId":"LAPY20001",
-         "Description":"File Manager for\nthe PS4",
+         "Description":"File Manager for the PS4",
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T20:00:00",
@@ -5288,7 +5288,7 @@
          "Version":"1.34",
          "PlayableVersion":"4.55, 4.74, 5.01, 5.05, 6.72, 7.5X, 9.00",
          "TitleId":"LAPY20001",
-         "Description":"File Manager for\nthe PS4",
+         "Description":"File Manager for the PS4",
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T20:00:00",
@@ -5373,7 +5373,7 @@
          "Platform":"PS4",
          "Id":214,
          "CategoryId":"utili",
-         "Name":"PS4 Cheats Manager",
+         "Name":"Cheats Manager",
          "CreatedBy":"bucanero",
          "SubmittedBy":"ohhsodead",
          "Version":"1.2.0",
@@ -5383,14 +5383,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.2",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.0",
                "PlayableVersion":"5.05, 6.72, 7.5X, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -5457,7 +5457,7 @@
          "Platform":"PS4",
          "Id":217,
          "CategoryId":"utili",
-         "Name":"PS4 Temperature",
+         "Name":"Temperature",
          "CreatedBy":"Lapy, LM, Zeco, AlAzif, Zer0xFF",
          "SubmittedBy":"ohhsodead",
          "Version":"1.06",
@@ -5467,14 +5467,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.07",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.06",
                "PlayableVersion":"4.74, 5.05, 6.72, 7.02, 7.55, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -5485,7 +5485,7 @@
          "Platform":"PS4",
          "Id":218,
          "CategoryId":"utili",
-         "Name":"PS4 TOOLSET",
+         "Name":"TOOLSET",
          "CreatedBy":"Snake",
          "SubmittedBy":"ohhsodead",
          "Version":"2.0.0",
@@ -5495,21 +5495,21 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.20",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.10",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.0.0",
                "PlayableVersion":"9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -5834,7 +5834,7 @@
          "Version":"1.34",
          "PlayableVersion":"4.55, 4.74, 5.01, 5.05, 6.72, 7.5X, 9.00",
          "TitleId":"LAPY20001",
-         "Description":"File Manager for\nthe PS4",
+         "Description":"File Manager for the PS4",
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T20:00:00",
@@ -5919,7 +5919,7 @@
          "Platform":"PS4",
          "Id":236,
          "CategoryId":"utili",
-         "Name":"PS4 Cheats Manager",
+         "Name":"Cheats Manager",
          "CreatedBy":"bucanero",
          "SubmittedBy":"ohhsodead",
          "Version":"1.2.0",
@@ -5929,14 +5929,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.2",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.0",
                "PlayableVersion":"5.05, 6.72, 7.5X, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -6003,7 +6003,7 @@
          "Platform":"PS4",
          "Id":239,
          "CategoryId":"utili",
-         "Name":"PS4 Temperature",
+         "Name":"Temperature",
          "CreatedBy":"Lapy, LM, Zeco, AlAzif, Zer0xFF",
          "SubmittedBy":"ohhsodead",
          "Version":"1.06",
@@ -6013,14 +6013,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.07",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.06",
                "PlayableVersion":"4.74, 5.05, 6.72, 7.02, 7.55, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -6031,7 +6031,7 @@
          "Platform":"PS4",
          "Id":240,
          "CategoryId":"utili",
-         "Name":"PS4 TOOLSET",
+         "Name":"TOOLSET",
          "CreatedBy":"Snake",
          "SubmittedBy":"ohhsodead",
          "Version":"2.0.0",
@@ -6041,21 +6041,21 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.20",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.10",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.0.0",
                "PlayableVersion":"9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -6387,7 +6387,7 @@
          "Version":"1.34",
          "PlayableVersion":"4.55, 4.74, 5.01, 5.05, 6.72, 7.5X, 9.00",
          "TitleId":"LAPY20001",
-         "Description":"File Manager for\nthe PS4",
+         "Description":"File Manager for the PS4",
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T20:00:00",
@@ -6472,7 +6472,7 @@
          "Platform":"PS4",
          "Id":258,
          "CategoryId":"utili",
-         "Name":"PS4 Cheats Manager",
+         "Name":"Cheats Manager",
          "CreatedBy":"bucanero",
          "SubmittedBy":"ohhsodead",
          "Version":"1.2.0",
@@ -6482,14 +6482,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.2",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.0",
                "PlayableVersion":"5.05, 6.72, 7.5X, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -6556,7 +6556,7 @@
          "Platform":"PS4",
          "Id":261,
          "CategoryId":"utili",
-         "Name":"PS4 Temperature",
+         "Name":"Temperature",
          "CreatedBy":"Lapy, LM, Zeco, AlAzif, Zer0xFF",
          "SubmittedBy":"ohhsodead",
          "Version":"1.06",
@@ -6566,14 +6566,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.07",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.06",
                "PlayableVersion":"4.74, 5.05, 6.72, 7.02, 7.55, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -6584,7 +6584,7 @@
          "Platform":"PS4",
          "Id":262,
          "CategoryId":"utili",
-         "Name":"PS4 TOOLSET",
+         "Name":"TOOLSET",
          "CreatedBy":"Snake",
          "SubmittedBy":"ohhsodead",
          "Version":"2.0.0",
@@ -6594,21 +6594,21 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.20",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.10",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.0.0",
                "PlayableVersion":"9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -6864,7 +6864,7 @@
          "Platform":"PS4",
          "Id":274,
          "CategoryId":"utili",
-         "Name":"PS4 Player",
+         "Name":"Player",
          "CreatedBy":"Lapy",
          "SubmittedBy":"ohhsodead",
          "Version":"1.07",
@@ -6874,14 +6874,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:14:00",
-               "Name":"PS4 Player",
+               "Name":"Player",
                "Version":"1.08",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:14:00",
-               "Name":"PS4 Player",
+               "Name":"Player",
                "Version":"1.07",
                "PlayableVersion":"5.05, 6.72, 7.02, 7.55, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -6940,7 +6940,7 @@
          "Version":"1.34",
          "PlayableVersion":"4.55, 4.74, 5.01, 5.05, 6.72, 7.5X, 9.00",
          "TitleId":"LAPY20001",
-         "Description":"File Manager for\nthe PS4",
+         "Description":"File Manager for the PS4",
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T20:00:00",
@@ -7025,7 +7025,7 @@
          "Platform":"PS4",
          "Id":280,
          "CategoryId":"utili",
-         "Name":"PS4 Cheats Manager",
+         "Name":"Cheats Manager",
          "CreatedBy":"bucanero",
          "SubmittedBy":"ohhsodead",
          "Version":"1.2.0",
@@ -7035,14 +7035,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.2",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.0",
                "PlayableVersion":"5.05, 6.72, 7.5X, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -7109,7 +7109,7 @@
          "Platform":"PS4",
          "Id":283,
          "CategoryId":"utili",
-         "Name":"PS4 Temperature",
+         "Name":"Temperature",
          "CreatedBy":"Lapy, LM, Zeco, AlAzif, Zer0xFF",
          "SubmittedBy":"ohhsodead",
          "Version":"1.06",
@@ -7119,14 +7119,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.07",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.06",
                "PlayableVersion":"4.74, 5.05, 6.72, 7.02, 7.55, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -7137,7 +7137,7 @@
          "Platform":"PS4",
          "Id":284,
          "CategoryId":"utili",
-         "Name":"PS4 TOOLSET",
+         "Name":"TOOLSET",
          "CreatedBy":"Snake",
          "SubmittedBy":"ohhsodead",
          "Version":"2.0.0",
@@ -7147,21 +7147,21 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.20",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.10",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.0.0",
                "PlayableVersion":"9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -7318,7 +7318,7 @@
          "Version":"1.34",
          "PlayableVersion":"4.55, 4.74, 5.01, 5.05, 6.72, 7.5X, 9.00",
          "TitleId":"LAPY20001",
-         "Description":"File Manager for\nthe PS4",
+         "Description":"File Manager for the PS4",
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T20:00:00",
@@ -7403,7 +7403,7 @@
          "Platform":"PS4",
          "Id":294,
          "CategoryId":"utili",
-         "Name":"PS4 Cheats Manager",
+         "Name":"Cheats Manager",
          "CreatedBy":"bucanero",
          "SubmittedBy":"ohhsodead",
          "Version":"1.2.0",
@@ -7413,14 +7413,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.2",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.0",
                "PlayableVersion":"5.05, 6.72, 7.5X, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -7487,7 +7487,7 @@
          "Platform":"PS4",
          "Id":297,
          "CategoryId":"utili",
-         "Name":"PS4 Temperature",
+         "Name":"Temperature",
          "CreatedBy":"Lapy, LM, Zeco, AlAzif, Zer0xFF",
          "SubmittedBy":"ohhsodead",
          "Version":"1.06",
@@ -7497,14 +7497,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.07",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.06",
                "PlayableVersion":"4.74, 5.05, 6.72, 7.02, 7.55, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -7515,7 +7515,7 @@
          "Platform":"PS4",
          "Id":298,
          "CategoryId":"utili",
-         "Name":"PS4 TOOLSET",
+         "Name":"TOOLSET",
          "CreatedBy":"Snake",
          "SubmittedBy":"ohhsodead",
          "Version":"2.0.0",
@@ -7525,21 +7525,21 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.20",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.10",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.0.0",
                "PlayableVersion":"9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -7612,7 +7612,7 @@
          "Version":"1.34",
          "PlayableVersion":"4.55, 4.74, 5.01, 5.05, 6.72, 7.5X, 9.00",
          "TitleId":"LAPY20001",
-         "Description":"File Manager for\nthe PS4",
+         "Description":"File Manager for the PS4",
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T20:00:00",
@@ -7697,7 +7697,7 @@
          "Platform":"PS4",
          "Id":304,
          "CategoryId":"utili",
-         "Name":"PS4 Cheats Manager",
+         "Name":"Cheats Manager",
          "CreatedBy":"bucanero",
          "SubmittedBy":"ohhsodead",
          "Version":"1.2.0",
@@ -7707,14 +7707,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.2",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:59:00",
-               "Name":"PS4 Cheats Manager",
+               "Name":"Cheats Manager",
                "Version":"1.2.0",
                "PlayableVersion":"5.05, 6.72, 7.5X, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -7781,7 +7781,7 @@
          "Platform":"PS4",
          "Id":307,
          "CategoryId":"utili",
-         "Name":"PS4 Temperature",
+         "Name":"Temperature",
          "CreatedBy":"Lapy, LM, Zeco, AlAzif, Zer0xFF",
          "SubmittedBy":"ohhsodead",
          "Version":"1.06",
@@ -7791,14 +7791,14 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.07",
                "PlayableVersion":"5.05+",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 Temperature",
+               "Name":"Temperature",
                "Version":"1.06",
                "PlayableVersion":"4.74, 5.05, 6.72, 7.02, 7.55, 9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
@@ -7809,7 +7809,7 @@
          "Platform":"PS4",
          "Id":308,
          "CategoryId":"utili",
-         "Name":"PS4 TOOLSET",
+         "Name":"TOOLSET",
          "CreatedBy":"Snake",
          "SubmittedBy":"ohhsodead",
          "Version":"2.0.0",
@@ -7819,21 +7819,21 @@
          "DownloadFiles":[
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.20",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.10",
                "PlayableVersion":"9.00, 11.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
             },
             {
                "LastUpdated":"2024-07-04T19:53:00",
-               "Name":"PS4 TOOLSET",
+               "Name":"TOOLSET",
                "Version":"2.0.0",
                "PlayableVersion":"9.00",
                "InstallPath":"/data/pkg/{title_id}/{name}-{version}.pkg"
