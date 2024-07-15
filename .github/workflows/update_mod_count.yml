@@ -30,13 +30,13 @@ jobs:
         run: |
           python count_mods.py
           mkdir -p badge
-          mv mod_count_badge.json badge/mod_count_badge.json
+          mv mod_count_badge.json badges/mod_count_badge.json
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add badge/mod_count_badge.json
+          git add badges/mod_count_badge.json
           git commit -m "Update mod count badge"
           git push
         env:
