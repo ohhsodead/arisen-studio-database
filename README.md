@@ -1,5 +1,5 @@
-![Mods count](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/badges/mod_count_badge.json&label=Total%20Mods)
-![Total Packages](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/badges/package_count_badge.json&label=Total%20Packages)
+![Mods count](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/.github/badges/mod-count-badge.json&label=Total%20Mods)
+![Total Packages](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/.github/badges/package-count-badge.json&label=Total%20Packages)
 
 # Arisen Studio Database
 This repo contains all the data for the game mods, homebrew, resources, plugins, apps, and game saves used in the [Arisen Studio](https://github.com/ohhsodead/arisen-studio) project.
