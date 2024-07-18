@@ -19,14 +19,14 @@ def count_saves_in_specific_files(files):
 
 if __name__ == "__main__":
     files = [
-        './PS3/game-mods.json',
-        './PS3/homebrew.json',
-        './PS3/resources.json',
-        './XBOX360/plugins.json'
+        "https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/PS3/game-mods.json",
+        "https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/PS3/homebrew.json",
+        "https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/PS3/resources.json",
+        "https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/XBOX360/plugins.json"
     ]
     
     saves = [
-        './game-saves.json'
+        "https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/game-saves.json"
     ]
     
     total_mods = count_mods_in_specific_files(files)
