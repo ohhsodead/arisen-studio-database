@@ -1,0 +1,35 @@
+name: Update Database Stats
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  update-mod-and-package-counts:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Update mod count
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: |
+          python count_mods.py
+
+      - name: Update package count
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: |
+          python count_packages.py
