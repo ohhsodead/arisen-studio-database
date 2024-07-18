@@ -19,7 +19,6 @@ def count_saves_in_specific_files(files):
 
 if __name__ == "__main__":
     files = [
-        './PS3/game-cheats.json',
         './PS3/game-mods.json',
         './PS3/homebrew.json',
         './PS3/resources.json',
