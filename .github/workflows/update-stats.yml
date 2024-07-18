@@ -1,4 +1,4 @@
-name: Update Database Stats
+name: Update Stats
 
 on:
   push:
@@ -7,9 +7,15 @@ on:
   pull_request:
     branches:
       - main
+  workflow_dispatch:  # Allow manual triggering
+    inputs:
+      manualTrigger:
+        description: 'Trigger the workflow manually'
+        required: false
+        default: 'true'  # You can adjust default value if needed
 
 jobs:
-  update-mod-and-package-counts:
+  update-stats:
     runs-on: ubuntu-latest
     
     steps:
@@ -20,16 +26,12 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
-
+      
       - name: Install dependencies
         run: pip install -r requirements.txt
-
-      - name: Update mod count
-        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
-        run: |
-          python .github/scripts/count-mods.py
-
-      - name: Update package count
-        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
-        run: |
-          python .github/scripts/count-packages.py
+      
+      - name: Update mods count
+        run: python count_mods.py
+      
+      - name: Update packages count
+        run: python count_packages.py
