@@ -28,10 +28,17 @@ jobs:
           python-version: '3.x'
       
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            echo "requirements.txt not found. Skipping installation."
+          fi
       
       - name: Update mods count
-        run: python .github/scripts/count_mods.py
-      
+        run: python .github/scripts/count-mods.py
+        working-directory: ./  # Adjust path if count_mods.py is not in root
+
       - name: Update packages count
-        run: python .github/scripts/count_packages.py
+        run: python .github/scripts/count-packages.py
+        working-directory: ./  # Adjust path if count_packages.py is not in root
