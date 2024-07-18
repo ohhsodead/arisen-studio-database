@@ -28,5 +28,5 @@ if __name__ == "__main__":
     }
     
     os.makedirs('.github/badges', exist_ok=True)
-    with open('github/badges/package-count-badge.json', 'w') as f:
+    with open('.github/badges/package-count-badge.json', 'w') as f:
         json.dump(badge_data, f)
