@@ -31,7 +31,7 @@ jobs:
         run: pip install -r requirements.txt
       
       - name: Update mods count
-        run: python count_mods.py
+        run: python .github/scripts/count_mods.py
       
       - name: Update packages count
-        run: python count_packages.py
+        run: python .github/scripts/count_packages.py
