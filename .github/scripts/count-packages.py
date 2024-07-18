@@ -27,6 +27,6 @@ if __name__ == "__main__":
         "color": "brightgreen"
     }
     
-    os.makedirs('Badges', exist_ok=True)
-    with open('Badges/package_count_badge.json', 'w') as f:
+    os.makedirs('.github/badges', exist_ok=True)
+    with open('github/badges/package_count_badge.json', 'w') as f:
         json.dump(badge_data, f)
