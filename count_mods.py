@@ -33,10 +33,12 @@ if __name__ == "__main__":
     total_mods = count_mods_in_specific_files(files)
     total_saves = count_saves_in_specific_files(saves)
     
+    total_count = total_mods + total_saves
+    
     badge_data = {
         "schemaVersion": 1,
         "label": "mods",
-        "message": str(total_mods),
+        "message": str(total_count),
         "color": "brightgreen"
     }
     
