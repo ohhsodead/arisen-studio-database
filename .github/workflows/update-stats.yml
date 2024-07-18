@@ -37,8 +37,8 @@ jobs:
       
       - name: Update mods count
         run: python .github/scripts/count-mods.py
-        working-directory: ./  # Adjust path if count_mods.py is not in root
+        working-directory: .github/scripts
 
       - name: Update packages count
         run: python .github/scripts/count-packages.py
-        working-directory: ./  # Adjust path if count_packages.py is not in root
+        working-directory: .github/scripts
