@@ -29,13 +29,10 @@ jobs:
       
       - name: Install dependencies
         run: |
-          echo "requests" > requirements.txt
-          pip install -r requirements.txt
+          python -m pip install requests
       
       - name: Update mods count
-        run: python count-mods.py
-        working-directory: .github/scripts
-
+        run: python .github/scripts/count-mods.py
+      
       - name: Update packages count
-        run: python count-packages.py
-        working-directory: .github/scripts
+        run: python .github/scripts/count-packages.py
