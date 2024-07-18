@@ -36,9 +36,9 @@ jobs:
           fi
       
       - name: Update mods count
-        run: python .github/scripts/count-mods.py
+        run: python count-mods.py
         working-directory: .github/scripts
 
       - name: Update packages count
-        run: python .github/scripts/count-packages.py
+        run: python count-packages.py
         working-directory: .github/scripts
