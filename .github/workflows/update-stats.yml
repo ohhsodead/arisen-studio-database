@@ -27,9 +27,9 @@ jobs:
       - name: Update mod count
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         run: |
-          python count_mods.py
+          python .github/scripts/count-mods.py
 
       - name: Update package count
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         run: |
-          python count_packages.py
+          python .github/scripts/count-packages.py
