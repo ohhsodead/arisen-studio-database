@@ -16,7 +16,7 @@
                "Name":"Legacy Menu",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Legacy-Menu-v1.0.0-ID1.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-Legacy-Menu-v1.0.0-ID1.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\LegacyMenu.xex"
                ]
@@ -39,7 +39,7 @@
                "Name":"Destruction Menu",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Destruction-Menu-v1.0.0-ID2.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-Destruction-Menu-v1.0.0-ID2.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Destruction.xex"
                ]
@@ -62,7 +62,7 @@
                "Name":"Medakas Cock Menu",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODMW2-Medakas-Cock-Menu-v1.0.0-ID3.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/CODMW2-Medakas-Cock-Menu-v1.0.0-ID3.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\MW2\\MedakaMW2.xex"
                ]
@@ -85,7 +85,7 @@
                "Name":"Jiggy Menu (Cracked)",
                "Version":"4.5",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Jiggy-Menu-(Cracked)-v4.5-ID4.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-Jiggy-Menu-(Cracked)-v4.5-ID4.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Jiggy_4.5.xex"
                ]
@@ -108,7 +108,7 @@
                "Name":"Afrikans (Cracked)",
                "Version":"2.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Afrikans-(Cracked)-v2.0-ID5.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-Afrikans-(Cracked)-v2.0-ID5.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Afrikans_Crack_By_Team_Clapped.xex"
                ]
@@ -131,7 +131,7 @@
                "Name":"Alpha Menu",
                "Version":"3.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Alpha-Menu-v3.0-ID6.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-Alpha-Menu-v3.0-ID6.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\AlphaMenu.xex"
                ]
@@ -154,7 +154,7 @@
                "Name":"Charger Menu",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Charger-Menu-v1.0-ID7.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-Charger-Menu-v1.0-ID7.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Charger.xex"
                ]
@@ -177,7 +177,7 @@
                "Name":"Dragon Menu",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Dragon-Menu-v1.0-ID8.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-Dragon-Menu-v1.0-ID8.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Dragon.xex"
                ]
@@ -200,7 +200,7 @@
                "Name":"El Host Menu",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-El-Host-Menu-v1.0-ID9.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-El-Host-Menu-v1.0-ID9.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\El Host.xex"
                ]
@@ -223,7 +223,7 @@
                "Name":"Celestial Menu",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Celestial-Menu-v1.0-ID10.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-Celestial-Menu-v1.0-ID10.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Celestial.xiii"
                ]
@@ -246,7 +246,7 @@
                "Name":"Enforcer Menu",
                "Version":"2.9.4",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Enforcer-Menu-v2.9.4-ID11.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-Enforcer-Menu-v2.9.4-ID11.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Enforcer v2.9.4.xex"
                ]
@@ -269,7 +269,7 @@
                "Name":"Ghost Menu",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Ghost-Menu-v1.0-ID12.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-Ghost-Menu-v1.0-ID12.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\GhostMenu.xex"
                ]
@@ -292,7 +292,7 @@
                "Name":"GTA5 Menu",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-GTA5-Menu-v1.0-ID13.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-GTA5-Menu-v1.0-ID13.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\GTA5Menu.xex"
                ]
@@ -315,7 +315,7 @@
                "Name":"Havoc Menu",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Havoc-Menu-v1.0-ID14.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-Havoc-Menu-v1.0-ID14.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Havoc.xex"
                ]
@@ -338,7 +338,7 @@
                "Name":"NiNJA Menu",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-NiNJA-Menu-v1.0-ID15.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-NiNJA-Menu-v1.0-ID15.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\NiNJA.xex"
                ]
@@ -361,7 +361,7 @@
                "Name":"The Purge Menu (Cracked)",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-The-Purge-Menu-(Cracked)-v1.0-ID16.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-The-Purge-Menu-(Cracked)-v1.0-ID16.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\The Purge (Crack).xex"
                ]
@@ -384,7 +384,7 @@
                "Name":"The Purge Menu (Private)",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-The-Purge-Menu-(Private)-v1.0-ID17.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-The-Purge-Menu-(Private)-v1.0-ID17.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\The Purge (Private).xex"
                ]
@@ -407,7 +407,7 @@
                "Name":"Guardian Menu (Cracked)",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Guardian-Menu-(Cracked)-v1.0-ID18.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-Guardian-Menu-(Cracked)-v1.0-ID18.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\GuardianMenu.xex"
                ]
@@ -430,7 +430,7 @@
                "Name":"Mega Menu",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Mega-Menu-v1.0-ID19.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-Mega-Menu-v1.0-ID19.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\MegaMenu.xex"
                ]
@@ -453,7 +453,7 @@
                "Name":"Pandora Menu",
                "Version":"2.7",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Pandora-Menu-v2.7-ID20.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-Pandora-Menu-v2.7-ID20.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Pandora2.7.xex"
                ]
@@ -476,7 +476,7 @@
                "Name":"Rebel Menu (Cracked)",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Rebel-Menu-(Cracked)-v1.0-ID21.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-Rebel-Menu-(Cracked)-v1.0-ID21.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\RebelCrack.xex"
                ]
@@ -499,7 +499,7 @@
                "Name":"Patch Menu (Cracked)",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Patch-Menu-(Cracked)-v1.0-ID22.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-Patch-Menu-(Cracked)-v1.0-ID22.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Patch Crack.xex"
                ]
@@ -522,7 +522,7 @@
                "Name":"Rebellion Menu",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Rebellion-Menu-v1.0-ID23.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-Rebellion-Menu-v1.0-ID23.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Rebellion.xex"
                ]
@@ -545,7 +545,7 @@
                "Name":"SEngine Menu",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-SEngine-Menu-v1.0-ID24.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-SEngine-Menu-v1.0-ID24.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\SEngine.xex"
                ]
@@ -568,7 +568,7 @@
                "Name":"Serozoid Menu",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Serozoid-Menu-v1.0-ID25.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-Serozoid-Menu-v1.0-ID25.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Serozoid.xex"
                ]
@@ -591,7 +591,7 @@
                "Name":"Silk Road Menu",
                "Version":"2.6",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Silk-Road-Menu-v2.6-ID26.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-Silk-Road-Menu-v2.6-ID26.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\SilkRoad.xex"
                ]
@@ -614,7 +614,7 @@
                "Name":"Simplicimeme Menu",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Simplicimeme-Menu-v1.0-ID27.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-Simplicimeme-Menu-v1.0-ID27.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Simplicimeme.xex"
                ]
@@ -637,7 +637,7 @@
                "Name":"skidrow360 Menu",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-skidrow360-Menu-v1.0-ID28.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-skidrow360-Menu-v1.0-ID28.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\skidrow360.svt"
                ]
@@ -660,7 +660,7 @@
                "Name":"SRB Menu (Cracked)",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-SRB-Menu-(Cracked)-v1.0-ID29.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-SRB-Menu-(Cracked)-v1.0-ID29.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\SRBCrack.xex"
                ]
@@ -683,7 +683,7 @@
                "Name":"Superior V Menu (Private)",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Superior-V-Menu-(Private)-v1.0-ID30.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-Superior-V-Menu-(Private)-v1.0-ID30.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\superior.v"
                ]
@@ -706,7 +706,7 @@
                "Name":"SVT Menu (Cracked)",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-SVT-Menu-(Cracked)-v1.0-ID31.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-SVT-Menu-(Cracked)-v1.0-ID31.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\SVTCRACK.xex"
                ]
@@ -729,7 +729,7 @@
                "Name":"The Enforcer Menu",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-The-Enforcer-Menu-v1.0-ID32.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-The-Enforcer-Menu-v1.0-ID32.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\\\{CATEGORYID}\\theenforcer.xex"
                ]
@@ -752,7 +752,7 @@
                "Name":"XBLRider (Cracked)",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-XBLRider-(Cracked)-v1.0-ID33.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-XBLRider-(Cracked)-v1.0-ID33.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\XBLRiderCrack.xex"
                ]
@@ -775,7 +775,7 @@
                "Name":"Velonia Menu",
                "Version":"1.0.1",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODMW2-Velonia-Menu-v1.0.1-ID34.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/CODMW2-Velonia-Menu-v1.0.1-ID34.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Velonia.xex"
                ]
@@ -798,7 +798,7 @@
                "Name":"Velonia Menu",
                "Version":"1.0.1",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODMW3-Velonia-Menu-v1.0.1-ID35.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/CODMW3-Velonia-Menu-v1.0.1-ID35.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Velonia.xex"
                ]
@@ -821,7 +821,7 @@
                "Name":"Velonia Menu",
                "Version":"1.0.1",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODGHOSTS-Velonia-Menu-v1.0.1-ID36.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/CODGHOSTS-Velonia-Menu-v1.0.1-ID36.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Velonia.xex"
                ]
@@ -844,7 +844,7 @@
                "Name":"Appendum Menu",
                "Version":"2.11",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODWAW-Appendum-Menu-v2.11-ID37.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/CODWAW-Appendum-Menu-v2.11-ID37.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Appendum.xex"
                ]
@@ -867,7 +867,7 @@
                "Name":"Appendum Menu",
                "Version":"2.11",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODBO-Appendum-Menu-v2.11-ID38.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/CODBO-Appendum-Menu-v2.11-ID38.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Appendum.xex"
                ]
@@ -890,7 +890,7 @@
                "Name":"Appendum Menu",
                "Version":"2.11",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODMW2-Appendum-Menu-v2.11-ID39.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/CODMW2-Appendum-Menu-v2.11-ID39.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Appendum.xex"
                ]
@@ -913,7 +913,7 @@
                "Name":"Appendum Menu",
                "Version":"2.11",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODMW3-Appendum-Menu-v2.11-ID40.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/CODMW3-Appendum-Menu-v2.11-ID40.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Appendum.xex"
                ]
@@ -936,7 +936,7 @@
                "Name":"Appendum Menu",
                "Version":"2.11",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODBO2-Appendum-Menu-v2.11-ID41.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/CODBO2-Appendum-Menu-v2.11-ID41.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Appendum.xex"
                ]
@@ -959,7 +959,7 @@
                "Name":"Appendum Menu",
                "Version":"2.11",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODGHOSTS-Appendum-Menu-v2.11-ID42.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/CODGHOSTS-Appendum-Menu-v2.11-ID42.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Appendum.xex"
                ]
@@ -982,7 +982,7 @@
                "Name":"Appendum Menu",
                "Version":"2.11",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODAW-Appendum-Menu-v2.11-ID43.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/CODAW-Appendum-Menu-v2.11-ID43.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Appendum.xex"
                ]
@@ -1005,7 +1005,7 @@
                "Name":"Appendum Menu",
                "Version":"2.11",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODBO3-Appendum-Menu-v2.11-ID44.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/CODBO3-Appendum-Menu-v2.11-ID44.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Appendum.xex"
                ]
@@ -1028,7 +1028,7 @@
                "Name":"Purple Kush Menu",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODBO-Purple-Kush-Menu-v1.0-ID45.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/CODBO-Purple-Kush-Menu-v1.0-ID45.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\purpleKush.xex"
                ]
@@ -1051,7 +1051,7 @@
                "Name":"Off Host Menu",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODBO-Off-Host-Menu-v1.0-ID46.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/CODBO-Off-Host-Menu-v1.0-ID46.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\BOZombies.xex"
                ]
@@ -1074,7 +1074,7 @@
                "Name":"Off Host Menu",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODBO-Off-Host-Menu-v1.0-ID47.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/CODBO-Off-Host-Menu-v1.0-ID47.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Revival_Project.xex"
                ]
@@ -1097,7 +1097,7 @@
                "Name":"XDRPC",
                "Version":"1.0",
                "LastUpdated":"2022-06-08T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/PLUGIN-XDRPC-v1.0-ID48.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/PLUGIN-XDRPC-v1.0-ID48.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\XDRPC.xex"
                ]
@@ -1120,7 +1120,7 @@
                "Name":"JRPC",
                "Version":"2.0",
                "LastUpdated":"2022-06-08T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/PLUGIN-JRPC-v2.0-ID49.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/PLUGIN-JRPC-v2.0-ID49.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\JRPC2.xex"
                ]
@@ -1143,7 +1143,7 @@
                "Name":"XBDM",
                "Version":"1.0",
                "LastUpdated":"2022-06-08T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/PLUGIN-XBDM-v1.0-ID50.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/PLUGIN-XBDM-v1.0-ID50.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\xbdm.xex"
                ]
@@ -1166,7 +1166,7 @@
                "Name":"El Host Menu",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODMW3-El-Host-Menu-v1.0-ID51.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/CODMW3-El-Host-Menu-v1.0-ID51.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\El Host.xex"
                ]
@@ -1189,7 +1189,7 @@
                "Name":"MatrixMods",
                "Version":"1.0",
                "LastUpdated":"2023-07-01T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODMW3-MatrixMods-v1.0-ID52.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/CODMW3-MatrixMods-v1.0-ID52.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\El Host.xex"
                ]
@@ -1212,7 +1212,7 @@
                "Name":"Exclusion Menu",
                "Version":"0.1.0",
                "LastUpdated":"2023-12-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODMW2-Exclusion-Menu-v0.1.0-ID53.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/CODMW2-Exclusion-Menu-v0.1.0-ID53.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Exclusion.xex"
                ]
@@ -1235,9 +1235,32 @@
                "Name":"Myten Menu",
                "Version":"1.0",
                "LastUpdated":"2023-12-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODBO-Myten-Menu-v1.0-ID54.zip",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/CODBO-Myten-Menu-v1.0-ID54.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Myten V1 Bo1.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":55,
+         "Name":"420 Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.0",
+         "GameMode":"MP",
+         "ModType":"XEX",
+         "Description":"Q1: How to access all client menu?\nAnswer: You use the player menu inside the off host!\n\nQ2: Why does this menu crash?\nAnswer 1: Make sure your game is on the latest update\nAnswer 2: Disable stealth server cheats\nAnswer 3: If still crashing then it is your stealth\n\nUpdates:\nIf any updates come out, they will be released on my youtube @Smokey xKoVx.\n\nIf you find any bugs, then be sure to let me know!\n\nHope you enjoy this free mod menu!\n\nOptional Load Screen:\nIf you wish to use my load screen, place the file inside\nyour black ops folder (Where all the files are)",
+         "DownloadFiles":[
+            {
+               "Name":"420 Menu",
+               "Version":"1.0",
+               "LastUpdated":"2024-07-22T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/PLUGINS/GTA5-420-Menu-v1.0-ID55.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\GTAVMenu.xex"
                ]
             }
          ]
