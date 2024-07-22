@@ -3869,24 +3869,8 @@
                "InstallPaths":[
                   "/dev_rebug/vsh/resource/coldboot.raf"
                ]
-            }
-         ]
-      },
-      {
-         "Platform":"PS3",
-         "Id":227,
-         "CategoryId":"cb",
-         "Name":"Nike Swoosh Logo (Black)",
-         "FirmwareType":"CEX/DEX",
-         "Region":"",
-         "CreatedBy":"LesBelcherModz",
-         "SubmittedBy":"ohhsodead",
-         "Version":"1.0",
-         "GameMode":"",
-         "ModType":"RAF",
-         "Description":"A custom coolboot for your console.",
-         "DownloadFiles":[
-            {
+            },
+			{
                "Name":"Nike Swoosh Logo (Black)",
                "Region":"",
                "Version":"1.0",
@@ -3902,7 +3886,7 @@
          "Platform":"PS3",
          "Id":228,
          "CategoryId":"cb",
-         "Name":"PlayStation 2 Logo \u0026 Sound",
+         "Name":"PlayStation 1 Logo \u0026 Sound",
          "FirmwareType":"CEX/DEX",
          "Region":"",
          "CreatedBy":"LesBelcherModz",
@@ -3913,7 +3897,7 @@
          "Description":"A custom coolboot for your console.",
          "DownloadFiles":[
             {
-               "Name":"PlayStation 2 Logo \u0026 Sound",
+               "Name":"PlayStation 1 Logo \u0026 Sound",
                "Region":"",
                "Version":"1.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
@@ -7426,6 +7410,110 @@
                "Url":"https://db.arisen.studio/PS3/RESOURCES/TH-XXXTENTACION-Theme-v1.0-ID371.zip",
                "InstallPaths":[
                   "/dev_hdd0/theme/xxxtentacion theme.P3T"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"PS3",
+         "Id":372,
+         "CategoryId":"th",
+         "Name":"Diwali Festive Theme",
+         "FirmwareType":"CEX/DEX/HEN",
+         "Region":"",
+         "CreatedBy":"",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.0",
+         "GameMode":"",
+         "ModType":"P3T",
+         "Description":"An custom theme for your console.",
+         "DownloadFiles":[
+            {
+               "Name":"Diwali Festive Theme",
+               "Region":"",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/TH-Diwali-Festive-Theme-v1.0-ID372.zip",
+               "InstallPaths":[
+                  "/dev_hdd0/theme/23626-Diwali_2014.p3t"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"PS3",
+         "Id":373,
+         "CategoryId":"th",
+         "Name":"Enlightened Theme",
+         "FirmwareType":"CEX/DEX/HEN",
+         "Region":"",
+         "CreatedBy":"",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.0",
+         "GameMode":"",
+         "ModType":"P3T",
+         "Description":"An custom theme for your console.",
+         "DownloadFiles":[
+            {
+               "Name":"Enlightened Theme",
+               "Region":"",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/TH-Enlightened-Theme-v1.0-ID373.zip",
+               "InstallPaths":[
+                  "/dev_hdd0/theme/26004-Enlightened_by_AyRod-ThaGod.p3t"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"PS3",
+         "Id":374,
+         "CategoryId":"th",
+         "Name":"PS2 Animated Theme",
+         "FirmwareType":"CEX/DEX/HEN",
+         "Region":"",
+         "CreatedBy":"",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.0",
+         "GameMode":"",
+         "ModType":"P3T",
+         "Description":"An custom theme for your console.",
+         "DownloadFiles":[
+            {
+               "Name":"PS2 Animated Theme",
+               "Region":"",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/TH-PS2-Animated-Theme-v1.0-ID374.zip",
+               "InstallPaths":[
+                  "/dev_hdd0/theme/25918-PS2ThemeBYlnnlrocklnnl.p3t"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"PS3",
+         "Id":375,
+         "CategoryId":"th",
+         "Name":"Call of Duty: Advanced Warfare Dynamic Theme",
+         "FirmwareType":"CEX/DEX/HEN",
+         "Region":"",
+         "CreatedBy":"",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.0",
+         "GameMode":"",
+         "ModType":"P3T",
+         "Description":"An custom theme for your console.",
+         "DownloadFiles":[
+            {
+               "Name":"Call of Duty: Advanced Warfare Dynamic Theme",
+               "Region":"",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/TH-CODAW-Dynamic-Theme-v1.0-ID375.zip",
+               "InstallPaths":[
+                  "/dev_hdd0/theme/23653-CoD_Advanced_Warfare_Dynamic_Theme.p3t"
                ]
             }
          ]
