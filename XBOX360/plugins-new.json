@@ -1,0 +1,1246 @@
+{
+   "Mods":[
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":1,
+         "Name":"Legacy Menu",
+         "CreatedBy":"RevDictator",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.0.0",
+         "GameMode":"MP",
+         "ModType":"XEX",
+         "Description":"Open Menu:\nDPAD Right + X\n\nCredit:\nRC4\nTheUnknownCoder\nDark Voyage",
+         "DownloadFiles":[
+            {
+               "Name":"Legacy Menu",
+               "Version":"1.0.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Legacy-Menu-v1.0.0-ID1.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\LegacyMenu.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":2,
+         "Name":"Destruction Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.0.0",
+         "GameMode":"MP",
+         "ModType":"XEX",
+         "Description":"Open Menu:\nLeft Stick + X",
+         "DownloadFiles":[
+            {
+               "Name":"Destruction Menu",
+               "Version":"1.0.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Destruction-Menu-v1.0.0-ID2.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Destruction.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"codmw2",
+         "Id":3,
+         "Name":"Medakas Cock Menu",
+         "CreatedBy":"Blasts Mods",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0.0",
+         "GameMode":"MP",
+         "ModType":"XEX",
+         "Description":"This is a free alternative menu to some of the premium ones on the marked atm. It has premium features of paid menus. If you experience any issues or bugs, please contact Blasts Mods via the methods below, thanks.\nTwitter @trickshotter\nDiscord Blasts Mods#4435",
+         "DownloadFiles":[
+            {
+               "Name":"Medakas Cock Menu",
+               "Version":"1.0.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODMW2-Medakas-Cock-Menu-v1.0.0-ID3.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\MW2\\MedakaMW2.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":4,
+         "Name":"Jiggy Menu (Cracked)",
+         "CreatedBy":"Jiggy",
+         "SubmittedBy":"NCKwolf",
+         "Version":"4.5",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"Cracked by Team Clapped.",
+         "DownloadFiles":[
+            {
+               "Name":"Jiggy Menu (Cracked)",
+               "Version":"4.5",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Jiggy-Menu-(Cracked)-v4.5-ID4.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Jiggy_4.5.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":5,
+         "Name":"Afrikans Menu (Cracked)",
+         "CreatedBy":"xbls ninja",
+         "SubmittedBy":"NCKwolf",
+         "Version":"2.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"Afrikans (Cracked)",
+               "Version":"2.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Afrikans-(Cracked)-v2.0-ID5.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Afrikans_Crack_By_Team_Clapped.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":6,
+         "Name":"Alpha Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"3.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"Open Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"Alpha Menu",
+               "Version":"3.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Alpha-Menu-v3.0-ID6.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\AlphaMenu.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":7,
+         "Name":"Charger Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"Open Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"Charger Menu",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Charger-Menu-v1.0-ID7.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Charger.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":8,
+         "Name":"Dragon Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"Open Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"Dragon Menu",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Dragon-Menu-v1.0-ID8.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Dragon.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":9,
+         "Name":"El Host Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"Open Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"El Host Menu",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-El-Host-Menu-v1.0-ID9.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\El Host.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":10,
+         "Name":"Celestial Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XIII",
+         "Description":"Open Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"Celestial Menu",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Celestial-Menu-v1.0-ID10.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Celestial.xiii"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":11,
+         "Name":"Enforcer Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"2.9.4",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"Open Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"Enforcer Menu",
+               "Version":"2.9.4",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Enforcer-Menu-v2.9.4-ID11.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Enforcer v2.9.4.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":12,
+         "Name":"Ghost Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"Open Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"Ghost Menu",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Ghost-Menu-v1.0-ID12.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\GhostMenu.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":13,
+         "Name":"GTA5 Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"Open Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"GTA5 Menu",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-GTA5-Menu-v1.0-ID13.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\GTA5Menu.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":14,
+         "Name":"Havoc Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"Open Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"Havoc Menu",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Havoc-Menu-v1.0-ID14.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Havoc.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":15,
+         "Name":"NiNJA Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"Open Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"NiNJA Menu",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-NiNJA-Menu-v1.0-ID15.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\NiNJA.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":16,
+         "Name":"The Purge Menu (Cracked)",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"This is a crack from the original version.",
+         "DownloadFiles":[
+            {
+               "Name":"The Purge Menu (Cracked)",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-The-Purge-Menu-(Cracked)-v1.0-ID16.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\The Purge (Crack).xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":17,
+         "Name":"The Purge Menu (Private)",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"This is a private menu and may require a authentication (login/password) to work.\n\nHint: You can use the crack instead.",
+         "DownloadFiles":[
+            {
+               "Name":"The Purge Menu (Private)",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-The-Purge-Menu-(Private)-v1.0-ID17.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\The Purge (Private).xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":18,
+         "Name":"Guardian Menu (Cracked)",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"Open Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"Guardian Menu (Cracked)",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Guardian-Menu-(Cracked)-v1.0-ID18.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\GuardianMenu.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":19,
+         "Name":"Mega Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"Open Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"Mega Menu",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Mega-Menu-v1.0-ID19.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\MegaMenu.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":20,
+         "Name":"Pandora Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"2.7",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"Open Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"Pandora Menu",
+               "Version":"2.7",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Pandora-Menu-v2.7-ID20.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\Pandora2.7.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":21,
+         "Name":"Rebel Menu (Cracked)",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"This is a cracked version of the menu.\n\nOpen Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"Rebel Menu (Cracked)",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Rebel-Menu-(Cracked)-v1.0-ID21.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\RebelCrack.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":22,
+         "Name":"Patch Menu (Cracked)",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"This is a cracked version of the menu.\n\nOpen Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"Patch Menu (Cracked)",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Patch-Menu-(Cracked)-v1.0-ID22.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Patch Crack.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":23,
+         "Name":"Rebellion Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"Open Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"Rebellion Menu",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Rebellion-Menu-v1.0-ID23.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Rebellion.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":24,
+         "Name":"SEngine Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"Open Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"SEngine Menu",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-SEngine-Menu-v1.0-ID24.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\SEngine.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":25,
+         "Name":"Serozoid Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"Open Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"Serozoid Menu",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Serozoid-Menu-v1.0-ID25.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Serozoid.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":26,
+         "Name":"Silk Road Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"2.6",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"Open Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"Silk Road Menu",
+               "Version":"2.6",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Silk-Road-Menu-v2.6-ID26.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\SilkRoad.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":27,
+         "Name":"Simplicimeme Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"Open Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"Simplicimeme Menu",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Simplicimeme-Menu-v1.0-ID27.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Simplicimeme.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":28,
+         "Name":"skidrow360 Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"svt",
+         "Description":"Open Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"skidrow360 Menu",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-skidrow360-Menu-v1.0-ID28.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\skidrow360.svt"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":29,
+         "Name":"SRB Menu (Cracked)",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"This is a cracked version of the menu.\n\nOpen Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"SRB Menu (Cracked)",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-SRB-Menu-(Cracked)-v1.0-ID29.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\SRBCrack.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":30,
+         "Name":"Superior V Menu (Private)",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"v",
+         "Description":"You must have a license for it work. You can purchase at: http://superiorv.net/",
+         "DownloadFiles":[
+            {
+               "Name":"Superior V Menu (Private)",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-Superior-V-Menu-(Private)-v1.0-ID30.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\superior.v"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":31,
+         "Name":"SVT Menu (Cracked)",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"This is a cracked version of the menu.\n\nOpen Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"SVT Menu (Cracked)",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-SVT-Menu-(Cracked)-v1.0-ID31.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\SVTCRACK.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":32,
+         "Name":"The Enforcer Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"Open Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"The Enforcer Menu",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-The-Enforcer-Menu-v1.0-ID32.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\\\{CATEGORYID}\\theenforcer.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"gta5",
+         "Id":33,
+         "Name":"XBLRider (Cracked)",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"NCKwolf",
+         "Version":"1.0",
+         "GameMode":"SP/MP",
+         "ModType":"XEX",
+         "Description":"Open Menu:\nYou will be prompted to bind buttons upon launch.",
+         "DownloadFiles":[
+            {
+               "Name":"XBLRider (Cracked)",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/GTA5-XBLRider-(Cracked)-v1.0-ID33.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\XBLRiderCrack.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"codmw2",
+         "Id":34,
+         "Name":"Velonia Menu",
+         "CreatedBy":"Liam",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.0.1",
+         "GameMode":"MP",
+         "ModType":"XEX",
+         "Description":"Off host cheat menu.\n\nCredits\n-Liam\n-Zone\n-Joker\n-Dread\n-Smokey xKoVx",
+         "DownloadFiles":[
+            {
+               "Name":"Velonia Menu",
+               "Version":"1.0.1",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODMW2-Velonia-Menu-v1.0.1-ID34.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Velonia.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"codmw3",
+         "Id":35,
+         "Name":"Velonia Menu",
+         "CreatedBy":"Liam",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.0.1",
+         "GameMode":"MP",
+         "ModType":"XEX",
+         "Description":"Off host cheat menu.\n\nCredits\n-Liam\n-Zone\n-Joker\n-Dread\n-Smokey xKoVx",
+         "DownloadFiles":[
+            {
+               "Name":"Velonia Menu",
+               "Version":"1.0.1",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODMW3-Velonia-Menu-v1.0.1-ID35.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Velonia.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"codghosts",
+         "Id":36,
+         "Name":"Velonia Menu",
+         "CreatedBy":"Liam",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.0.1",
+         "GameMode":"MP",
+         "ModType":"XEX",
+         "Description":"Off host cheat menu.\nAlso works for Extinction\n\nCredits\n-Liam\n-Zone\n-Joker\n-Dread\n-Smokey xKoVx",
+         "DownloadFiles":[
+            {
+               "Name":"Velonia Menu",
+               "Version":"1.0.1",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODGHOSTS-Velonia-Menu-v1.0.1-ID36.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Velonia.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"codwaw",
+         "Id":37,
+         "Name":"Appendum Menu",
+         "CreatedBy":"DeathRGH",
+         "SubmittedBy":"ohhsodead",
+         "Version":"2.11",
+         "GameMode":"MP",
+         "ModType":"XEX",
+         "Description":"Off host cheat menu.\n\n-Dev-\n\n-DeathRGH https://www.youtube.com/channel/UCNYCdkiEa9BNivnd_gXmCPw\n\n-Private Access/Testers Users-\n\n-RS GLITCHING https://www.youtube.com/channel/UCDH99_Np_HQcR24PXo0Z_Eg\n\n-MrxDMxCFW https://www.youtube.com/channel/UCVl8CeYu77KZ3hGQbPunMVQ",
+         "DownloadFiles":[
+            {
+               "Name":"Appendum Menu",
+               "Version":"2.11",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODWAW-Appendum-Menu-v2.11-ID37.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Appendum.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"codbo",
+         "Id":38,
+         "Name":"Appendum Menu",
+         "CreatedBy":"DeathRGH",
+         "SubmittedBy":"ohhsodead",
+         "Version":"2.11",
+         "GameMode":"MP",
+         "ModType":"XEX",
+         "Description":"Off host cheat menu.\n\n-Dev-\n\n-DeathRGH https://www.youtube.com/channel/UCNYCdkiEa9BNivnd_gXmCPw\n\n-Private Access/Testers Users-\n\n-RS GLITCHING https://www.youtube.com/channel/UCDH99_Np_HQcR24PXo0Z_Eg\n\n-MrxDMxCFW https://www.youtube.com/channel/UCVl8CeYu77KZ3hGQbPunMVQ",
+         "DownloadFiles":[
+            {
+               "Name":"Appendum Menu",
+               "Version":"2.11",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODBO-Appendum-Menu-v2.11-ID38.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Appendum.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"codmw2",
+         "Id":39,
+         "Name":"Appendum Menu",
+         "CreatedBy":"DeathRGH",
+         "SubmittedBy":"ohhsodead",
+         "Version":"2.11",
+         "GameMode":"MP",
+         "ModType":"XEX",
+         "Description":"Off host cheat menu.\n\n-Dev-\n\n-DeathRGH https://www.youtube.com/channel/UCNYCdkiEa9BNivnd_gXmCPw\n\n-Private Access/Testers Users-\n\n-RS GLITCHING https://www.youtube.com/channel/UCDH99_Np_HQcR24PXo0Z_Eg\n\n-MrxDMxCFW https://www.youtube.com/channel/UCVl8CeYu77KZ3hGQbPunMVQ",
+         "DownloadFiles":[
+            {
+               "Name":"Appendum Menu",
+               "Version":"2.11",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODMW2-Appendum-Menu-v2.11-ID39.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Appendum.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"codmw3",
+         "Id":40,
+         "Name":"Appendum Menu",
+         "CreatedBy":"DeathRGH",
+         "SubmittedBy":"ohhsodead",
+         "Version":"2.11",
+         "GameMode":"MP",
+         "ModType":"XEX",
+         "Description":"Off host cheat menu.\n\n-Dev-\n\n-DeathRGH https://www.youtube.com/channel/UCNYCdkiEa9BNivnd_gXmCPw\n\n-Private Access/Testers Users-\n\n-RS GLITCHING https://www.youtube.com/channel/UCDH99_Np_HQcR24PXo0Z_Eg\n\n-MrxDMxCFW https://www.youtube.com/channel/UCVl8CeYu77KZ3hGQbPunMVQ",
+         "DownloadFiles":[
+            {
+               "Name":"Appendum Menu",
+               "Version":"2.11",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODMW3-Appendum-Menu-v2.11-ID40.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Appendum.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"codbo2",
+         "Id":41,
+         "Name":"Appendum Menu",
+         "CreatedBy":"DeathRGH",
+         "SubmittedBy":"ohhsodead",
+         "Version":"2.11",
+         "GameMode":"MP/ZM",
+         "ModType":"XEX",
+         "Description":"Off host cheat menu.\n\n-Dev-\n\n-DeathRGH https://www.youtube.com/channel/UCNYCdkiEa9BNivnd_gXmCPw\n\n-Private Access/Testers Users-\n\n-RS GLITCHING https://www.youtube.com/channel/UCDH99_Np_HQcR24PXo0Z_Eg\n\n-MrxDMxCFW https://www.youtube.com/channel/UCVl8CeYu77KZ3hGQbPunMVQ",
+         "DownloadFiles":[
+            {
+               "Name":"Appendum Menu",
+               "Version":"2.11",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODBO2-Appendum-Menu-v2.11-ID41.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Appendum.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"codghosts",
+         "Id":42,
+         "Name":"Appendum Menu",
+         "CreatedBy":"DeathRGH",
+         "SubmittedBy":"ohhsodead",
+         "Version":"2.11",
+         "GameMode":"MP/EXT",
+         "ModType":"XEX",
+         "Description":"Off host cheat menu.\nSupports Extinction too.\n\n-Dev-\n\n-DeathRGH https://www.youtube.com/channel/UCNYCdkiEa9BNivnd_gXmCPw\n\n-Private Access/Testers Users-\n\n-RS GLITCHING https://www.youtube.com/channel/UCDH99_Np_HQcR24PXo0Z_Eg\n\n-MrxDMxCFW https://www.youtube.com/channel/UCVl8CeYu77KZ3hGQbPunMVQ",
+         "DownloadFiles":[
+            {
+               "Name":"Appendum Menu",
+               "Version":"2.11",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODGHOSTS-Appendum-Menu-v2.11-ID42.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Appendum.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"codaw",
+         "Id":43,
+         "Name":"Appendum Menu",
+         "CreatedBy":"DeathRGH",
+         "SubmittedBy":"ohhsodead",
+         "Version":"2.11",
+         "GameMode":"MP",
+         "ModType":"XEX",
+         "Description":"Off host cheat menu.\nSupports Extinction too.\n\n-Dev-\n\n-DeathRGH https://www.youtube.com/channel/UCNYCdkiEa9BNivnd_gXmCPw\n\n-Private Access/Testers Users-\n\n-RS GLITCHING https://www.youtube.com/channel/UCDH99_Np_HQcR24PXo0Z_Eg\n\n-MrxDMxCFW https://www.youtube.com/channel/UCVl8CeYu77KZ3hGQbPunMVQ",
+         "DownloadFiles":[
+            {
+               "Name":"Appendum Menu",
+               "Version":"2.11",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODAW-Appendum-Menu-v2.11-ID43.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Appendum.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"codbo3",
+         "Id":44,
+         "Name":"Appendum Menu",
+         "CreatedBy":"DeathRGH",
+         "SubmittedBy":"ohhsodead",
+         "Version":"2.11",
+         "GameMode":"MP/ZM",
+         "ModType":"XEX",
+         "Description":"Off host cheat menu.\n\n-Dev-\n\n-DeathRGH https://www.youtube.com/channel/UCNYCdkiEa9BNivnd_gXmCPw\n\n-Private Access/Testers Users-\n\n-RS GLITCHING https://www.youtube.com/channel/UCDH99_Np_HQcR24PXo0Z_Eg\n\n-MrxDMxCFW https://www.youtube.com/channel/UCVl8CeYu77KZ3hGQbPunMVQ",
+         "DownloadFiles":[
+            {
+               "Name":"Appendum Menu",
+               "Version":"2.11",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODBO3-Appendum-Menu-v2.11-ID44.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Appendum.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"codbo",
+         "Id":45,
+         "Name":"Purple Kush Menu",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.0",
+         "GameMode":"MP",
+         "ModType":"XEX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"Purple Kush Menu",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODBO-Purple-Kush-Menu-v1.0-ID45.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\purpleKush.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"codbo",
+         "Id":46,
+         "Name":"Off Host Menu",
+         "CreatedBy":"FALKOR",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.0",
+         "GameMode":"ZM",
+         "ModType":"XEX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"Off Host Menu",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODBO-Off-Host-Menu-v1.0-ID46.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\BOZombies.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"codbo",
+         "Id":47,
+         "Name":"Revival Project Menu",
+         "CreatedBy":"DiiTz xKoVx",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.0",
+         "GameMode":"MP",
+         "ModType":"XEX",
+         "Description":"For more updates check out my youtube or join my discord server\nNo auto updating as i do not have a server.\n\nYoutube: https://www.youtube.com/channel/UCYfGYnNQ25S9AIiDEgQa3GQ\nDiscord: https://discord.gg/GbHQ5yc",
+         "DownloadFiles":[
+            {
+               "Name":"Off Host Menu",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODBO-Off-Host-Menu-v1.0-ID47.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Revival_Project.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"plugin",
+         "Id":48,
+         "Name":"XDRPC",
+         "CreatedBy":"",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.0",
+         "GameMode":"",
+         "ModType":"XEX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"XDRPC",
+               "Version":"1.0",
+               "LastUpdated":"2022-06-08T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/PLUGIN-XDRPC-v1.0-ID48.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\XDRPC.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"plugin",
+         "Id":49,
+         "Name":"JRPC2",
+         "CreatedBy":"",
+         "SubmittedBy":"ohhsodead",
+         "Version":"2.0",
+         "GameMode":"",
+         "ModType":"XEX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"JRPC",
+               "Version":"2.0",
+               "LastUpdated":"2022-06-08T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/PLUGIN-JRPC-v2.0-ID49.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\JRPC2.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"plugin",
+         "Id":50,
+         "Name":"XBDM",
+         "CreatedBy":"",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.0",
+         "GameMode":"",
+         "ModType":"XEX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"XBDM",
+               "Version":"1.0",
+               "LastUpdated":"2022-06-08T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/PLUGIN-XBDM-v1.0-ID50.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\xbdm.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"codmw3",
+         "Id":51,
+         "Name":"El Host Menu",
+         "CreatedBy":"Im Crout",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.0",
+         "GameMode":"MP",
+         "ModType":"XEX",
+         "Description":"Instructions:\nLoad it on dashboard with a module loader\n\nIf youre using LiveEmulation some options would crash!\n--------------------------\nCredits:\nTreyZ\n01cedric\nDread\nCykotic\nItzFlakyy\n--------------------------\nJoin El Host \u0026 TamperedLive Discord\n\nTampereLive: https://discord.gg/Q9zRZVC\nEl Host: https://discord.gg/QT8huEc\n--------------------------\nSubscribe \u0026 Join Best Stealth\n\nhttps://youtube.com/ImCrout\nhttps://tamperedlive.com\n--------------------------",
+         "DownloadFiles":[
+            {
+               "Name":"El Host Menu",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODMW3-El-Host-Menu-v1.0-ID51.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\El Host.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"codmw3",
+         "Id":52,
+         "Name":"MatrixMods",
+         "CreatedBy":"MatrixMods",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.0",
+         "GameMode":"MP",
+         "ModType":"XEX",
+         "Description":"Instructions:\nLoad it on dashboard with a module loader\n\nIf youre using LiveEmulation some options would crash!\n--------------------------\nCredits:\nTreyZ\n01cedric\nDread\nCykotic\nItzFlakyy\n--------------------------\nJoin El Host \u0026 TamperedLive Discord\n\nTampereLive: https://discord.gg/Q9zRZVC\nEl Host: https://discord.gg/QT8huEc\n--------------------------\nSubscribe \u0026 Join Best Stealth\n\nhttps://youtube.com/ImCrout\nhttps://tamperedlive.com\n--------------------------",
+         "DownloadFiles":[
+            {
+               "Name":"MatrixMods",
+               "Version":"1.0",
+               "LastUpdated":"2023-07-01T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODMW3-MatrixMods-v1.0-ID52.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\El Host.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"codmw2",
+         "Id":53,
+         "Name":"Exclusion Menu",
+         "CreatedBy":"Joker",
+         "SubmittedBy":"Moxah",
+         "Version":"0.1.0",
+         "GameMode":"MP",
+         "ModType":"XEX",
+         "Description":"All Client Mod Menu by Joker (Beta)\n\nImportant: Only works on TU9",
+         "DownloadFiles":[
+            {
+               "Name":"Exclusion Menu",
+               "Version":"0.1.0",
+               "LastUpdated":"2023-12-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODMW2-Exclusion-Menu-v0.1.0-ID53.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Exclusion.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"codbo",
+         "Id":54,
+         "Name":"Myten Menu",
+         "CreatedBy":"Smokey xKoVx",
+         "SubmittedBy":"Moxah",
+         "Version":"1.0",
+         "GameMode":"MP",
+         "ModType":"XEX",
+         "Description":"Q1: How to access all client menu?\nAnswer: You use the player menu inside the off host!\n\nQ2: Why does this menu crash?\nAnswer 1: Make sure your game is on the latest update\nAnswer 2: Disable stealth server cheats\nAnswer 3: If still crashing then it is your stealth\n\nUpdates:\nIf any updates come out, they will be released on my youtube @Smokey xKoVx.\n\nIf you find any bugs, then be sure to let me know!\n\nHope you enjoy this free mod menu!\n\nOptional Load Screen:\nIf you wish to use my load screen, place the file inside\nyour black ops folder (Where all the files are)",
+         "DownloadFiles":[
+            {
+               "Name":"Myten Menu",
+               "Version":"1.0",
+               "LastUpdated":"2023-12-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/CODBO-Myten-Menu-v1.0-ID54.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\{CATEGORYID}\\Myten V1 Bo1.xex"
+               ]
+            }
+         ]
+      }
+   ]
+}
