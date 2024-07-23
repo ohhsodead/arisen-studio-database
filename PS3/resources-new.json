@@ -92,38 +92,22 @@
          "ModType":"QRC",
          "Description":"Custom Green \u0026 Yellow Waves",
          "DownloadFiles":[
+			{
+               "Name":"Green \u0026 Yellow Waves",
+               "Region":"",
+               "Version":"1.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/RESOURCES/XMBR-Green-Yellow-Waves-v1.0-ID156.zip",
+               "InstallPaths":[
+                  "/dev_rebug/vsh/resource/qgl/lines.qrc"
+               ]
+            },
             {
                "Name":"Green \u0026 Yellow Waves",
                "Region":"",
                "Version":"2.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
                "Url":"https://db.arisen.studio/PS3/RESOURCES/XMBR-Green-Yellow-Waves-v2.0-ID155.zip",
-               "InstallPaths":[
-                  "/dev_rebug/vsh/resource/qgl/lines.qrc"
-               ]
-            }
-         ]
-      },
-      {
-         "Platform":"PS3",
-         "Id":156,
-         "CategoryId":"xmbr",
-         "Name":"Green \u0026 Yellow Waves",
-         "FirmwareType":"CEX/DEX",
-         "Region":"",
-         "CreatedBy":"AppleXDevice",
-         "SubmittedBy":"ohhsodead",
-         "Version":"1.0",
-         "GameMode":"",
-         "ModType":"QRC",
-         "Description":"Custom Green \u0026 Yellow Waves",
-         "DownloadFiles":[
-            {
-               "Name":"Green \u0026 Yellow Waves",
-               "Region":"",
-               "Version":"1.0",
-               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/RESOURCES/XMBR-Green-Yellow-Waves-v1.0-ID156.zip",
                "InstallPaths":[
                   "/dev_rebug/vsh/resource/qgl/lines.qrc"
                ]
