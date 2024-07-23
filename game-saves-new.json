@@ -305,7 +305,7 @@
          "SubmittedBy":"ohhsodead",
          "Version":"1.0",
          "GameMode":"SP",
-         "Description":"100% Complete, every race trophy in gold, every car unlocked, 4 bonus cars, every sponsor, 100.000.000â‚¬ to spend, best team mate",
+         "Description":"100% Complete, every race trophy in gold, every car unlocked, 4 bonus cars, every sponsor, 100.000.000€ to spend, best team mate",
          "DownloadFiles":[
             {
                "Name":"Story Mode Complete (100%) (All Race Trophies Gold)",
@@ -335,7 +335,7 @@
          "SubmittedBy":"ohhsodead",
          "Version":"1.0",
          "GameMode":"SP",
-         "Description":"All cars, All sponsors, Best Teammate, Â£139,000+, All trophies, English.",
+         "Description":"All cars, All sponsors, Best Teammate, £139,000+, All trophies, English.",
          "DownloadFiles":[
             {
                "Name":"Story Mode Complete (100%) (All cars, Sponsors, etc.)",
@@ -365,7 +365,7 @@
          "SubmittedBy":"ohhsodead",
          "Version":"1.0",
          "GameMode":"SP",
-         "Description":"All cars, All sponsors, Best Teammate, Â£139,000+, All trophies, English.",
+         "Description":"All cars, All sponsors, Best Teammate, £139,000+, All trophies, English.",
          "DownloadFiles":[
             {
                "Name":"Story Mode Complete (100%) (All Cars, Sponsors, etc.)",
@@ -619,11 +619,11 @@
          "Description":"- Story mode done ALMOST 100%\n- Max coins\n- Sonic stats max\n- Werehog stats max\n- Most of the sun/night medals\n- Most of the souvenirs and video tapes\n- All day time and night time levels",
          "DownloadFiles":[
             {
-               "Name":"Completed Missions + Unlimited Money",
+               "Name":"Almost 100% Completed",
                "Region":"ALL",
                "Version":"1.0",
                "LastUpdated":"2022-06-08T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/PS3/GAME-SAVES/SONICUNL-Completed-Missions-Unlimited-Money-v1.0-21.zip",
+               "Url":"https://db.arisen.studio/PS3/GAME-SAVES/SONICUNL-Almost-100-Completed-v1.0-21.zip",
                "InstallPaths":[
                   "Hdd:\\ArisenStudio\\Game Saves\\Sonic Unleashed\\SYS-DATA"
                ]
@@ -701,6 +701,31 @@
                "Url":"https://db.arisen.studio/PS3/GAME-SAVES/WWE2K14-100-Completed-v1.0-24.zip",
                "InstallPaths":[
                   "Hdd:\\ArisenStudio\\Game Saves\\WWE 2K14\\100% Completed\\SaveData.dat"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "Id":25,
+         "CategoryId":"dr2",
+         "Name":"Complete + Lots of Cheats",
+         "Region":"ALL",
+         "LastUpdated":"2022-06-19T01:13:37.126946+01:00",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"ohhsodead",
+         "Version":"1.0",
+         "GameMode":"SP",
+         "Description":"Everything unlocked enjoy\n\n100% done",
+         "DownloadFiles":[
+            {
+               "Name":"Complete + Lots of Cheats",
+               "Region":"ALL",
+               "Version":"1.0",
+               "LastUpdated":"2022-06-19T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/PS3/GAME-SAVES/DR2-Complete-Lots-of-Cheats-v1.0-25.zip",
+               "InstallPaths":[
+                  "Hdd:\\ArisenStudio\\Game Saves\\Dead Rising 2\\Complete + Lots of Cheats\\complete_missions_unlimited_money"
                ]
             }
          ]
