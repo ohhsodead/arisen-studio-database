@@ -82,6 +82,14 @@
          ]
       },
       {
+         "Title":"Themes",
+         "Id":"theme",
+         "Type":"application",
+         "Regions":[
+            
+         ]
+      },
+      {
          "Title":"Utility",
          "Id":"utili",
          "Type":"application",
