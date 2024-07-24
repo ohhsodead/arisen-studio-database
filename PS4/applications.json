@@ -71,7 +71,7 @@
             "CreatedBy": "LM",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "4.55+, PS5 SUPPORTED",
+            "PlayableVersion": "4.55+",
             "TitleId": "NPXX51364",
             "Description": "Utility to test PS4 controllers, WARNING pressing the touch bar will crash it",
             "DownloadFiles": [
@@ -79,7 +79,7 @@
                     "LastUpdated": "2024-07-04T19:52:00",
                     "Name": "Controller Homebrew",
                     "Version": "1.00",
-                    "PlayableVersion": "4.55+, PS5 SUPPORTED",
+                    "PlayableVersion": "4.55+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -148,7 +148,7 @@
             "CreatedBy": "Lapy",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "5.05+, PS5 SUPPORTED",
+            "PlayableVersion": "5.05+",
             "TitleId": "LAPY10018",
             "Description": "Mini games inspired by Ghost of Tsushima",
             "DownloadFiles": [
@@ -156,7 +156,7 @@
                     "LastUpdated": "2024-07-04T10:32:00",
                     "Name": "Ghost of Tsushima Mini Games",
                     "Version": "1.00",
-                    "PlayableVersion": "5.05+, PS5 SUPPORTED",
+                    "PlayableVersion": "5.05+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -274,7 +274,7 @@
             "CreatedBy": "cuckydev",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "5.05+, PS5 SUPPORTED",
+            "PlayableVersion": "5.05+",
             "TitleId": "SCUS00000",
             "Description": "Open Source, Fan remake of the PSX game 'Night Funkin''\nThis is a musical rhythm game where you compete in freestyle music battles",
             "DownloadFiles": [
@@ -282,7 +282,7 @@
                     "LastUpdated": "2024-07-04T18:59:00",
                     "Name": "Friday Night Funkin'",
                     "Version": "1.00",
-                    "PlayableVersion": "5.05+, PS5 SUPPORTED",
+                    "PlayableVersion": "5.05+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -652,7 +652,7 @@
             "CreatedBy": "Lapy",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "5.05+, PS5 SUPPORTED",
+            "PlayableVersion": "5.05+",
             "TitleId": "LAPY10024",
             "Description": "A tribute to Dragon's Lair",
             "DownloadFiles": [
@@ -660,7 +660,7 @@
                     "LastUpdated": "2024-07-04T19:31:00",
                     "Name": "Live Die Repeat",
                     "Version": "1.00",
-                    "PlayableVersion": "5.05+, PS5 SUPPORTED",
+                    "PlayableVersion": "5.05+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -953,7 +953,7 @@
             "CreatedBy": "TheheroGAC",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "5.05+, PS5 SUPPORTED",
+            "PlayableVersion": "5.05+",
             "TitleId": "BORR00044",
             "Description": "Night Slashers X is a completely free remake of the classic console game Night Slasher, for computers. This 'beat em up' is similar to the 'Final Fight'; in it, players take on the role of one of the bloody vampire-killers.",
             "DownloadFiles": [
@@ -961,7 +961,7 @@
                     "LastUpdated": "2024-07-03T23:38:00",
                     "Name": "Night Slashers X",
                     "Version": "1.00",
-                    "PlayableVersion": "5.05+, PS5 SUPPORTED",
+                    "PlayableVersion": "5.05+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -974,7 +974,7 @@
             "CreatedBy": "chossy",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "4.55+, PS5 SUPPORTED",
+            "PlayableVersion": "4.55+",
             "TitleId": "NPXX52599",
             "Description": "Android Port",
             "DownloadFiles": [
@@ -982,7 +982,7 @@
                     "LastUpdated": "2024-07-04T00:49:00",
                     "Name": "Greedy Gutz Gary",
                     "Version": "1.00",
-                    "PlayableVersion": "4.55+, PS5 SUPPORTED",
+                    "PlayableVersion": "4.55+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -1037,7 +1037,7 @@
             "CreatedBy": "Snake Plissken",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "4.55+, PS5 SUPPORTED",
+            "PlayableVersion": "4.55+",
             "TitleId": "NPXX51369",
             "Description": "Pinball Wizard for PS4",
             "DownloadFiles": [
@@ -1045,7 +1045,7 @@
                     "LastUpdated": "2024-07-04T16:16:00",
                     "Name": "Pinball Wizard",
                     "Version": "1.00",
-                    "PlayableVersion": "4.55+, PS5 SUPPORTED",
+                    "PlayableVersion": "4.55+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -1058,7 +1058,7 @@
             "CreatedBy": "Lapy",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "5.05+, PS5 SUPPORTED",
+            "PlayableVersion": "5.05+",
             "TitleId": "LAPY10012",
             "Description": "Collection of\nLappy games",
             "DownloadFiles": [
@@ -1066,7 +1066,7 @@
                     "LastUpdated": "2024-07-04T15:25:00",
                     "Name": "Lapy Games Collection",
                     "Version": "1.00",
-                    "PlayableVersion": "5.05+, PS5 SUPPORTED",
+                    "PlayableVersion": "5.05+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -1331,7 +1331,7 @@
             "CreatedBy": "Creative Araya (Port by MDashK)",
             "SubmittedBy": "ohhsodead",
             "Version": "2.9.2",
-            "PlayableVersion": "5.05+, PS5 SUPPORTED",
+            "PlayableVersion": "5.05+",
             "TitleId": "SMSR00002",
             "Description": "A port of the fangame Sonic SMS Remake 2 for the PS4. \u00bb\u00bb\u00bb Highlights of the latest update: Fixed major memory leak (no more crashes! \\o/); 60 FPS mode!; Lots of other optimizations. \u00ab\u00ab\u00ab",
             "DownloadFiles": [
@@ -1339,7 +1339,7 @@
                     "LastUpdated": "2024-07-04T17:32:00",
                     "Name": "Sonic SMS Remake 2",
                     "Version": "2.9.2",
-                    "PlayableVersion": "5.05+, PS5 SUPPORTED",
+                    "PlayableVersion": "5.05+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -1478,7 +1478,7 @@
             "CreatedBy": "silica & pina",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "5.05+, PS5 SUPPORTED",
+            "PlayableVersion": "5.05+",
             "TitleId": "SILI00009",
             "Description": "2D Street racer HB Game",
             "DownloadFiles": [
@@ -1486,7 +1486,7 @@
                     "LastUpdated": "2024-07-04T19:32:00",
                     "Name": "Street Racer HB",
                     "Version": "1.00",
-                    "PlayableVersion": "5.05+, PS5 SUPPORTED",
+                    "PlayableVersion": "5.05+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -1583,7 +1583,7 @@
             "CreatedBy": "overbound (Port by MDashK)",
             "SubmittedBy": "ohhsodead",
             "Version": "1.1.2.1",
-            "PlayableVersion": "6.72+, PS5 SUPPORTED",
+            "PlayableVersion": "6.72+",
             "TitleId": "OVBD00001",
             "Description": "Port of the fan-game Sonic Time Twisted for the PS4.",
             "DownloadFiles": [
@@ -1591,7 +1591,7 @@
                     "LastUpdated": "2024-07-04T19:58:00",
                     "Name": "Sonic Time Twisted",
                     "Version": "1.1.2.1",
-                    "PlayableVersion": "6.72+, PS5 SUPPORTED",
+                    "PlayableVersion": "6.72+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -1660,7 +1660,7 @@
             "CreatedBy": "Markus95",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "4.55+, PS5 SUPPORTED",
+            "PlayableVersion": "4.55+",
             "TitleId": "CUSA99900",
             "Description": "Homebrew Version of\nStreets Of Rage",
             "DownloadFiles": [
@@ -1668,7 +1668,7 @@
                     "LastUpdated": "2024-07-04T18:46:00",
                     "Name": "Streets Of Rage MOD",
                     "Version": "1.00",
-                    "PlayableVersion": "4.55+, PS5 SUPPORTED",
+                    "PlayableVersion": "4.55+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -1793,7 +1793,7 @@
             "CreatedBy": "TheheroGAC",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "4.55+, PS5 SUPPORTED",
+            "PlayableVersion": "4.55+",
             "TitleId": "BORC00018",
             "Description": "Homebrew Version of\nGolden Axe",
             "DownloadFiles": [
@@ -1801,7 +1801,7 @@
                     "LastUpdated": "2024-07-04T06:02:00",
                     "Name": "Golden Axe Curse Of The Death Adder",
                     "Version": "1.00",
-                    "PlayableVersion": "4.55+, PS5 SUPPORTED",
+                    "PlayableVersion": "4.55+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -1814,7 +1814,7 @@
             "CreatedBy": "TheheroGAC",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "4.55+, PS5 SUPPORTED",
+            "PlayableVersion": "4.55+",
             "TitleId": "BORP09801",
             "Description": "Homebrew Version of\nMortal Kombat",
             "DownloadFiles": [
@@ -1822,7 +1822,7 @@
                     "LastUpdated": "2024-07-04T13:21:00",
                     "Name": "Mortal Kombat Konquest",
                     "Version": "1.00",
-                    "PlayableVersion": "4.55+, PS5 SUPPORTED",
+                    "PlayableVersion": "4.55+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -1835,7 +1835,7 @@
             "CreatedBy": "TheheroGAC",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "4.55+, PS5 SUPPORTED",
+            "PlayableVersion": "4.55+",
             "TitleId": "BORC00014",
             "Description": "Homebrew Version of\nStreet Fighter",
             "DownloadFiles": [
@@ -1843,7 +1843,7 @@
                     "LastUpdated": "2024-07-04T19:59:00",
                     "Name": "Street Fighter Beats Of Rage Remix 2",
                     "Version": "1.00",
-                    "PlayableVersion": "4.55+, PS5 SUPPORTED",
+                    "PlayableVersion": "4.55+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -1877,7 +1877,7 @@
             "CreatedBy": "LM",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "4.55+, PS5 SUPPORTED",
+            "PlayableVersion": "4.55+",
             "TitleId": "NPXX51365",
             "Description": "Homebrew Game\nmade using Unity",
             "DownloadFiles": [
@@ -1885,7 +1885,7 @@
                     "LastUpdated": "2024-07-03T08:45:00",
                     "Name": "Roll The Ball for PS4",
                     "Version": "1.00",
-                    "PlayableVersion": "4.55+, PS5 SUPPORTED",
+                    "PlayableVersion": "4.55+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -1898,7 +1898,7 @@
             "CreatedBy": "RetroGamer74",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "4.55+, PS5 SUPPORTED",
+            "PlayableVersion": "4.55+",
             "TitleId": "TEFO11111",
             "Description": "Homebrew Game",
             "DownloadFiles": [
@@ -1906,7 +1906,7 @@
                     "LastUpdated": "2024-07-03T08:45:00",
                     "Name": "The Enchanted Forest",
                     "Version": "1.00",
-                    "PlayableVersion": "4.55+, PS5 SUPPORTED",
+                    "PlayableVersion": "4.55+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -1982,7 +1982,7 @@
             "CreatedBy": "Lapy",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "4.55+, PS5 SUPPORTED",
+            "PlayableVersion": "4.55+",
             "TitleId": "LAPY10014",
             "Description": "Hombrew Game\nUnity",
             "DownloadFiles": [
@@ -1990,7 +1990,7 @@
                     "LastUpdated": "2024-07-04T18:11:00",
                     "Name": "Lapy's River Raid",
                     "Version": "1.00",
-                    "PlayableVersion": "4.55+, PS5 SUPPORTED",
+                    "PlayableVersion": "4.55+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -2024,7 +2024,7 @@
             "CreatedBy": "jocover",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "4.55+, PS5 SUPPORTED",
+            "PlayableVersion": "4.55+",
             "TitleId": "NPXX50004",
             "Description": "Homebrew Game",
             "DownloadFiles": [
@@ -2032,7 +2032,7 @@
                     "LastUpdated": "2024-07-04T02:12:00",
                     "Name": "SpaceShooter",
                     "Version": "1.00",
-                    "PlayableVersion": "4.55+, PS5 SUPPORTED",
+                    "PlayableVersion": "4.55+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -2045,7 +2045,7 @@
             "CreatedBy": "jocover",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "4.55+, PS5 SUPPORTED",
+            "PlayableVersion": "4.55+",
             "TitleId": "NPXX50003",
             "Description": "Homebrew Game",
             "DownloadFiles": [
@@ -2053,7 +2053,7 @@
                     "LastUpdated": "2024-07-04T19:08:00",
                     "Name": "tank game",
                     "Version": "1.00",
-                    "PlayableVersion": "4.55+, PS5 SUPPORTED",
+                    "PlayableVersion": "4.55+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -2066,7 +2066,7 @@
             "CreatedBy": "vilbeyli, TOXXIC407",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "4.55+, PS5 SUPPORTED",
+            "PlayableVersion": "4.55+",
             "TitleId": "PCMN99999",
             "Description": "pacman Clone",
             "DownloadFiles": [
@@ -2074,7 +2074,7 @@
                     "LastUpdated": "2024-07-04T19:15:00",
                     "Name": "pacman",
                     "Version": "1.00",
-                    "PlayableVersion": "4.55+, PS5 SUPPORTED",
+                    "PlayableVersion": "4.55+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -2087,7 +2087,7 @@
             "CreatedBy": "kevalpatel2106, TOXXIC407",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "4.55+, PS5 SUPPORTED",
+            "PlayableVersion": "4.55+",
             "TitleId": "SNEK99999",
             "Description": "Snake Clone",
             "DownloadFiles": [
@@ -2095,7 +2095,7 @@
                     "LastUpdated": "2024-07-04T19:14:00",
                     "Name": "snake",
                     "Version": "1.00",
-                    "PlayableVersion": "4.55+, PS5 SUPPORTED",
+                    "PlayableVersion": "4.55+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -2108,7 +2108,7 @@
             "CreatedBy": "awesome inc u, TOXXIC407",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "4.55+, PS5 SUPPORTED",
+            "PlayableVersion": "4.55+",
             "TitleId": "PONG00000",
             "Description": "Pong Clone",
             "DownloadFiles": [
@@ -2116,7 +2116,7 @@
                     "LastUpdated": "2024-07-04T05:52:00",
                     "Name": "Pong",
                     "Version": "1.00",
-                    "PlayableVersion": "4.55+, PS5 SUPPORTED",
+                    "PlayableVersion": "4.55+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -2171,7 +2171,7 @@
             "CreatedBy": "TheheroGAC",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "5.05+, PS5 SUPPORTED",
+            "PlayableVersion": "5.05+",
             "TitleId": "BORR00007",
             "Description": "Homebrew Game",
             "DownloadFiles": [
@@ -2179,7 +2179,7 @@
                     "LastUpdated": "2024-07-04T19:29:00",
                     "Name": "Cadillacs and Dinosaurs",
                     "Version": "1.00",
-                    "PlayableVersion": "5.05+, PS5 SUPPORTED",
+                    "PlayableVersion": "5.05+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -2192,7 +2192,7 @@
             "CreatedBy": "TheheroGAC",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "5.05+, PS5 SUPPORTED",
+            "PlayableVersion": "5.05+",
             "TitleId": "BORC00078",
             "Description": "Homebrew Game",
             "DownloadFiles": [
@@ -2200,7 +2200,7 @@
                     "LastUpdated": "2024-07-04T16:58:00",
                     "Name": "Batman Gotham Knights",
                     "Version": "1.00",
-                    "PlayableVersion": "5.05+, PS5 SUPPORTED",
+                    "PlayableVersion": "5.05+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -2213,7 +2213,7 @@
             "CreatedBy": "TheheroGAC",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "5.05+, PS5 SUPPORTED",
+            "PlayableVersion": "5.05+",
             "TitleId": "BORC00024",
             "Description": "Homebrew Game",
             "DownloadFiles": [
@@ -2221,7 +2221,7 @@
                     "LastUpdated": "2024-07-04T19:02:00",
                     "Name": "Mega Man War Of the Past",
                     "Version": "1.00",
-                    "PlayableVersion": "5.05+, PS5 SUPPORTED",
+                    "PlayableVersion": "5.05+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -2234,7 +2234,7 @@
             "CreatedBy": "TheheroGAC",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "5.05+, PS5 SUPPORTED",
+            "PlayableVersion": "5.05+",
             "TitleId": "BORC00007",
             "Description": "Homebrew Game",
             "DownloadFiles": [
@@ -2242,7 +2242,7 @@
                     "LastUpdated": "2024-07-04T06:03:00",
                     "Name": "Crisis evil 2",
                     "Version": "1.00",
-                    "PlayableVersion": "5.05+, PS5 SUPPORTED",
+                    "PlayableVersion": "5.05+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -2339,7 +2339,7 @@
             "CreatedBy": "Quickz",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "4.55+, PS5 SUPPORTED",
+            "PlayableVersion": "4.55+",
             "TitleId": "QUIG00003",
             "Description": "Homebrew Game",
             "DownloadFiles": [
@@ -2347,7 +2347,7 @@
                     "LastUpdated": "2024-07-03T08:42:00",
                     "Name": "Blue Boi | Quickz",
                     "Version": "1.00",
-                    "PlayableVersion": "4.55+, PS5 SUPPORTED",
+                    "PlayableVersion": "4.55+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -2360,7 +2360,7 @@
             "CreatedBy": "Denis, YellowAfterlife, Aurora, The_Zett, RR16 studio",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "5.05+, PS5 SUPPORTED",
+            "PlayableVersion": "5.05+",
             "TitleId": "CDRR00001",
             "Description": "Homebrew Game",
             "DownloadFiles": [
@@ -2368,7 +2368,7 @@
                     "LastUpdated": "2024-07-03T14:17:00",
                     "Name": "Chip and Dale: Remastered",
                     "Version": "1.00",
-                    "PlayableVersion": "5.05+, PS5 SUPPORTED",
+                    "PlayableVersion": "5.05+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -2381,7 +2381,7 @@
             "CreatedBy": "Butterscotch Shenanigans, MasterTurkey",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "5.05+, PS5 SUPPORTED",
+            "PlayableVersion": "5.05+",
             "TitleId": "GMSP00006",
             "Description": "Homebrew Game",
             "DownloadFiles": [
@@ -2389,7 +2389,7 @@
                     "LastUpdated": "2024-07-04T03:53:00",
                     "Name": "SHEPHARD",
                     "Version": "1.00",
-                    "PlayableVersion": "5.05+, PS5 SUPPORTED",
+                    "PlayableVersion": "5.05+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -2444,7 +2444,7 @@
             "CreatedBy": "Sinclair Target, TOXXIC407",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "5.05+, PS5 SUPPORTED",
+            "PlayableVersion": "5.05+",
             "TitleId": "SPAC30000",
             "Description": "Space Invaders\nClone",
             "DownloadFiles": [
@@ -2452,7 +2452,7 @@
                     "LastUpdated": "2024-07-04T16:55:00",
                     "Name": "Space Invaders",
                     "Version": "1.00",
-                    "PlayableVersion": "5.05+, PS5 SUPPORTED",
+                    "PlayableVersion": "5.05+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -2619,7 +2619,7 @@
             "CreatedBy": "Denis, tijesef, yancharkin",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "5.05+, PS5 SUPPORTED",
+            "PlayableVersion": "5.05+",
             "TitleId": "SPLK00001",
             "Description": "Homebrew Port of\nSpelunky",
             "DownloadFiles": [
@@ -2627,7 +2627,7 @@
                     "LastUpdated": "2024-07-04T19:15:00",
                     "Name": "Spelunky Classic HD",
                     "Version": "1.00",
-                    "PlayableVersion": "5.05+, PS5 SUPPORTED",
+                    "PlayableVersion": "5.05+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -2682,7 +2682,7 @@
             "CreatedBy": "Silica",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "5.05+, PS5 SUPPORTED",
+            "PlayableVersion": "5.05+",
             "TitleId": "CREP00001",
             "Description": "Homebrew Game",
             "DownloadFiles": [
@@ -2690,7 +2690,7 @@
                     "LastUpdated": "2024-07-03T08:40:00",
                     "Name": "CreeperDiver",
                     "Version": "1.00",
-                    "PlayableVersion": "5.05+, PS5 SUPPORTED",
+                    "PlayableVersion": "5.05+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -2745,7 +2745,7 @@
             "CreatedBy": "Quickz",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "5.05+, PS5 SUPPORTED",
+            "PlayableVersion": "5.05+",
             "TitleId": "QUIG00001",
             "Description": "Homebrew Game",
             "DownloadFiles": [
@@ -2753,7 +2753,7 @@
                     "LastUpdated": "2024-07-03T08:21:00",
                     "Name": "Quickz Game",
                     "Version": "1.00",
-                    "PlayableVersion": "5.05+, PS5 SUPPORTED",
+                    "PlayableVersion": "5.05+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -2787,7 +2787,7 @@
             "CreatedBy": "Silica",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "5.05+, PS5 SUPPORTED",
+            "PlayableVersion": "5.05+",
             "TitleId": "UNTI00001",
             "Description": "Homebrew Game",
             "DownloadFiles": [
@@ -2795,7 +2795,7 @@
                     "LastUpdated": "2024-07-03T08:22:00",
                     "Name": "An Untitled Story",
                     "Version": "1.00",
-                    "PlayableVersion": "5.05+, PS5 SUPPORTED",
+                    "PlayableVersion": "5.05+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -2808,7 +2808,7 @@
             "CreatedBy": "Silica",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "5.05+, PS5 SUPPORTED",
+            "PlayableVersion": "5.05+",
             "TitleId": "STRE00001",
             "Description": "Homebrew Game",
             "DownloadFiles": [
@@ -2816,7 +2816,7 @@
                     "LastUpdated": "2024-07-04T19:32:00",
                     "Name": "Street Racing",
                     "Version": "1.00",
-                    "PlayableVersion": "5.05+, PS5 SUPPORTED",
+                    "PlayableVersion": "5.05+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -2829,7 +2829,7 @@
             "CreatedBy": "SnakePlissken",
             "SubmittedBy": "ohhsodead",
             "Version": "0.3",
-            "PlayableVersion": "4.55+, PS5 SUPPORTED",
+            "PlayableVersion": "4.55+",
             "TitleId": "NPXX10129",
             "Description": "Homebrew Game",
             "DownloadFiles": [
@@ -2837,7 +2837,7 @@
                     "LastUpdated": "2024-07-03T08:21:00",
                     "Name": "Snake Ball v0.3",
                     "Version": "0.3",
-                    "PlayableVersion": "4.55+, PS5 SUPPORTED",
+                    "PlayableVersion": "4.55+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -2892,7 +2892,7 @@
             "CreatedBy": "Xeronixworks, Aurora, The_Zett, YellowAfterlife, Denis, tijesef",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "5.05+, PS5 SUPPORTED",
+            "PlayableVersion": "5.05+",
             "TitleId": "SYNC00001",
             "Description": "Homebrew Game",
             "DownloadFiles": [
@@ -2900,7 +2900,7 @@
                     "LastUpdated": "2024-07-04T06:15:00",
                     "Name": "Sync Simple",
                     "Version": "1.00",
-                    "PlayableVersion": "5.05+, PS5 SUPPORTED",
+                    "PlayableVersion": "5.05+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -2913,7 +2913,7 @@
             "CreatedBy": "jwooh",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "4.55+, PS5 SUPPORTED",
+            "PlayableVersion": "4.55+",
             "TitleId": "BALL00001",
             "Description": "Homebrew Game",
             "DownloadFiles": [
@@ -2921,7 +2921,7 @@
                     "LastUpdated": "2024-07-03T08:23:00",
                     "Name": "Ball Blaster",
                     "Version": "1.00",
-                    "PlayableVersion": "4.55+, PS5 SUPPORTED",
+                    "PlayableVersion": "4.55+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
@@ -3088,7 +3088,7 @@
             "CreatedBy": "Red-J",
             "SubmittedBy": "ohhsodead",
             "Version": "1.00",
-            "PlayableVersion": "5.05+, PS5 SUPPORTED",
+            "PlayableVersion": "5.05+",
             "TitleId": "BBAR00505",
             "Description": "Homebrew Game\n.\na.k.a No PSN",
             "DownloadFiles": [
@@ -3096,7 +3096,7 @@
                     "LastUpdated": "2024-07-04T17:32:00",
                     "Name": "B&nder Bar",
                     "Version": "1.00",
-                    "PlayableVersion": "5.05+, PS5 SUPPORTED",
+                    "PlayableVersion": "5.05+",
                     "InstallPath": "/data/pkg/{title_id}/{name}-{version}.pkg"
                 }
             ]
