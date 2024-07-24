@@ -35,6 +35,7 @@ if __name__ == "__main__":
         "https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/PS3/game-mods.json",
         "https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/PS3/homebrew.json",
         "https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/PS3/resources.json",
+        "https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/PS4/applications.json",
         "https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/XBOX360/plugins.json"
     ]
     
