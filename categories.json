@@ -34,6 +34,22 @@
          ]
       },
       {
+         "Title":"Utilities",
+         "Id":"util",
+         "Type":"homebrew",
+         "Regions":[
+            
+         ]
+      },
+      {
+         "Title":"Dashboards",
+         "Id":"dash",
+         "Type":"homebrew",
+         "Regions":[
+            
+         ]
+      },
+      {
          "Title":"Coldboots",
          "Id":"cb",
          "Type":"resource",
