@@ -669,7 +669,7 @@
       },
       {
          "Platform":"XBOX",
-         "CategoryId":"servs",
+         "CategoryId":"srvr",
          "Id":30,
          "Name":"Amiga360",
          "CreatedBy":"",
@@ -692,7 +692,7 @@
       },
       {
          "Platform":"XBOX",
-         "CategoryId":"servs",
+         "CategoryId":"srvr",
          "Id":31,
          "Name":"DosBox",
          "CreatedBy":"",
@@ -715,7 +715,7 @@
       },
       {
          "Platform":"XBOX",
-         "CategoryId":"servs",
+         "CategoryId":"srvr",
          "Id":32,
          "Name":"FCE360",
          "CreatedBy":"",
@@ -738,7 +738,7 @@
       },
       {
          "Platform":"XBOX",
-         "CategoryId":"servs",
+         "CategoryId":"srvr",
          "Id":33,
          "Name":"Genesis360",
          "CreatedBy":"",
@@ -761,7 +761,7 @@
       },
       {
          "Platform":"XBOX",
-         "CategoryId":"servs",
+         "CategoryId":"srvr",
          "Id":34,
          "Name":"MAME360",
          "CreatedBy":"",
@@ -784,7 +784,7 @@
       },
       {
          "Platform":"XBOX",
-         "CategoryId":"servs",
+         "CategoryId":"srvr",
          "Id":35,
          "Name":"Mupen64",
          "CreatedBy":"",
@@ -807,7 +807,7 @@
       },
       {
          "Platform":"XBOX",
-         "CategoryId":"servs",
+         "CategoryId":"srvr",
          "Id":36,
          "Name":"SMSPlus",
          "CreatedBy":"",
@@ -830,7 +830,7 @@
       },
       {
          "Platform":"XBOX",
-         "CategoryId":"servs",
+         "CategoryId":"srvr",
          "Id":37,
          "Name":"SNES360",
          "CreatedBy":"",
