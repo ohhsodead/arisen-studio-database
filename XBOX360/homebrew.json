@@ -85,7 +85,7 @@
                "Name":"Amiga360",
                "Version":"1.0.0",
                "LastUpdated":"2024-07-24T23:15:48.767762",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/Amiga360-v1.0.0-ID312.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/EMU/Amiga360-v1.0.0-ID312.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Amiga360\\Amiga360.xex"
                ]
@@ -108,7 +108,7 @@
                "Name":"DosBox",
                "Version":"1.0.0",
                "LastUpdated":"2024-07-24T23:15:48.767762",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/DosBox-v1.0.0-ID313.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/EMU/DosBox-v1.0.0-ID313.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\DosBox\\DosBox.xex"
                ]
@@ -131,7 +131,7 @@
                "Name":"FCE360",
                "Version":"1.0.0",
                "LastUpdated":"2024-07-24T23:15:48.767762",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/FCE360-v1.0.0-ID314.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/EMU/FCE360-v1.0.0-ID314.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\FCE360\\FCE360.xex"
                ]
@@ -154,7 +154,7 @@
                "Name":"Genesis360",
                "Version":"1.0.0",
                "LastUpdated":"2024-07-24T23:15:48.767762",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/Genesis360-v1.0.0-ID315.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/EMU/Genesis360-v1.0.0-ID315.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Genesis360\\Genesis360.xex"
                ]
@@ -177,7 +177,7 @@
                "Name":"MAME360",
                "Version":"1.0.0",
                "LastUpdated":"2024-07-24T23:15:48.767762",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/MAME360-v1.0.0-ID316.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/EMU/MAME360-v1.0.0-ID316.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\MAME360\\MAME360.xex"
                ]
@@ -200,7 +200,7 @@
                "Name":"Mupen64",
                "Version":"1.0.0",
                "LastUpdated":"2024-07-24T23:15:48.767762",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/Mupen64-v1.0.0-ID317.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/EMU/Mupen64-v1.0.0-ID317.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\Mupen64\\Mupen64.xex"
                ]
@@ -223,7 +223,7 @@
                "Name":"SMSPlus",
                "Version":"1.0.0",
                "LastUpdated":"2024-07-24T23:15:48.767762",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/SMSPlus-v1.0.0-ID318.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/EMU/SMSPlus-v1.0.0-ID318.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\SMSPlus\\SMSPlus.xex"
                ]
@@ -246,7 +246,7 @@
                "Name":"SNES360",
                "Version":"1.0.0",
                "LastUpdated":"2024-07-24T23:15:48.767762",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/SNES360-v1.0.0-ID319.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/EMU/SNES360-v1.0.0-ID319.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\SNES360\\SNES360.xex"
                ]
@@ -269,7 +269,7 @@
                "Name":"XBDM",
                "Version":"1.0",
                "LastUpdated":"2022-06-08T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/PLUGINS/PLUGIN-XBDM-v1.0-ID50.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/UTIL/PLUGIN-XBDM-v1.0-ID50.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\{CATEGORYID}\\{NAME}\\xbdm.xex"
                ]
@@ -292,7 +292,7 @@
                "Name":"Dash Launch",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/Dash Launch/Dash Launch-v1.0.0-ID320.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/UTIL/Dash-Launch-v1.0.0-ID320.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\Dash Launch\\Dash Launch.xex"
                ]
@@ -315,7 +315,7 @@
                "Name":"FakeAnim",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/FakeAnim/FakeAnim-v1.0.0-ID321.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/UTIL/FakeAnim-v1.0.0-ID321.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\FakeAnim\\FakeAnim.xex"
                ]
@@ -338,7 +338,7 @@
                "Name":"GOD Unlocker",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/GOD Unlocker/GOD Unlocker-v1.0.0-ID322.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/UTIL/GOD-Unlocker-v1.0.0-ID322.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\GOD Unlocker\\GOD Unlocker.xex"
                ]
@@ -361,7 +361,7 @@
                "Name":"Modded Avatar Editor",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/Modded Avatar Editor/Modded Avatar Editor-v1.0.0-ID323.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/UTIL/Modded-Avatar-Editor-v1.0.0-ID323.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\Modded Avatar Editor\\Modded Avatar Editor.xex"
                ]
@@ -384,7 +384,7 @@
                "Name":"Netflix",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/Netflix/Netflix-v1.0.0-ID324.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/UTIL/Netflix-v1.0.0-ID324.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\Netflix\\Netflix.xex"
                ]
@@ -407,7 +407,7 @@
                "Name":"NXE2GOD",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/NXE2GOD/NXE2GOD-v1.0.0-ID325.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/UTIL/NXE2GOD-v1.0.0-ID325.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\NXE2GOD\\NXE2GOD.xex"
                ]
@@ -430,7 +430,7 @@
                "Name":"ProfileSettings - Inked Edition",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/ProfileSettings - Inked Edition/ProfileSettings - Inked Edition-v1.0.0-ID326.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/UTIL/ProfileSettings-Inked-Edition-v1.0.0-ID326.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\ProfileSettings - Inked Edition\\ProfileSettings - Inked Edition.xex"
                ]
@@ -453,7 +453,7 @@
                "Name":"Simple 360 NAND Flasher",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/Simple 360 NAND Flasher/Simple 360 NAND Flasher-v1.0.0-ID327.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/UTIL/Simple-360-NAND-Flasher-v1.0.0-ID327.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\Simple 360 NAND Flasher\\Simple 360 NAND Flasher.xex"
                ]
@@ -476,7 +476,7 @@
                "Name":"XDKMemoryFixerGUI",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/XDKMemoryFixerGUI/XDKMemoryFixerGUI-v1.0.0-ID328.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/UTIL/XDKMemoryFixerGUI-v1.0.0-ID328.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\XDKMemoryFixerGUI\\XDKMemoryFixerGUI.xex"
                ]
@@ -499,7 +499,7 @@
                "Name":"XellLaunch",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/XellLaunch/XellLaunch-v1.0.0-ID329.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/UTIL/XellLaunch-v1.0.0-ID329.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\XellLaunch\\XellLaunch.xex"
                ]
@@ -510,45 +510,31 @@
          "Platform":"XBOX",
          "CategoryId":"util",
          "Id":23,
-         "Name":"XeXMenu 1.1",
+         "Name":"XeX Menu",
          "CreatedBy":"",
          "SubmittedBy":"basimahmed",
-         "Version":"1.0.0",
+         "Version":"1.1/1.2",
          "GameMode":"",
          "ModType":"XEX",
          "Description":"",
          "DownloadFiles":[
             {
-               "Name":"XeXMenu 1.1",
-               "Version":"1.0.0",
+               "Name":"XeX Menu",
+               "Version":"1.1",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/XeXMenu 1.1/XeXMenu 1.1-v1.0.0-ID330.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/UTIL/XeXMenu-v1.1-ID330.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\XeXMenu 1.1\\XeXMenu 1.1.xex"
-               ]
-            }
-         ]
-      },
-      {
-         "Platform":"XBOX",
-         "CategoryId":"util",
-         "Id":24,
-         "Name":"XeXMenu 1.2",
-         "CreatedBy":"",
-         "SubmittedBy":"basimahmed",
-         "Version":"1.0.0",
-         "GameMode":"",
-         "ModType":"XEX",
-         "Description":"",
-         "DownloadFiles":[
-            {
-               "Name":"XeXMenu 1.2",
-               "Version":"1.0.0",
+               ],
+			   {
+               "Name":"XeX Menu",
+               "Version":"1.2",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/XeXMenu 1.2/XeXMenu 1.2-v1.0.0-ID331.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/UTIL/XeXMenu-v1.2-ID331.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\XeXMenu 1.2\\XeXMenu 1.2.xex"
                ]
+            }
             }
          ]
       },
@@ -568,7 +554,7 @@
                "Name":"XM360",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/XM360/XM360-v1.0.0-ID332.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/UTIL/XM360-v1.0.0-ID332.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\XM360\\XM360.xex"
                ]
@@ -591,7 +577,7 @@
                "Name":"Aurora",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/Aurora/Aurora-v1.0.0-ID320.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/DASH/Aurora-v1.0.0-ID320.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\Aurora\\Aurora.xex"
                ]
@@ -614,7 +600,7 @@
                "Name":"FSD",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/FSD/FSD-v1.0.0-ID321.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/DASH/FSD-v1.0.0-ID321.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\FSD\\FSD.xex"
                ]
@@ -637,7 +623,7 @@
                "Name":"IngeniouX",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/IngeniouX/IngeniouX-v1.0.0-ID322.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/DASH/IngeniouX-v1.0.0-ID322.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\IngeniouX\\IngeniouX.xex"
                ]
@@ -660,7 +646,7 @@
                "Name":"XeXDash",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/XeXDash/XeXDash-v1.0.0-ID323.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/DASH/XeXDash-v1.0.0-ID323.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\XeXDash\\XeXDash.xex"
                ]
@@ -669,7 +655,7 @@
       },
       {
          "Platform":"XBOX",
-         "CategoryId":"srvr",
+         "CategoryId":"emu",
          "Id":30,
          "Name":"Amiga360",
          "CreatedBy":"",
@@ -683,7 +669,7 @@
                "Name":"Amiga360",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/Amiga360/Amiga360-v1.0.0-ID320.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/EMU/Amiga360-v1.0.0-ID320.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\Amiga360\\Amiga360.xex"
                ]
@@ -692,7 +678,7 @@
       },
       {
          "Platform":"XBOX",
-         "CategoryId":"srvr",
+         "CategoryId":"emu",
          "Id":31,
          "Name":"DosBox",
          "CreatedBy":"",
@@ -706,7 +692,7 @@
                "Name":"DosBox",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/DosBox/DosBox-v1.0.0-ID321.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/EMU/DosBox-v1.0.0-ID321.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\DosBox\\DosBox.xex"
                ]
@@ -715,7 +701,7 @@
       },
       {
          "Platform":"XBOX",
-         "CategoryId":"srvr",
+         "CategoryId":"emu",
          "Id":32,
          "Name":"FCE360",
          "CreatedBy":"",
@@ -729,7 +715,7 @@
                "Name":"FCE360",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/FCE360/FCE360-v1.0.0-ID322.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/EMU/FCE360-v1.0.0-ID322.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\FCE360\\FCE360.xex"
                ]
@@ -738,7 +724,7 @@
       },
       {
          "Platform":"XBOX",
-         "CategoryId":"srvr",
+         "CategoryId":"emu",
          "Id":33,
          "Name":"Genesis360",
          "CreatedBy":"",
@@ -752,7 +738,7 @@
                "Name":"Genesis360",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/Genesis360/Genesis360-v1.0.0-ID323.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/EMU/Genesis360-v1.0.0-ID323.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\Genesis360\\Genesis360.xex"
                ]
@@ -761,7 +747,7 @@
       },
       {
          "Platform":"XBOX",
-         "CategoryId":"srvr",
+         "CategoryId":"emu",
          "Id":34,
          "Name":"MAME360",
          "CreatedBy":"",
@@ -775,7 +761,7 @@
                "Name":"MAME360",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/MAME360/MAME360-v1.0.0-ID324.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/EMU/MAME360-v1.0.0-ID324.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\MAME360\\MAME360.xex"
                ]
@@ -784,7 +770,7 @@
       },
       {
          "Platform":"XBOX",
-         "CategoryId":"srvr",
+         "CategoryId":"emu",
          "Id":35,
          "Name":"Mupen64",
          "CreatedBy":"",
@@ -798,7 +784,7 @@
                "Name":"Mupen64",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/Mupen64/Mupen64-v1.0.0-ID325.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/EMU/Mupen64-v1.0.0-ID325.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\Mupen64\\Mupen64.xex"
                ]
@@ -807,7 +793,7 @@
       },
       {
          "Platform":"XBOX",
-         "CategoryId":"srvr",
+         "CategoryId":"emu",
          "Id":36,
          "Name":"SMSPlus",
          "CreatedBy":"",
@@ -821,7 +807,7 @@
                "Name":"SMSPlus",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/SMSPlus/SMSPlus-v1.0.0-ID326.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/EMU/SMSPlus-v1.0.0-ID326.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\SMSPlus\\SMSPlus.xex"
                ]
@@ -830,7 +816,7 @@
       },
       {
          "Platform":"XBOX",
-         "CategoryId":"srvr",
+         "CategoryId":"emu",
          "Id":37,
          "Name":"SNES360",
          "CreatedBy":"",
@@ -844,7 +830,7 @@
                "Name":"SNES360",
                "Version":"1.0.0",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
-               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/SNES360/SNES360-v1.0.0-ID327.zip",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/EMU/SNES360-v1.0.0-ID327.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\SNES360\\SNES360.xex"
                ]
@@ -919,6 +905,375 @@
                ]
             }
          ]
-      }
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"plugin",
+         "Id":41,
+         "Name":"Microsoft Point Spoofer (MSP)",
+         "CreatedBy":"cyanokit",
+         "SubmittedBy":"nebula",
+         "Version":"1.0",
+         "GameMode":"",
+         "ModType":"XEX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"XRPC",
+               "Version":"1.0",
+               "LastUpdated":"2022-06-08T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/PLUG/xbPirate-v1.0-ID41.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\Homebrew\\MSP\\xbPirate.xex"
+               ]
+            }
+         ]
+      },
+	  {
+            "Platform": "XBOX",
+            "CategoryId": "plugin",
+            "Id": 42,
+            "Name": "BlankINI",
+            "CreatedBy": "Unknown",
+            "SubmittedBy": "basimahmed",
+            "Version": "1.0.0",
+            "GameMode": "",
+            "ModType": "XEX",
+            "Description": "This is included as you may need it to fix a bad plugin.",
+            "DownloadFiles": [
+                {
+                    "Name": "BlankINI",
+                    "Version": "1.0.0",
+                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
+                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/PLUG/BlankINI-v1.0.0-ID42.zip",
+                    "InstallPaths": [
+                        "Hdd:\\Arisen Studio\\Homebrew\\BlankINI\\BlankINI.xex"
+                    ]
+                }
+            ]
+        },
+        {
+            "Platform": "XBOX",
+            "CategoryId": "plugin",
+            "Id": 43,
+            "Name": "ConnectX",
+            "CreatedBy": "Unknown",
+            "SubmittedBy": "basimahmed",
+            "Version": "1.0.0",
+            "GameMode": "",
+            "ModType": "XEX",
+            "Description": "",
+            "DownloadFiles": [
+                {
+                    "Name": "ConnectX",
+                    "Version": "1.0.0",
+                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
+                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/PLUG/ConnectX-v1.0.0-ID43.zip",
+                    "InstallPaths": [
+                        "Hdd:\\Arisen Studio\\Homebrew\\ConnectX\\ConnectX.xex",
+                        "Hdd:\\Arisen Studio\\Homebrew\\ConnectX\\connectx_patch.xexp"
+                    ]
+                }
+            ]
+        },
+        {
+            "Platform": "XBOX",
+            "CategoryId": "plugin",
+            "Id": 44,
+            "Name": "Functionality Plugins",
+            "CreatedBy": "Unknown",
+            "SubmittedBy": "basimahmed",
+            "Version": "1.0.0",
+            "GameMode": "",
+            "ModType": "XEX",
+            "Description": "",
+            "DownloadFiles": [
+                {
+                    "Name": "Functionality-Plugins",
+                    "Version": "1.0.0",
+                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
+                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/PLUG/Functionality-Plugins-v1.0.0-ID44.zip",
+                    "InstallPaths": [
+                        "Hdd:\\Arisen Studio\\Homebrew\\Functionality-Plugins\\Functionality-Plugins.xex"
+                    ]
+                }
+            ]
+        },
+        {
+            "Platform": "XBOX",
+            "CategoryId": "plugin",
+            "Id": 45,
+            "Name": "NetISO",
+            "CreatedBy": "Unknown",
+            "SubmittedBy": "basimahmed",
+            "Version": "1.0.0",
+            "GameMode": "",
+            "ModType": "XEX",
+            "Description": "",
+            "DownloadFiles": [
+                {
+                    "Name": "NetISO",
+                    "Version": "1.0.0",
+                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
+                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/PLUG/NetISO-v1.0.0-ID45.zip",
+                    "InstallPaths": [
+                        "Hdd:\\Arisen Studio\\Homebrew\\NetISO\\NetISO.xex"
+                    ]
+                }
+            ]
+        },
+        {
+            "Platform": "XBOX",
+            "CategoryId": "plugin",
+            "Id": 46,
+            "Name": "Patches and Fixes",
+            "CreatedBy": "Unknown",
+            "SubmittedBy": "basimahmed",
+            "Version": "1.0.0",
+            "GameMode": "",
+            "ModType": "XEX",
+            "Description": "",
+            "DownloadFiles": [
+                {
+                    "Name": "Patches-and-Fixes",
+                    "Version": "1.0.0",
+                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
+                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/PLUG/Patches-and-Fixes-v1.0.0-ID46.zip",
+                    "InstallPaths": [
+                        "Hdd:\\Arisen Studio\\Homebrew\\Patches-and-Fixes\\Patches-and-Fixes.xex"
+                    ]
+                }
+            ]
+        },
+		{
+            "Platform": "XBOX",
+            "CategoryId": "srvr",
+            "Id": 47,
+            "Name": "AuroraSkinsPack",
+            "CreatedBy": "Unknown",
+            "SubmittedBy": "basimahmed",
+            "Version": "1.0.0",
+            "GameMode": "",
+            "ModType": "XEX",
+            "Description": "",
+            "DownloadFiles": [
+                {
+                    "Name": "AuroraSkinsPack",
+                    "Version": "1.0.0",
+                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
+                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/AuroraSkinsPack-v1.0.0-ID47.zip",
+                    "InstallPaths": [
+                        "Hdd:\\Arisen Studio\\Homebrew\\AuroraSkinsPack\\AuroraSkinsPack.xex"
+                    ]
+                }
+            ]
+        },
+        {
+            "Platform": "XBOX",
+            "CategoryId": "srvr",
+            "Id": 48,
+            "Name": "BladesBootAnimation",
+            "CreatedBy": "Unknown",
+            "SubmittedBy": "basimahmed",
+            "Version": "1.0.0",
+            "GameMode": "",
+            "ModType": "XEX",
+            "Description": "",
+            "DownloadFiles": [
+                {
+                    "Name": "BladesBootAnimation",
+                    "Version": "1.0.0",
+                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
+                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/BladesBootAnimation-v1.0.0-ID48.zip",
+                    "InstallPaths": [
+                        "Hdd:\\Arisen Studio\\Homebrew\\BladesBootAnimation\\BladesBootAnimation.xex"
+                    ]
+                }
+            ]
+        },
+        {
+            "Platform": "XBOX",
+            "CategoryId": "srvr",
+            "Id": 49,
+            "Name": "Bootuppack",
+            "CreatedBy": "Unknown",
+            "SubmittedBy": "basimahmed",
+            "Version": "1.0.0",
+            "GameMode": "",
+            "ModType": "XEX",
+            "Description": "",
+            "DownloadFiles": [
+                {
+                    "Name": "Bootuppack",
+                    "Version": "1.0.0",
+                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
+                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/Bootuppack-v1.0.0-ID49.zip",
+                    "InstallPaths": [
+                        "Hdd:\\Arisen Studio\\Homebrew\\Bootuppack\\Bootuppack.xex"
+                    ]
+                }
+            ]
+        },
+        {
+            "Platform": "XBOX",
+            "CategoryId": "srvr",
+            "Id": 50,
+            "Name": "FakeAnim",
+            "CreatedBy": "Unknown",
+            "SubmittedBy": "basimahmed",
+            "Version": "1.0.0",
+            "GameMode": "",
+            "ModType": "XEX",
+            "Description": "",
+            "DownloadFiles": [
+                {
+                    "Name": "FakeAnim",
+                    "Version": "1.0.0",
+                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
+                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/FakeAnim-v1.0.0-ID50.zip",
+                    "InstallPaths": [
+                        "Hdd:\\Arisen Studio\\Homebrew\\FakeAnim\\FakeAnim.xex"
+                    ]
+                }
+            ]
+        },
+        {
+            "Platform": "XBOX",
+            "CategoryId": "srvr",
+            "Id": 51,
+            "Name": "FSDAuroraCrashPatch",
+            "CreatedBy": "Unknown",
+            "SubmittedBy": "basimahmed",
+            "Version": "1.0.0",
+            "GameMode": "",
+            "ModType": "XEX",
+            "Description": "",
+            "DownloadFiles": [
+                {
+                    "Name": "FSDAuroraCrashPatch.1",
+                    "Version": "1.0.0",
+                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
+                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/FSDAuroraCrashPatch-v1.0.0-ID51.zip",
+                    "InstallPaths": [
+                        "Hdd:\\Arisen Studio\\Homebrew\\FSDAuroraCrashPatch.1\\FSDAuroraCrashPatch.1.xex"
+                    ]
+                }
+            ]
+        },
+        {
+            "Platform": "XBOX",
+            "CategoryId": "srvr",
+            "Id": 52,
+            "Name": "FSDSkinsPack",
+            "CreatedBy": "Unknown",
+            "SubmittedBy": "basimahmed",
+            "Version": "1.0.0",
+            "GameMode": "",
+            "ModType": "XEX",
+            "Description": "",
+            "DownloadFiles": [
+                {
+                    "Name": "FSDSkinsPack",
+                    "Version": "1.0.0",
+                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
+                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/FSDSkinsPack-v1.0.0-ID52.zip",
+                    "InstallPaths": [
+                        "Hdd:\\Arisen Studio\\Homebrew\\FSDSkinsPack\\FSDSkinsPack.xex"
+                    ]
+                }
+            ]
+        },
+        {
+            "Platform": "XBOX",
+            "CategoryId": "srvr",
+            "Id": 53,
+            "Name": "TeapotLive",
+            "CreatedBy": "Unknown",
+            "SubmittedBy": "basimahmed",
+            "Version": "1.0.0",
+            "GameMode": "",
+            "ModType": "XEX",
+            "Description": "",
+            "DownloadFiles": [
+                {
+                    "Name": "TeapotLive",
+                    "Version": "1.0.0",
+                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
+                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/TeapotLive-v1.0.0-ID53.zip",
+                    "InstallPaths": [
+                        "Hdd:\\Arisen Studio\\Homebrew\\TeapotLive\\TeapotLive.xex"
+                    ]
+                }
+            ]
+        },
+        {
+            "Platform": "XBOX",
+            "CategoryId": "srvr",
+            "Id": 54,
+            "Name": "TetheredLive",
+            "CreatedBy": "Unknown",
+            "SubmittedBy": "basimahmed",
+            "Version": "1.0.0",
+            "GameMode": "",
+            "ModType": "XEX",
+            "Description": "",
+            "DownloadFiles": [
+                {
+                    "Name": "TetheredLive",
+                    "Version": "1.0.0",
+                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
+                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/TetheredLive-v1.0.0-ID54.zip",
+                    "InstallPaths": [
+                        "Hdd:\\Arisen Studio\\Homebrew\\TetheredLive\\TetheredLive.xex"
+                    ]
+                }
+            ]
+        },
+        {
+            "Platform": "XBOX",
+            "CategoryId": "srvr",
+            "Id": 55,
+            "Name": "XbCore",
+            "CreatedBy": "Unknown",
+            "SubmittedBy": "basimahmed",
+            "Version": "1.0.0",
+            "GameMode": "",
+            "ModType": "XEX",
+            "Description": "",
+            "DownloadFiles": [
+                {
+                    "Name": "XbCore",
+                    "Version": "1.0.0",
+                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
+                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/XbCore-v1.0.0-ID55.zip",
+                    "InstallPaths": [
+                        "Hdd:\\Arisen Studio\\Homebrew\\XbCore\\XbCore.xex"
+                    ]
+                }
+            ]
+        },
+        {
+            "Platform": "XBOX",
+            "CategoryId": "srvr",
+            "Id": 56,
+            "Name": "XBLKyuubii",
+            "CreatedBy": "Kyuubii",
+            "SubmittedBy": "basimahmed",
+            "Version": "1.0.0",
+            "GameMode": "",
+            "ModType": "XEX",
+            "Description": "",
+            "DownloadFiles": [
+                {
+                    "Name": "XBLKyuubii",
+                    "Version": "1.0.0",
+                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
+                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/XBLKyuubii-v1.0.0-ID56.zip",
+                    "InstallPaths": [
+                        "Hdd:\\Arisen Studio\\Homebrew\\XBLKyuubii\\XBLKyuubii.xex"
+                    ]
+                }
+            ]
+        }
    ]
 }
