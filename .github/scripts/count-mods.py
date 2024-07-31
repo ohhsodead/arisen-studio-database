@@ -15,7 +15,7 @@ def count_mods_in_specific_files(urls):
     for url in urls:
         data = fetch_json(url)
         if data:
-            mod_count += len(data.get("Mods", []))
+            mod_count += len(data.get("Library", []))
         else:
             print(f"Failed to load JSON from {url}")
     return mod_count
@@ -35,8 +35,9 @@ if __name__ == "__main__":
         "https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/PS3/game-mods.json",
         "https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/PS3/homebrew.json",
         "https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/PS3/resources.json",
-        "https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/PS4/applications.json",
-        "https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/XBOX360/plugins.json"
+        "https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/PS4/homebrew.json",
+        "https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/XBOX360/game-mods.json"
+        "https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/XBOX360/homebrew.json"
     ]
     
     save_urls = [
