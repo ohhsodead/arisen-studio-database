@@ -3,7 +3,7 @@
         {
             "Platform": "PS3",
             "Id": 152,
-            "CategoryId": "xmbr",
+            "CategoryId": "xmb",
             "Name": "Red Waves (2 in 1)",
             "FirmwareType": "CEX/DEX",
             "Region": "",
@@ -29,7 +29,7 @@
         {
             "Platform": "PS3",
             "Id": 153,
-            "CategoryId": "xmbr",
+            "CategoryId": "xmb",
             "Name": "Blue & Purple Waves",
             "FirmwareType": "CEX/DEX",
             "Region": "",
@@ -55,7 +55,7 @@
         {
             "Platform": "PS3",
             "Id": 154,
-            "CategoryId": "xmbr",
+            "CategoryId": "xmb",
             "Name": "Green to Blue Waves (Night Background)",
             "FirmwareType": "CEX/DEX",
             "Region": "",
@@ -81,7 +81,7 @@
         {
             "Platform": "PS3",
             "Id": 155,
-            "CategoryId": "xmbr",
+            "CategoryId": "xmb",
             "Name": "Green & Yellow Waves",
             "FirmwareType": "CEX/DEX",
             "Region": "",
@@ -117,7 +117,7 @@
         {
             "Platform": "PS3",
             "Id": 157,
-            "CategoryId": "xmbr",
+            "CategoryId": "xmb",
             "Name": "Original Waves",
             "FirmwareType": "CEX/DEX",
             "Region": "",
@@ -143,7 +143,7 @@
         {
             "Platform": "PS3",
             "Id": 158,
-            "CategoryId": "xmbr",
+            "CategoryId": "xmb",
             "Name": "Red to Green Waves (Night Background)",
             "FirmwareType": "CEX/DEX",
             "Region": "",
@@ -169,7 +169,7 @@
         {
             "Platform": "PS3",
             "Id": 159,
-            "CategoryId": "xmbr",
+            "CategoryId": "xmb",
             "Name": "Zebra Transition (Blue to Red)",
             "FirmwareType": "CEX/DEX",
             "Region": "",
@@ -195,7 +195,7 @@
         {
             "Platform": "PS3",
             "Id": 160,
-            "CategoryId": "xmbr",
+            "CategoryId": "xmb",
             "Name": "Zebra Wide Blue to Purple",
             "FirmwareType": "CEX/DEX",
             "Region": "",
@@ -221,7 +221,7 @@
         {
             "Platform": "PS3",
             "Id": 161,
-            "CategoryId": "xmbr",
+            "CategoryId": "xmb",
             "Name": "Zebra Wide Red",
             "FirmwareType": "CEX/DEX",
             "Region": "",
@@ -247,7 +247,7 @@
         {
             "Platform": "PS3",
             "Id": 185,
-            "CategoryId": "xmbr",
+            "CategoryId": "xmb",
             "Name": "Purple XMB & Icons",
             "FirmwareType": "CEX/DEX",
             "Region": "",
@@ -281,7 +281,7 @@
         {
             "Platform": "PS3",
             "Id": 186,
-            "CategoryId": "xmbr",
+            "CategoryId": "xmb",
             "Name": "Purple Theme (XMB, Icons & Wave)",
             "FirmwareType": "CEX/DEX",
             "Region": "",
@@ -333,7 +333,7 @@
         {
             "Platform": "PS3",
             "Id": 187,
-            "CategoryId": "xmbr",
+            "CategoryId": "xmb",
             "Name": "Green Theme (XMB, Icons & Wave)",
             "FirmwareType": "CEX/DEX",
             "Region": "",
@@ -394,7 +394,7 @@
         {
             "Platform": "PS3",
             "Id": 189,
-            "CategoryId": "accr",
+            "CategoryId": "acc",
             "Name": "PSN Avatars Pack (300+)",
             "FirmwareType": "CEX/DEX/HEN",
             "Region": "",
@@ -720,7 +720,7 @@
         {
             "Platform": "PS3",
             "Id": 190,
-            "CategoryId": "accr",
+            "CategoryId": "acc",
             "Name": "PSN Avatars Pack (Old Unreleased)",
             "FirmwareType": "CEX/DEX/HEN",
             "Region": "",
@@ -905,7 +905,7 @@
         {
             "Platform": "PS3",
             "Id": 191,
-            "CategoryId": "accr",
+            "CategoryId": "acc",
             "Name": "PSN Avatars Pack (New Unreleased)",
             "FirmwareType": "CEX/DEX/HEN",
             "Region": "",
@@ -954,7 +954,7 @@
         {
             "Platform": "PS3",
             "Id": 192,
-            "CategoryId": "accr",
+            "CategoryId": "acc",
             "Name": "PSN Avatars Pack (2600+)",
             "FirmwareType": "CEX/DEX/HEN",
             "Region": "",
@@ -3605,7 +3605,7 @@
         {
             "Platform": "PS3",
             "Id": 193,
-            "CategoryId": "accr",
+            "CategoryId": "acc",
             "Name": "Modded Profile Comment",
             "FirmwareType": "CEX/DEX/HEN",
             "Region": "",
@@ -4183,7 +4183,7 @@
         {
             "Platform": "PS3",
             "Id": 307,
-            "CategoryId": "accr",
+            "CategoryId": "acc",
             "Name": "Trophy Unlock All",
             "FirmwareType": "CEX/DEX/HEN",
             "Region": "",
@@ -4212,7 +4212,7 @@
         {
             "Platform": "PS3",
             "Id": 308,
-            "CategoryId": "accr",
+            "CategoryId": "acc",
             "Name": "Girl Type Avatars Premium Pack (200+)",
             "FirmwareType": "CEX/DEX/HEN",
             "Region": "",
@@ -4437,7 +4437,7 @@
         {
             "Platform": "PS3",
             "Id": 309,
-            "CategoryId": "accr",
+            "CategoryId": "acc",
             "Name": "Dark & Sp00ky Avatar Pack (100+)",
             "FirmwareType": "CEX/DEX/HEN",
             "Region": "",
@@ -4597,7 +4597,7 @@
         {
             "Platform": "PS3",
             "Id": 331,
-            "CategoryId": "th",
+            "CategoryId": "theme",
             "Name": "P5IIIXMBTH3M35 Pack (300+)",
             "FirmwareType": "CEX/DEX/HEN",
             "Region": "",
@@ -4928,7 +4928,7 @@
         {
             "Platform": "PS3",
             "Id": 344,
-            "CategoryId": "accr",
+            "CategoryId": "acc",
             "Name": "PSN Avatars Pack (2300+)",
             "FirmwareType": "CEX/DEX/HEN",
             "Region": "ALL",
@@ -7329,7 +7329,7 @@
         {
             "Platform": "PS3",
             "Id": 368,
-            "CategoryId": "xmbr",
+            "CategoryId": "xmb",
             "Name": "Orignal PS3 FW 0.91 (4.xx) (Waves & Coldboot)",
             "FirmwareType": "CEX/DEX/HEN/HAN",
             "Region": "",
@@ -7375,7 +7375,7 @@
         {
             "Platform": "PS3",
             "Id": 371,
-            "CategoryId": "th",
+            "CategoryId": "theme",
             "Name": "XXXTENTACION Theme",
             "FirmwareType": "CEX/DEX/HEN",
             "Region": "",
@@ -7401,7 +7401,7 @@
         {
             "Platform": "PS3",
             "Id": 372,
-            "CategoryId": "th",
+            "CategoryId": "theme",
             "Name": "Diwali Festive Theme",
             "FirmwareType": "CEX/DEX/HEN",
             "Region": "",
@@ -7427,7 +7427,7 @@
         {
             "Platform": "PS3",
             "Id": 373,
-            "CategoryId": "th",
+            "CategoryId": "theme",
             "Name": "Enlightened Theme",
             "FirmwareType": "CEX/DEX/HEN",
             "Region": "",
@@ -7453,7 +7453,7 @@
         {
             "Platform": "PS3",
             "Id": 374,
-            "CategoryId": "th",
+            "CategoryId": "theme",
             "Name": "PS2 Animated Theme",
             "FirmwareType": "CEX/DEX/HEN",
             "Region": "",
@@ -7479,7 +7479,7 @@
         {
             "Platform": "PS3",
             "Id": 375,
-            "CategoryId": "th",
+            "CategoryId": "theme",
             "Name": "Call of Duty: Advanced Warfare Dynamic Theme",
             "FirmwareType": "CEX/DEX/HEN",
             "Region": "",
