@@ -525,8 +525,9 @@
                "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/UTIL/XeXMenu-v1.1-ID330.zip",
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\XeXMenu 1.1\\XeXMenu 1.1.xex"
-               ],
-			   {
+               ]
+            },
+            {
                "Name":"XeX Menu",
                "Version":"1.2",
                "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
@@ -534,7 +535,6 @@
                "InstallPaths":[
                   "Hdd:\\Arisen Studio\\Homebrew\\XeXMenu 1.2\\XeXMenu 1.2.xex"
                ]
-            }
             }
          ]
       },
@@ -929,351 +929,351 @@
             }
          ]
       },
-	  {
-            "Platform": "XBOX",
-            "CategoryId": "plugin",
-            "Id": 42,
-            "Name": "BlankINI",
-            "CreatedBy": "Unknown",
-            "SubmittedBy": "basimahmed",
-            "Version": "1.0.0",
-            "GameMode": "",
-            "ModType": "XEX",
-            "Description": "This is included as you may need it to fix a bad plugin.",
-            "DownloadFiles": [
-                {
-                    "Name": "BlankINI",
-                    "Version": "1.0.0",
-                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/PLUG/BlankINI-v1.0.0-ID42.zip",
-                    "InstallPaths": [
-                        "Hdd:\\Arisen Studio\\Homebrew\\BlankINI\\BlankINI.xex"
-                    ]
-                }
-            ]
-        },
-        {
-            "Platform": "XBOX",
-            "CategoryId": "plugin",
-            "Id": 43,
-            "Name": "ConnectX",
-            "CreatedBy": "Unknown",
-            "SubmittedBy": "basimahmed",
-            "Version": "1.0.0",
-            "GameMode": "",
-            "ModType": "XEX",
-            "Description": "",
-            "DownloadFiles": [
-                {
-                    "Name": "ConnectX",
-                    "Version": "1.0.0",
-                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/PLUG/ConnectX-v1.0.0-ID43.zip",
-                    "InstallPaths": [
-                        "Hdd:\\Arisen Studio\\Homebrew\\ConnectX\\ConnectX.xex",
-                        "Hdd:\\Arisen Studio\\Homebrew\\ConnectX\\connectx_patch.xexp"
-                    ]
-                }
-            ]
-        },
-        {
-            "Platform": "XBOX",
-            "CategoryId": "plugin",
-            "Id": 44,
-            "Name": "Functionality Plugins",
-            "CreatedBy": "Unknown",
-            "SubmittedBy": "basimahmed",
-            "Version": "1.0.0",
-            "GameMode": "",
-            "ModType": "XEX",
-            "Description": "",
-            "DownloadFiles": [
-                {
-                    "Name": "Functionality-Plugins",
-                    "Version": "1.0.0",
-                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/PLUG/Functionality-Plugins-v1.0.0-ID44.zip",
-                    "InstallPaths": [
-                        "Hdd:\\Arisen Studio\\Homebrew\\Functionality-Plugins\\Functionality-Plugins.xex"
-                    ]
-                }
-            ]
-        },
-        {
-            "Platform": "XBOX",
-            "CategoryId": "plugin",
-            "Id": 45,
-            "Name": "NetISO",
-            "CreatedBy": "Unknown",
-            "SubmittedBy": "basimahmed",
-            "Version": "1.0.0",
-            "GameMode": "",
-            "ModType": "XEX",
-            "Description": "",
-            "DownloadFiles": [
-                {
-                    "Name": "NetISO",
-                    "Version": "1.0.0",
-                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/PLUG/NetISO-v1.0.0-ID45.zip",
-                    "InstallPaths": [
-                        "Hdd:\\Arisen Studio\\Homebrew\\NetISO\\NetISO.xex"
-                    ]
-                }
-            ]
-        },
-        {
-            "Platform": "XBOX",
-            "CategoryId": "plugin",
-            "Id": 46,
-            "Name": "Patches and Fixes",
-            "CreatedBy": "Unknown",
-            "SubmittedBy": "basimahmed",
-            "Version": "1.0.0",
-            "GameMode": "",
-            "ModType": "XEX",
-            "Description": "",
-            "DownloadFiles": [
-                {
-                    "Name": "Patches-and-Fixes",
-                    "Version": "1.0.0",
-                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/PLUG/Patches-and-Fixes-v1.0.0-ID46.zip",
-                    "InstallPaths": [
-                        "Hdd:\\Arisen Studio\\Homebrew\\Patches-and-Fixes\\Patches-and-Fixes.xex"
-                    ]
-                }
-            ]
-        },
-		{
-            "Platform": "XBOX",
-            "CategoryId": "srvr",
-            "Id": 47,
-            "Name": "AuroraSkinsPack",
-            "CreatedBy": "Unknown",
-            "SubmittedBy": "basimahmed",
-            "Version": "1.0.0",
-            "GameMode": "",
-            "ModType": "XEX",
-            "Description": "",
-            "DownloadFiles": [
-                {
-                    "Name": "AuroraSkinsPack",
-                    "Version": "1.0.0",
-                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/AuroraSkinsPack-v1.0.0-ID47.zip",
-                    "InstallPaths": [
-                        "Hdd:\\Arisen Studio\\Homebrew\\AuroraSkinsPack\\AuroraSkinsPack.xex"
-                    ]
-                }
-            ]
-        },
-        {
-            "Platform": "XBOX",
-            "CategoryId": "srvr",
-            "Id": 48,
-            "Name": "BladesBootAnimation",
-            "CreatedBy": "Unknown",
-            "SubmittedBy": "basimahmed",
-            "Version": "1.0.0",
-            "GameMode": "",
-            "ModType": "XEX",
-            "Description": "",
-            "DownloadFiles": [
-                {
-                    "Name": "BladesBootAnimation",
-                    "Version": "1.0.0",
-                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/BladesBootAnimation-v1.0.0-ID48.zip",
-                    "InstallPaths": [
-                        "Hdd:\\Arisen Studio\\Homebrew\\BladesBootAnimation\\BladesBootAnimation.xex"
-                    ]
-                }
-            ]
-        },
-        {
-            "Platform": "XBOX",
-            "CategoryId": "srvr",
-            "Id": 49,
-            "Name": "Bootuppack",
-            "CreatedBy": "Unknown",
-            "SubmittedBy": "basimahmed",
-            "Version": "1.0.0",
-            "GameMode": "",
-            "ModType": "XEX",
-            "Description": "",
-            "DownloadFiles": [
-                {
-                    "Name": "Bootuppack",
-                    "Version": "1.0.0",
-                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/Bootuppack-v1.0.0-ID49.zip",
-                    "InstallPaths": [
-                        "Hdd:\\Arisen Studio\\Homebrew\\Bootuppack\\Bootuppack.xex"
-                    ]
-                }
-            ]
-        },
-        {
-            "Platform": "XBOX",
-            "CategoryId": "srvr",
-            "Id": 50,
-            "Name": "FakeAnim",
-            "CreatedBy": "Unknown",
-            "SubmittedBy": "basimahmed",
-            "Version": "1.0.0",
-            "GameMode": "",
-            "ModType": "XEX",
-            "Description": "",
-            "DownloadFiles": [
-                {
-                    "Name": "FakeAnim",
-                    "Version": "1.0.0",
-                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/FakeAnim-v1.0.0-ID50.zip",
-                    "InstallPaths": [
-                        "Hdd:\\Arisen Studio\\Homebrew\\FakeAnim\\FakeAnim.xex"
-                    ]
-                }
-            ]
-        },
-        {
-            "Platform": "XBOX",
-            "CategoryId": "srvr",
-            "Id": 51,
-            "Name": "FSDAuroraCrashPatch",
-            "CreatedBy": "Unknown",
-            "SubmittedBy": "basimahmed",
-            "Version": "1.0.0",
-            "GameMode": "",
-            "ModType": "XEX",
-            "Description": "",
-            "DownloadFiles": [
-                {
-                    "Name": "FSDAuroraCrashPatch.1",
-                    "Version": "1.0.0",
-                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/FSDAuroraCrashPatch-v1.0.0-ID51.zip",
-                    "InstallPaths": [
-                        "Hdd:\\Arisen Studio\\Homebrew\\FSDAuroraCrashPatch.1\\FSDAuroraCrashPatch.1.xex"
-                    ]
-                }
-            ]
-        },
-        {
-            "Platform": "XBOX",
-            "CategoryId": "srvr",
-            "Id": 52,
-            "Name": "FSDSkinsPack",
-            "CreatedBy": "Unknown",
-            "SubmittedBy": "basimahmed",
-            "Version": "1.0.0",
-            "GameMode": "",
-            "ModType": "XEX",
-            "Description": "",
-            "DownloadFiles": [
-                {
-                    "Name": "FSDSkinsPack",
-                    "Version": "1.0.0",
-                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/FSDSkinsPack-v1.0.0-ID52.zip",
-                    "InstallPaths": [
-                        "Hdd:\\Arisen Studio\\Homebrew\\FSDSkinsPack\\FSDSkinsPack.xex"
-                    ]
-                }
-            ]
-        },
-        {
-            "Platform": "XBOX",
-            "CategoryId": "srvr",
-            "Id": 53,
-            "Name": "TeapotLive",
-            "CreatedBy": "Unknown",
-            "SubmittedBy": "basimahmed",
-            "Version": "1.0.0",
-            "GameMode": "",
-            "ModType": "XEX",
-            "Description": "",
-            "DownloadFiles": [
-                {
-                    "Name": "TeapotLive",
-                    "Version": "1.0.0",
-                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/TeapotLive-v1.0.0-ID53.zip",
-                    "InstallPaths": [
-                        "Hdd:\\Arisen Studio\\Homebrew\\TeapotLive\\TeapotLive.xex"
-                    ]
-                }
-            ]
-        },
-        {
-            "Platform": "XBOX",
-            "CategoryId": "srvr",
-            "Id": 54,
-            "Name": "TetheredLive",
-            "CreatedBy": "Unknown",
-            "SubmittedBy": "basimahmed",
-            "Version": "1.0.0",
-            "GameMode": "",
-            "ModType": "XEX",
-            "Description": "",
-            "DownloadFiles": [
-                {
-                    "Name": "TetheredLive",
-                    "Version": "1.0.0",
-                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/TetheredLive-v1.0.0-ID54.zip",
-                    "InstallPaths": [
-                        "Hdd:\\Arisen Studio\\Homebrew\\TetheredLive\\TetheredLive.xex"
-                    ]
-                }
-            ]
-        },
-        {
-            "Platform": "XBOX",
-            "CategoryId": "srvr",
-            "Id": 55,
-            "Name": "XbCore",
-            "CreatedBy": "Unknown",
-            "SubmittedBy": "basimahmed",
-            "Version": "1.0.0",
-            "GameMode": "",
-            "ModType": "XEX",
-            "Description": "",
-            "DownloadFiles": [
-                {
-                    "Name": "XbCore",
-                    "Version": "1.0.0",
-                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/XbCore-v1.0.0-ID55.zip",
-                    "InstallPaths": [
-                        "Hdd:\\Arisen Studio\\Homebrew\\XbCore\\XbCore.xex"
-                    ]
-                }
-            ]
-        },
-        {
-            "Platform": "XBOX",
-            "CategoryId": "srvr",
-            "Id": 56,
-            "Name": "XBLKyuubii",
-            "CreatedBy": "Kyuubii",
-            "SubmittedBy": "basimahmed",
-            "Version": "1.0.0",
-            "GameMode": "",
-            "ModType": "XEX",
-            "Description": "",
-            "DownloadFiles": [
-                {
-                    "Name": "XBLKyuubii",
-                    "Version": "1.0.0",
-                    "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/XBLKyuubii-v1.0.0-ID56.zip",
-                    "InstallPaths": [
-                        "Hdd:\\Arisen Studio\\Homebrew\\XBLKyuubii\\XBLKyuubii.xex"
-                    ]
-                }
-            ]
-        }
+      {
+         "Platform":"XBOX",
+         "CategoryId":"plugin",
+         "Id":42,
+         "Name":"BlankINI",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"basimahmed",
+         "Version":"1.0.0",
+         "GameMode":"",
+         "ModType":"XEX",
+         "Description":"This is included as you may need it to fix a bad plugin.",
+         "DownloadFiles":[
+            {
+               "Name":"BlankINI",
+               "Version":"1.0.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/PLUG/BlankINI-v1.0.0-ID42.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\Homebrew\\BlankINI\\BlankINI.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"plugin",
+         "Id":43,
+         "Name":"ConnectX",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"basimahmed",
+         "Version":"1.0.0",
+         "GameMode":"",
+         "ModType":"XEX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"ConnectX",
+               "Version":"1.0.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/PLUG/ConnectX-v1.0.0-ID43.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\Homebrew\\ConnectX\\ConnectX.xex",
+                  "Hdd:\\Arisen Studio\\Homebrew\\ConnectX\\connectx_patch.xexp"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"plugin",
+         "Id":44,
+         "Name":"Functionality Plugins",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"basimahmed",
+         "Version":"1.0.0",
+         "GameMode":"",
+         "ModType":"XEX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"Functionality-Plugins",
+               "Version":"1.0.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/PLUG/Functionality-Plugins-v1.0.0-ID44.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\Homebrew\\Functionality-Plugins\\Functionality-Plugins.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"plugin",
+         "Id":45,
+         "Name":"NetISO",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"basimahmed",
+         "Version":"1.0.0",
+         "GameMode":"",
+         "ModType":"XEX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"NetISO",
+               "Version":"1.0.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/PLUG/NetISO-v1.0.0-ID45.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\Homebrew\\NetISO\\NetISO.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"plugin",
+         "Id":46,
+         "Name":"Patches and Fixes",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"basimahmed",
+         "Version":"1.0.0",
+         "GameMode":"",
+         "ModType":"XEX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"Patches-and-Fixes",
+               "Version":"1.0.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/PLUG/Patches-and-Fixes-v1.0.0-ID46.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\Homebrew\\Patches-and-Fixes\\Patches-and-Fixes.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"srvr",
+         "Id":47,
+         "Name":"AuroraSkinsPack",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"basimahmed",
+         "Version":"1.0.0",
+         "GameMode":"",
+         "ModType":"XEX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"AuroraSkinsPack",
+               "Version":"1.0.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/AuroraSkinsPack-v1.0.0-ID47.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\Homebrew\\AuroraSkinsPack\\AuroraSkinsPack.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"srvr",
+         "Id":48,
+         "Name":"BladesBootAnimation",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"basimahmed",
+         "Version":"1.0.0",
+         "GameMode":"",
+         "ModType":"XEX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"BladesBootAnimation",
+               "Version":"1.0.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/BladesBootAnimation-v1.0.0-ID48.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\Homebrew\\BladesBootAnimation\\BladesBootAnimation.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"srvr",
+         "Id":49,
+         "Name":"Bootuppack",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"basimahmed",
+         "Version":"1.0.0",
+         "GameMode":"",
+         "ModType":"XEX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"Bootuppack",
+               "Version":"1.0.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/Bootuppack-v1.0.0-ID49.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\Homebrew\\Bootuppack\\Bootuppack.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"srvr",
+         "Id":50,
+         "Name":"FakeAnim",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"basimahmed",
+         "Version":"1.0.0",
+         "GameMode":"",
+         "ModType":"XEX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"FakeAnim",
+               "Version":"1.0.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/FakeAnim-v1.0.0-ID50.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\Homebrew\\FakeAnim\\FakeAnim.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"srvr",
+         "Id":51,
+         "Name":"FSDAuroraCrashPatch",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"basimahmed",
+         "Version":"1.0.0",
+         "GameMode":"",
+         "ModType":"XEX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"FSDAuroraCrashPatch.1",
+               "Version":"1.0.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/FSDAuroraCrashPatch-v1.0.0-ID51.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\Homebrew\\FSDAuroraCrashPatch.1\\FSDAuroraCrashPatch.1.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"srvr",
+         "Id":52,
+         "Name":"FSDSkinsPack",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"basimahmed",
+         "Version":"1.0.0",
+         "GameMode":"",
+         "ModType":"XEX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"FSDSkinsPack",
+               "Version":"1.0.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/FSDSkinsPack-v1.0.0-ID52.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\Homebrew\\FSDSkinsPack\\FSDSkinsPack.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"srvr",
+         "Id":53,
+         "Name":"TeapotLive",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"basimahmed",
+         "Version":"1.0.0",
+         "GameMode":"",
+         "ModType":"XEX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"TeapotLive",
+               "Version":"1.0.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/TeapotLive-v1.0.0-ID53.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\Homebrew\\TeapotLive\\TeapotLive.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"srvr",
+         "Id":54,
+         "Name":"TetheredLive",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"basimahmed",
+         "Version":"1.0.0",
+         "GameMode":"",
+         "ModType":"XEX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"TetheredLive",
+               "Version":"1.0.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/TetheredLive-v1.0.0-ID54.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\Homebrew\\TetheredLive\\TetheredLive.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"srvr",
+         "Id":55,
+         "Name":"XbCore",
+         "CreatedBy":"Unknown",
+         "SubmittedBy":"basimahmed",
+         "Version":"1.0.0",
+         "GameMode":"",
+         "ModType":"XEX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"XbCore",
+               "Version":"1.0.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/XbCore-v1.0.0-ID55.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\Homebrew\\XbCore\\XbCore.xex"
+               ]
+            }
+         ]
+      },
+      {
+         "Platform":"XBOX",
+         "CategoryId":"srvr",
+         "Id":56,
+         "Name":"XBLKyuubii",
+         "CreatedBy":"Kyuubii",
+         "SubmittedBy":"basimahmed",
+         "Version":"1.0.0",
+         "GameMode":"",
+         "ModType":"XEX",
+         "Description":"",
+         "DownloadFiles":[
+            {
+               "Name":"XBLKyuubii",
+               "Version":"1.0.0",
+               "LastUpdated":"2022-04-20T01:13:37.126946+01:00",
+               "Url":"https://db.arisen.studio/XBOX360/HOMEBREW/SRVR/XBLKyuubii-v1.0.0-ID56.zip",
+               "InstallPaths":[
+                  "Hdd:\\Arisen Studio\\Homebrew\\XBLKyuubii\\XBLKyuubii.xex"
+               ]
+            }
+         ]
+      }
    ]
 }
