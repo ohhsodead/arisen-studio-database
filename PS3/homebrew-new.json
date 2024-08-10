@@ -19,7 +19,7 @@
                     "Region": "",
                     "Version": "0.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBG/Scogger-HD-v0.1-1.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/GAME/GAME-Scogger-HD-v0.1-1.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/scogger-hd.pkg.455.v0.1_brewology_com.pkg"
                     ]
@@ -45,7 +45,7 @@
                     "Region": "",
                     "Version": "1.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBG/Cylinder-Dodge-v1.1-2.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/GAME/GAME-Cylinder-Dodge-v1.1-2.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/CylinderDodge_v1.1.pkg.418.v1.1_brewology_com.pkg"
                     ]
@@ -71,7 +71,7 @@
                     "Region": "",
                     "Version": "1.5",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBG/BreakOutX-v1.5-3.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/GAME/GAME-BreakOutX-v1.5-3.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/BreakOutX_brewology_com.pkg"
                     ]
@@ -97,7 +97,7 @@
                     "Region": "",
                     "Version": "5.0.548",
                     "LastUpdated": "2024-05-11T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/Movian-(Official)-v5.0.548-4.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-Movian-(Official)-v5.0.548-4.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/movianM7-7.0.75.pkg"
                     ]
@@ -107,7 +107,7 @@
                     "Region": "",
                     "Version": "5.0.753",
                     "LastUpdated": "2023-12-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/Movian-(deank)-v5.0.753-4.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-Movian-(deank)-v5.0.753-4.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/movian-5.0.753-deank.pkg"
                     ]
@@ -133,7 +133,7 @@
                     "Region": "",
                     "Version": "1.10",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/Advanced-Power-Options-v1.10-5.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-Advanced-Power-Options-v1.10-5.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/Advanced_Power_Options_v1.10.pkg.402.v1.10_brewology_com.pkg"
                     ]
@@ -159,7 +159,7 @@
                     "Region": "",
                     "Version": "1.0.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/Extras-Category-v1.0.1-6.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-Extras-Category-v1.0.1-6.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/CEX/DEX_Extras_Category_Installer_v1.01.pkg.450.v1.0.1_brewology_com.pkg"
                     ]
@@ -185,7 +185,7 @@
                     "Region": "",
                     "Version": "0.10",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/HAN-Toolbox-v0.10-7.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-HAN-Toolbox-v0.10-7.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/HAN_Toolbox.pkg"
                     ]
@@ -211,7 +211,7 @@
                     "Region": "",
                     "Version": "1.00 (4.87)",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/HEN-Toolbox-v1.00-(4.87)-8.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-HEN-Toolbox-v1.00-(4.87)-8.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/HEN__Toolbox_v1.00_fw487.pkg.107.v1.00(4.87)_brewology_com.pkg"
                     ]
@@ -237,7 +237,7 @@
                     "Region": "",
                     "Version": "2019.06.16",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/HENBrew-Store-v2019.06.16-9.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-HENBrew-Store-v2019.06.16-9.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/HENBrew_Store.pkg.861.v2019.06.16_brewology_com.pkg"
                     ]
@@ -263,7 +263,7 @@
                     "Region": "",
                     "Version": "4.90",
                     "LastUpdated": "2024-03-10T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/IRISMAN-Full-Edition-v4.90-10.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-IRISMAN-Full-Edition-v4.90-10.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/IRISMAN_4.91.pkg"
                     ]
@@ -289,7 +289,7 @@
                     "Region": "",
                     "Version": "4.84.2",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/MambaPRX-Loader-(Unofficial)-v4.84.2-11.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-MambaPRX-Loader-(Unofficial)-v4.84.2-11.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/MAMBA_PRX_Loader_4.84.2.pkg.722.v4.84.2_brewology_com.pkg"
                     ]
@@ -315,7 +315,7 @@
                     "Region": "",
                     "Version": "1.38",
                     "LastUpdated": "2022-09-01T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/ManaGunZ-v1.38-12.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-ManaGunZ-v1.38-12.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/ManaGunZ_v1.42.pkg"
                     ]
@@ -341,7 +341,7 @@
                     "Region": "",
                     "Version": "4.2a",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/OpenPS3FTP-v4.2a-13.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-OpenPS3FTP-v4.2a-13.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/NPXS91337.pkg.846.v4.2a_brewology_com.pkg"
                     ]
@@ -367,7 +367,7 @@
                     "Region": "",
                     "Version": "1.01",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/prepNTFS-v1.01-14.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-prepNTFS-v1.01-14.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/prepNTFS.pkg.569.v1.01_brewology_com.pkg"
                     ]
@@ -393,7 +393,7 @@
                     "Region": "",
                     "Version": "1.02",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/PS2-Classics-Manager-v1.02-15.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-PS2-Classics-Manager-v1.02-15.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/PS2_CLASSIC_MANAGER_1.02_[20130411]_CEX4XX_UPD.pkg.207.v1.02_brewology_com.pkg",
                         "/dev_hdd0/packages/[PS2U10000]_PS2_Classics_Placeholder_R3.pkg.237.v1.00_brewology_com.pkg"
@@ -420,7 +420,7 @@
                     "Region": "",
                     "Version": "1.03",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/PS2-ISO-Launcher-v1.03-16.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-PS2-ISO-Launcher-v1.03-16.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/ISO_LAUNCHER_1.03.pkg.231.v1.03_brewology_com.pkg"
                     ]
@@ -446,7 +446,7 @@
                     "Region": "",
                     "Version": "1.00",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/PS2-Launcher-(REBUG-Edition)-v1.00-17.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-PS2-Launcher-(REBUG-Edition)-v1.00-17.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/PS2_Launcher_REBUG_Edition.pkg.192.v1.00_brewology_com.pkg"
                     ]
@@ -472,7 +472,7 @@
                     "Region": "",
                     "Version": "2.10",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/PS3-EXTRANET-v2.10-18.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-PS3-EXTRANET-v2.10-18.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/PS3_EXTRANET_Installer_Multi.pkg.398.v2.10_brewology_com.pkg"
                     ]
@@ -498,7 +498,7 @@
                     "Region": "",
                     "Version": "2017.02B",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/PSN-Patch-(Stealth)-v2017.02B-19.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-PSN-Patch-(Stealth)-v2017.02B-19.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/psnpatch_2017.02B.pkg.423.v2017.02B_brewology_com.pkg"
                     ]
@@ -524,7 +524,7 @@
                     "Region": "",
                     "Version": "02.03.05",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/REBUG-TOOLBOX-Multi-v02.03.05-20.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-REBUG-TOOLBOX-Multi-v02.03.05-20.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/REBUG_TOOLBOX_02.03.05.MULTI.16.pkg.668.v02.03.05_brewology_com.pkg"
                     ]
@@ -550,7 +550,7 @@
                     "Region": "",
                     "Version": "6.2.7",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/SEN-Enabler-v6.2.7-21.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-SEN-Enabler-v6.2.7-21.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/SEN_Enabler_v6.2.7_[CEX-DEX]_[4.87].pkg.690.v6.2.7_brewology_com.pkg"
                     ]
@@ -576,7 +576,7 @@
                     "Region": "",
                     "Version": "11.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/Showtime-Disc-Access-v11.0-22.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-Showtime-Disc-Access-v11.0-22.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/stDISC11.pkg.294.v11.0_brewology_com.pkg"
                     ]
@@ -602,7 +602,7 @@
                     "Region": "",
                     "Version": "1.47.46e",
                     "LastUpdated": "2024-06-09T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/webMAN-MOD-v1.47.46e-23.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-webMAN-MOD-v1.47.46e-23.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/webMAN_MOD_1.47.46_Installer.pkg"
                     ]
@@ -628,7 +628,7 @@
                     "Region": "",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/What-s-New-on-PSX-Place-v1.0-24.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-What-s-New-on-PSX-Place-v1.0-24.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/Whats_New_on_PSX-Place_v1.00.pkg.719.v1.00_brewology_com.pkg"
                     ]
@@ -654,7 +654,7 @@
                     "Region": "",
                     "Version": "Vol. 2",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/Retro-Homebrew-Collection-(Nintendo-NES)-vVol.-2-25.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-Retro-Homebrew-Collection-(Nintendo-NES)-vVol.-2-25.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/Retro_Homebrew_Collection_Vol._2_-_Nintendo_NES_Edition.pkg.399.vol._2_brewology_com.pkg"
                     ]
@@ -680,7 +680,7 @@
                     "Region": "",
                     "Version": "Vol. 1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/Retro-Homebrew-Collection-(Atari-2600)-vVol.-1-26.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-Retro-Homebrew-Collection-(Atari-2600)-vVol.-1-26.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/Retro_Homebrew_Collection_Vol_1_-_Atari_2600_Edition.pkg.295.vol._1_brewology_com.pkg"
                     ]
@@ -706,7 +706,7 @@
                     "Region": "",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBG/Five-Nights-at-Freddy-s-v1.0-27.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/GAME/GAME-Five-Nights-at-Freddy-s-v1.0-27.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/FNaF_2nd_Preview.pkg.929.v1.0_brewology_com.pkg"
                     ]
@@ -732,7 +732,7 @@
                     "Region": "",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBG/Flappy-Birds-Family-v1.0-28.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/GAME/GAME-Flappy-Birds-Family-v1.0-28.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/Flappy_Birds_Family_v1.0_by_Sandroron.pkg.324.v1.0_brewology_com.pkg"
                     ]
@@ -758,7 +758,7 @@
                     "Region": "",
                     "Version": "2.3",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBG/Ps3UserCheat-v2.3-29.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/GAME/GAME-Ps3UserCheat-v2.3-29.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/ps3usercheat.pkg.558.v2.3_brewology_com.pkg"
                     ]
@@ -784,7 +784,7 @@
                     "Region": "",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/Atari-Emulator-v1.0-30.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-Atari-Emulator-v1.0-30.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/stella-3.3-ps3-release3-CEX/DEX.pkg"
                     ]
@@ -810,7 +810,7 @@
                     "Region": "",
                     "Version": "2.0.0",
                     "LastUpdated": "2024-04-10T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/Apollo-Save-Tool-v2.0.0-31.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-Apollo-Save-Tool-v2.0.0-31.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/apollo-ps3.pkg"
                     ]
@@ -836,7 +836,7 @@
                     "Region": "",
                     "Version": "1.4.6",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/Unlock-HDD-Space-v1.4.6-32.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-Unlock-HDD-Space-v1.4.6-32.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/Unlock_HDD_Space.pkg.372.v1.0.pkg"
                     ]
@@ -862,7 +862,7 @@
                     "Region": "",
                     "Version": "3.20",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/reActPSN-v3.20-33.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-reActPSN-v3.20-33.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/reActPSN V3.20+ 4.85.pkg"
                     ]
@@ -888,7 +888,7 @@
                     "Region": "",
                     "Version": "1.2.4",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/PKGi-v1.2.4-34.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-PKGi-v1.2.4-34.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/pkgi-ps3-1.2.4.pkg"
                     ]
@@ -914,7 +914,7 @@
                     "Region": "",
                     "Version": "6.2",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/ArtemisPS3-v6.2-35.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-ArtemisPS3-v6.2-35.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/ArtemisPS3-GUI.pkg.274.vr6.2_brewology_com.pkg"
                     ]
@@ -940,7 +940,7 @@
                     "Region": "",
                     "Version": "2.2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/EMU/ScummVM-v2.2.0-37.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/EMU/EMU-ScummVM-v2.2.0-37.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/scummvm-ps3.pkg.408.v2.2.0_brewology_com.pkg"
                     ]
@@ -966,7 +966,7 @@
                     "Region": "",
                     "Version": "0.125",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/MAME-v0.125-38.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-MAME-v0.125-38.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/MAME0125_install.pkg.815.v0.125_brewology_com.pkg"
                     ]
@@ -992,7 +992,7 @@
                     "Region": "",
                     "Version": "0.92",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/IDPSet-v0.92-39.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-IDPSet-v0.92-39.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/IDPSet_v0.92.pkg.732.v0.92_brewology_com.pkg"
                     ]
@@ -1018,7 +1018,7 @@
                     "Region": "",
                     "Version": "4.86",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/Control-Fan-Utility-v4.86-40.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-Control-Fan-Utility-v4.86-40.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/control_fan_utility.pkg.268.v4.86_brewology_com.pkg"
                     ]
@@ -1044,7 +1044,7 @@
                     "Region": "",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/gameDATA-Tool-v2.0-41.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-gameDATA-Tool-v2.0-41.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/gameDATA2.pkg"
                     ]
@@ -1070,7 +1070,7 @@
                     "Region": "",
                     "Version": "0.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBG/Sketch-Fight-v0.1-42.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/GAME/GAME-Sketch-Fight-v0.1-42.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/SketchFight v0.1.pkg"
                     ]
@@ -1096,7 +1096,7 @@
                     "Region": "",
                     "Version": "1.8_r7a",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBG/Super-Mario-War-v1.8-r7a-43.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/GAME/GAME-Super-Mario-War-v1.8-r7a-43.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/Super_Mario_War_1.8_r7a.pkg"
                     ]
@@ -1122,7 +1122,7 @@
                     "Region": "",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/XMB-Mods-Collection-v1.0-44.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-XMB-Mods-Collection-v1.0-44.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/PS3EXTRA_XMB_mods_collection.pkg.935.v1.0_brewology_com.pkg"
                     ]
@@ -1148,7 +1148,7 @@
                     "Region": "",
                     "Version": "5.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/PS3-4K-Pro-(CFW)-v5.1-45.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-PS3-4K-Pro-(CFW)-v5.1-45.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/[CFW] PS3 4K Pro v5.1.pkg"
                     ]
@@ -1158,7 +1158,7 @@
                     "Region": "",
                     "Version": "5.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/PS3-4K-Pro-(HEN)-v5.1-45.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-PS3-4K-Pro-(HEN)-v5.1-45.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/[HEN] PS3 4K Pro v5.1.pkg"
                     ]
@@ -1184,7 +1184,7 @@
                     "Region": "",
                     "Version": "1.00",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/Minus-18MB-v1.00-46.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-Minus-18MB-v1.00-46.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/Minus_18MB.pkg"
                     ]
@@ -1210,7 +1210,7 @@
                     "Region": "",
                     "Version": "1.01",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/Extended-Download-Plugin-v1.01-47.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-Extended-Download-Plugin-v1.01-47.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/Extended_Download_Plugin_HEN_Edition_v1.01.pkg"
                     ]
@@ -1236,7 +1236,7 @@
                     "Region": "",
                     "Version": "1.00",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/Podcast-Player-v1.00-48.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-Podcast-Player-v1.00-48.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/Podcast_Enabler.pkg"
                     ]
@@ -1262,7 +1262,7 @@
                     "Region": "",
                     "Version": "7.1.2",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBG/OpenSupaplex-v7.1.2-49.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/GAME/GAME-OpenSupaplex-v7.1.2-49.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/OpenSupaplex-ps3-v7.1.2.pkg.331.v7.1.2_brewology_com.pkg"
                     ]
@@ -1288,7 +1288,7 @@
                     "Region": "",
                     "Version": "0.5.2",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/Simple-File-Manager-v0.5.2-50.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-Simple-File-Manager-v0.5.2-50.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/sfm_ps3.pkg.222.v0.5.2_brewology_com.pkg"
                     ]
@@ -1314,7 +1314,7 @@
                     "Region": "",
                     "Version": "1.07",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/MONSTER-Manager-v1.07-51.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-MONSTER-Manager-v1.07-51.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/MONSTER-adds-107-CEX/DEXPS3_4.86.pkg.731.v1.07_brewology_com.pkg"
                     ]
@@ -1340,7 +1340,7 @@
                     "Region": "",
                     "Version": "1.12",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/Play-Manager-v1.12-52.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-Play-Manager-v1.12-52.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/Play_Manager_v1.12.pkg.490.v1.12_brewology_com.pkg"
                     ]
@@ -1366,7 +1366,7 @@
                     "Region": "",
                     "Version": "1.0.8",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/WikiStore-(CEX-DEX)-v1.0.8-53.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-WikiStore-(CEX-DEX)-v1.0.8-53.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/WIKISTORE_CFW_1.0.8.pkg",
                         "/dev_hdd0/packages/Fix_CFW_486_REBUG_LITE.pkg",
@@ -1378,7 +1378,7 @@
                     "Region": "",
                     "Version": "1.0.8",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/WikiStore-(HEN)-v1.0.8-53.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-WikiStore-(HEN)-v1.0.8-53.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/WIKISTORE_HFW_1.0.8.pkg",
                         "/dev_hdd0/packages/Fix_HFW_486_HEN.pkg",
@@ -1406,7 +1406,7 @@
                     "Region": "",
                     "Version": "2.03",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/Ultimate-Toolbox-(FULL)-v2.03-54.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-Ultimate-Toolbox-(FULL)-v2.03-54.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/Ultimate_Toolbox_v2.03_FULL_version.pkg"
                     ]
@@ -1432,7 +1432,7 @@
                     "Region": "",
                     "Version": "2.30",
                     "LastUpdated": "2022-04-28T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/EMU/FBNeo-RL-(Retro-Loader)-v2.30-55.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/EMU/EMU-FBNeo-RL-(Retro-Loader)-v2.30-55.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/FBNeoRLPlus.New_v2.30_2021-04-27.pkg"
                     ]
@@ -1458,7 +1458,7 @@
                     "Region": "",
                     "Version": "1.9.0",
                     "LastUpdated": "2022-04-28T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/EMU/RetroArch-(CEX)-v1.9.0-56.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/EMU/EMU-RetroArch-(CEX)-v1.9.0-56.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/RetroArch.PS3.CEX.PS3.pkg"
                     ]
@@ -1468,7 +1468,7 @@
                     "Region": "",
                     "Version": "1.9.0",
                     "LastUpdated": "2022-04-28T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/EMU/RetroArch-(DEX)-v1.9.0-56.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/EMU/EMU-RetroArch-(DEX)-v1.9.0-56.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/RetroArch.PS3.DEX.PS3.pkg"
                     ]
@@ -1494,7 +1494,7 @@
                     "Region": "",
                     "Version": "1.05",
                     "LastUpdated": "2022-06-13T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBG/Bubble-Bobble-(maniac)-v1.05-57.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/GAME/GAME-Bubble-Bobble-(maniac)-v1.05-57.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/Bubble_Bobble_-_BUBL00004-v1.5(maniac).pkg"
                     ]
@@ -1504,7 +1504,7 @@
                     "Region": "",
                     "Version": "1.05",
                     "LastUpdated": "2022-06-13T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBG/Bubble-Bobble-(normal)-v1.05-57.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/GAME/GAME-Bubble-Bobble-(normal)-v1.05-57.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/Bubble_Bobble_-_BUBL00004-v1.5(normal).pkg"
                     ]
@@ -1514,7 +1514,7 @@
                     "Region": "",
                     "Version": "1.05",
                     "LastUpdated": "2022-06-13T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBG/Bubble-Bobble-(parent)-v1.05-57.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/GAME/GAME-Bubble-Bobble-(parent)-v1.05-57.zip",
                     "InstallPaths": [
                         "/dev_hdd0/packages/OBubble_Bobble_-_BUBL00004-v1.5(parent).pkg"
                     ]
@@ -1540,7 +1540,7 @@
                     "Region": "",
                     "Version": "1.2.2",
                     "LastUpdated": "2022-10-24T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/Akari-v1.2.2-58.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-Akari-v1.2.2-58.zip",
                     "InstallPaths": [
                         "/dev_hdd0/plugins/Akari.sprx"
                     ]
@@ -1566,7 +1566,7 @@
                     "Region": "",
                     "Version": "1.02",
                     "LastUpdated": "2024-04-23T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/HBA/ezRemote-Client-v1.02-59.zip",
+                    "Url": "https://db.arisen.studio/PS3/HOMEBREW/APP/APP-ezRemote-Client-v1.02-59.zip",
                     "InstallPaths": [
                         "/dev_hdd0/plugins/ps3-ezremote-client.pkg"
                     ]
