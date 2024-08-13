@@ -19,7 +19,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/TLOU/Infinite/Everything/v1.0.0/1.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/TLOU/TLOU-Infinite-Everything-v1.0.0-1.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -45,7 +45,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/TLOU/Infinite/Health/Infinite/Ammo-and-more-v1.0.0-2.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/TLOU/TLOU-Infinite-Health-Infinite-Ammo-and-more-v1.0.0-2.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -71,7 +71,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/ACRGUE/Infinite/Health/Infinite-Ammo-and-more-v1.0.0-3.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/ACRGUE/ACRGUE-Infinite-Health-Infinite-Ammo-and-more-v1.0.0-3.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -97,7 +97,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODAW/Defcon/Menu/v1.0.0-4.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODAW/CODAW-Defcon-Menu-v1.0.0-4.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Yisus.sprx"
@@ -124,7 +124,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODAW/Zincou45/Aimbot/v1.0.0-5.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODAW/CODAW-Zincou45-Aimbot-v1.0.0-5.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/BanBypassv1.sprx"
@@ -151,7 +151,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BF4/HAX4U/Menu/v1.0.0-6.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BF4/BF4-HAX4U-Menu-v1.0.0-6.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -177,7 +177,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BF4/MrModderV3/Menu/v1.0.0-7.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BF4/BF4-MrModderV3-Menu-v1.0.0-7.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/BF4Rekt.sprx"
@@ -204,7 +204,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BF4/New/Mods/v1.0.0-8.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BF4/BF4-New-Mods-v1.0.0-8.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -230,7 +230,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/Firehawk/Menu/v1.0.0-9.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/CODBO-Firehawk-Menu-v1.0.0-9.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Firehawk.sprx"
@@ -257,7 +257,7 @@
                     "Region": "ALL",
                     "Version": "3.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/Gr3Zz/Menu/v3.0-10.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/CODBO-Gr3Zz-Menu-v3.0-10.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/game/{REGION}/USRDIR/t5_ps3f.SELF",
@@ -286,7 +286,7 @@
                     "Region": "ALL",
                     "Version": "1.13",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/Debugger/File/v1.13-11.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/CODBO-Debugger-File-v1.13-11.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -312,7 +312,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/Red/Devil/(Remastered)-v1.0.0-12.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/CODBO-Red-Devil-(Remastered)-v1.0.0-12.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/BO1ZM.sprx"
@@ -339,7 +339,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/Undead/Menu/v1.0.0-13.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/CODBO-Undead-Menu-v1.0.0-13.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Undead_V1.sprx"
@@ -366,7 +366,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Antiban/Laser/VSAT-v1.0.0-14.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Antiban-Laser-VSAT-v1.0.0-14.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -392,7 +392,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Aimbot/Antiban/(Off-Host)-v1.0.0-15.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Aimbot-Antiban-(Off-Host)-v1.0.0-15.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -418,7 +418,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Antiban/Mods/v1.0.0-16.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Antiban-Mods-v1.0.0-16.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -444,7 +444,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Antiban/(Zombies)/v1.0.0-17.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Antiban-(Zombies)-v1.0.0-17.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -470,7 +470,7 @@
                     "Region": "ALL",
                     "Version": "1.19",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Debug/Helper/(Multiplayer)-v1.19-18.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Debug-Helper-(Multiplayer)-v1.19-18.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -480,7 +480,7 @@
                     "Region": "ALL",
                     "Version": "1.19",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Debug/Helper/(Zombies)-v1.19-18.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Debug-Helper-(Zombies)-v1.19-18.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -506,7 +506,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Extortion/Menu/v1.0.0-20.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Extortion-Menu-v1.0.0-20.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Menu.sprx"
@@ -533,7 +533,7 @@
                     "Region": "ALL",
                     "Version": "1.19",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Antiban/Force/Host-v1.19-21.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Antiban-Force-Host-v1.19-21.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -559,7 +559,7 @@
                     "Region": "ALL",
                     "Version": "1.19",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Original/Game/File-v1.19-22.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Original-Game-File-v1.19-22.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -585,7 +585,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Reincarnation/Menu/v1.0.0-23.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Reincarnation-Menu-v1.0.0-23.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Reincarnation.sprx"
@@ -612,7 +612,7 @@
                     "Region": "ALL",
                     "Version": "4.9",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODGHOSTS/Frost/Engine/v4.9-24.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODGHOSTS/CODGHOSTS-Frost-Engine-v4.9-24.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Ghosts.sprx",
@@ -640,7 +640,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODGHOSTS/Sapphire/Menu/v1.0.0-25.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODGHOSTS/CODGHOSTS-Sapphire-Menu-v1.0.0-25.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Mega_Ghost.sprx"
@@ -667,7 +667,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODGHOSTS/Ascendance/Menu/v1.0.0-26.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODGHOSTS/CODGHOSTS-Ascendance-Menu-v1.0.0-26.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/SSM_Ascendance.sprx"
@@ -694,7 +694,7 @@
                     "Region": "ALL",
                     "Version": "1.0.6",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Anarchy/Menu/v1.0.6-27.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Anarchy-Menu-v1.0.6-27.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Anarchy.sprx"
@@ -721,7 +721,7 @@
                     "Region": "ALL",
                     "Version": "4.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/FourtwentyGTA/Menu/v4.0-28.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-FourtwentyGTA-Menu-v4.0-28.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
                     ]
@@ -747,7 +747,7 @@
                     "Region": "ALL",
                     "Version": "3.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Infernus/Menu/v3.1-29.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Infernus-Menu-v3.1-29.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf",
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
@@ -775,7 +775,7 @@
                     "Region": "ALL",
                     "Version": "11",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/JakeModz89/Mod/Loader-v11-30.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-JakeModz89-Mod-Loader-v11-30.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
                     ]
@@ -801,7 +801,7 @@
                     "Region": "ALL",
                     "Version": "1.26/1.27",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Original/(Clean)/Update-File-v1.26-1.27-31.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Original-(Clean)-Update-File-v1.26-1.27-31.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
                     ]
@@ -827,7 +827,7 @@
                     "Region": "ALL",
                     "Version": "1.5",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Paranormal/Menu/v1.5-32.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Paranormal-Menu-v1.5-32.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/GTA.sprx"
@@ -854,7 +854,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Project/Ilusion/Menu-v1.0.0-33.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Project-Ilusion-Menu-v1.0.0-33.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/GTA.sprx"
@@ -881,7 +881,7 @@
                     "Region": "ALL",
                     "Version": "1.6",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Skip/Prologue/Many-Mods-v1.6-34.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Skip-Prologue-Many-Mods-v1.6-34.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -907,7 +907,7 @@
                     "Region": "ALL",
                     "Version": "1.3",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Salfety/Menu/v1.3-35.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Salfety-Menu-v1.3-35.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/SerenV2.sprx"
@@ -934,7 +934,7 @@
                     "Region": "ALL",
                     "Version": "2.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/SamModzHD/Menu/v2.1-36.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-SamModzHD-Menu-v2.1-36.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/SamModzHD.sprx"
@@ -961,7 +961,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Tgsaudoiz/Mod/Loader-v1.0.0-37.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Tgsaudoiz-Mod-Loader-v1.0.0-37.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
                     ]
@@ -987,7 +987,7 @@
                     "Region": "ALL",
                     "Version": "1.8.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/WebHacker/v1.8.1/38.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-WebHacker-v1.8.1-38.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/GTA.sprx"
@@ -1014,7 +1014,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/WILDEMODZ/Menu/v2.0-39.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-WILDEMODZ-Menu-v2.0-39.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/WILDEMODZ.sprx"
@@ -1041,7 +1041,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/All/In/One-Menu-v2.0-40.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/CODMW1-All-In-One-Menu-v2.0-40.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/patch_mp.ff"
                     ]
@@ -1067,7 +1067,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/Anti/Cheat/Menu-v1.0.0-41.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/CODMW1-Anti-Cheat-Menu-v1.0.0-41.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/patch_mp.ff"
                     ]
@@ -1093,7 +1093,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/Ultimate/Private/Menu-v1.0.0-42.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/CODMW1-Ultimate-Private-Menu-v1.0.0-42.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/patch_mp.ff"
                     ]
@@ -1119,7 +1119,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/Forgotten/Menu/v1.0.0-43.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/CODMW1-Forgotten-Menu-v1.0.0-43.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT_MP.BIN",
                         "/dev_hdd0/tmp/cod4_Forgotten.sprx"
@@ -1146,7 +1146,7 @@
                     "Region": "ALL",
                     "Version": "9.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/Ghost/Legacy/Edition-Menu-v9.0-44.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/CODMW1-Ghost-Legacy-Edition-Menu-v9.0-44.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/patch_mp.ff"
                     ]
@@ -1172,7 +1172,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/Most/Dope/Menu-v2.0-45.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/CODMW1-Most-Dope-Menu-v2.0-45.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/patch_mp.ff"
                     ]
@@ -1198,7 +1198,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/Challenge/Lobby/v2.0-46.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/CODMW1-Challenge-Lobby-v2.0-46.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/patch_mp.ff"
                     ]
@@ -1224,7 +1224,7 @@
                     "Region": "ALL",
                     "Version": "7.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/The/Yardsale/Menu-v7.0-47.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/CODMW1-The-Yardsale-Menu-v7.0-47.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/patch_mp.ff"
                     ]
@@ -1250,7 +1250,7 @@
                     "Region": "ALL",
                     "Version": "4.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/Unveil/Las/Divinas-Menu-v4.0-48.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/CODMW1-Unveil-Las-Divinas-Menu-v4.0-48.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/patch_mp.ff"
                     ]
@@ -1276,7 +1276,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Cylerem/Menu/v1.0.0-49.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Cylerem-Menu-v1.0.0-49.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Cylerem.sprx"
@@ -1303,7 +1303,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Debugging/Helper/Mods-v1.0.0-50.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Debugging-Helper-Mods-v1.0.0-50.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/default_mp.self"
                     ]
@@ -1329,7 +1329,7 @@
                     "Region": "ALL",
                     "Version": "1.0.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Debugging/Helper/Mods-v1.0.1-52.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Debugging-Helper-Mods-v1.0.1-52.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -1355,7 +1355,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Ultimate/Trickshot/Menu-v2.0-53.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Ultimate-Trickshot-Menu-v2.0-53.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/patch_mp.ff"
                     ]
@@ -1381,7 +1381,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Insidious/Menu/(All-Clients)-v2.0-54.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Insidious-Menu-(All-Clients)-v2.0-54.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/InsidiousV2.sprx"
@@ -1408,7 +1408,7 @@
                     "Region": "ALL",
                     "Version": "1.2",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/IW4/Server/Anti-Cheat-Menu-v1.2-55.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-IW4-Server-Anti-Cheat-Menu-v1.2-55.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/IW4Server_1.0.0.1.sprx"
@@ -1419,7 +1419,7 @@
                     "Region": "ALL",
                     "Version": "1.3",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/IW4/Server/Anti-Cheat-Menu-v1.3-55.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-IW4-Server-Anti-Cheat-Menu-v1.3-55.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/IW4Server_1.0.0.1.sprx"
@@ -1446,7 +1446,7 @@
                     "Region": "ALL",
                     "Version": "3.2",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Private/Patch/Menu-v3.2-56.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Private-Patch-Menu-v3.2-56.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/patch_mp.ff"
                     ]
@@ -1472,7 +1472,7 @@
                     "Region": "ALL",
                     "Version": "1.14",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Debugger/File/v1.14-57.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Debugger-File-v1.14-57.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -1498,7 +1498,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Parallax/Menu/(Remastered)-v1.0.0-58.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Parallax-Menu-(Remastered)-v1.0.0-58.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/ParallaxMW2.sprx"
@@ -1525,7 +1525,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Resurrection/Menu/v1.0.0-59.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Resurrection-Menu-v1.0.0-59.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Resurrection.sprx"
@@ -1552,7 +1552,7 @@
                     "Region": "ALL",
                     "Version": "1.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Rewind/Menu/(All-Clients)-v1.1-60.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Rewind-Menu-(All-Clients)-v1.1-60.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Rewindv1.sprx"
@@ -1579,7 +1579,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Snow/Engine/Menu-(Off-Host)-v1.0.0-61.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Snow-Engine-Menu-(Off-Host)-v1.0.0-61.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/SnowMW2.sprx"
@@ -1606,7 +1606,7 @@
                     "Region": "ALL",
                     "Version": "1.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Superman/Menu/v1.1-62.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Superman-Menu-v1.1-62.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/DANK_SUPERMAN.sprx"
@@ -1617,7 +1617,7 @@
                     "Region": "ALL",
                     "Version": "3.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Superman/Menu/v3.0-62.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Superman-Menu-v3.0-62.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Mw2SPRX.sprx"
@@ -1644,7 +1644,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Teh1337/Menu/v1.0.0-64.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Teh1337-Menu-v1.0.0-64.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Loner.sprx"
@@ -1671,7 +1671,7 @@
                     "Region": "ALL",
                     "Version": "4.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Private/Patch/Menu-v4.0-65.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Private-Patch-Menu-v4.0-65.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/patch_mp.ff"
                     ]
@@ -1697,7 +1697,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Vengeance/Menu/v1.0.0-66.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Vengeance-Menu-v1.0.0-66.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Vengeance.sprx"
@@ -1724,7 +1724,7 @@
                     "Region": "ALL",
                     "Version": "4.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/White/Water/Menu-v4.0-67.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-White-Water-Menu-v4.0-67.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/patch_mp.ff"
                     ]
@@ -1750,7 +1750,7 @@
                     "Region": "ALL",
                     "Version": "1.5",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Zircon/Menu/v1.5-68.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Zircon-Menu-v1.5-68.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/ZIRCONBYWIZIMODZ.sprx"
@@ -1777,7 +1777,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Aftermath/Menu/v1.0-69.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Aftermath-Menu-v1.0-69.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/SSM_Aftermath.sprx"
@@ -1788,7 +1788,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Aftermath/Menu/(Force-Host)-v1.0-69.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Aftermath-Menu-(Force-Host)-v1.0-69.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/SSM_Aftermath.sprx"
@@ -1815,7 +1815,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Challenge/Lobby/v1.0-71.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Challenge-Lobby-v1.0-71.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -1841,7 +1841,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Crystalized/Menu/v1.0-72.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Crystalized-Menu-v1.0-72.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Crystalized.sprx"
@@ -1868,7 +1868,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Debugging/Helper/Menu-v1.0.0-73.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Debugging-Helper-Menu-v1.0.0-73.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -1878,7 +1878,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Debugging/Helper/Menu-(Force-Host)-v1.0.0-73.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Debugging-Helper-Menu-(Force-Host)-v1.0.0-73.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -1904,7 +1904,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Exorcist/Menu/v1.0-75.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Exorcist-Menu-v1.0-75.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Exorcist.sprx"
@@ -1915,7 +1915,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Exorcist/Menu/(Force-Host)-v1.0-75.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Exorcist-Menu-(Force-Host)-v1.0-75.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Exorcist.sprx"
@@ -1942,7 +1942,7 @@
                     "Region": "ALL",
                     "Version": "3.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Frost/Engine/Menu-v3.0-77.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Frost-Engine-Menu-v3.0-77.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/NonHost.sprx"
@@ -1969,7 +1969,7 @@
                     "Region": "ALL",
                     "Version": "3.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Liberation/Menu/(Off-Host)-v3.0-78.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Liberation-Menu-(Off-Host)-v3.0-78.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Liberation.sprx"
@@ -1996,7 +1996,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Menace/Menu/(Cracked)-v1.0-79.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Menace-Menu-(Cracked)-v1.0-79.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/MenaceMW3.sprx",
@@ -2025,7 +2025,7 @@
                     "Region": "ALL",
                     "Version": "1.2.0.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/nay1995/s/All-Clients-Menu-v1.2.0.1-80.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-nay1995-s-All-Clients-Menu-v1.2.0.1-80.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/nay1995.sprx"
@@ -2052,7 +2052,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Basic/Mods/(Off-Host)-v1.0-81.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Basic-Mods-(Off-Host)-v1.0-81.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -2078,7 +2078,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Prometheus/Menu/v1.0-82.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Prometheus-Menu-v1.0-82.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/MW3.sprx"
@@ -2105,7 +2105,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Reckoning/Menu/v1.0-83.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Reckoning-Menu-v1.0-83.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/NonHost.sprx"
@@ -2132,7 +2132,7 @@
                     "Region": "ALL",
                     "Version": "3.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Resistance/Menu/v3.0-84.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Resistance-Menu-v3.0-84.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/ResistanceV3.sprx"
@@ -2159,7 +2159,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/SilentShadow/Menu/v1.0-85.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-SilentShadow-Menu-v1.0-85.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/MW3.sprx"
@@ -2186,7 +2186,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Simple/Menu/v1.0-86.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Simple-Menu-v1.0-86.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/SpecialOps.sprx"
@@ -2213,7 +2213,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/SnD/XP/Lobby-v1.0-87.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-SnD-XP-Lobby-v1.0-87.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -2239,7 +2239,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Snow/Engine/Menu-(Off-Host)-v1.0-88.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Snow-Engine-Menu-(Off-Host)-v1.0-88.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/SnowMW3.sprx"
@@ -2266,7 +2266,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/SPRX/File/Plugin-v1.0-89.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-SPRX-File-Plugin-v1.0-89.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -2292,7 +2292,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Ultimate/Big/Modded-Lobby-for-All-v1.0-90.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Ultimate-Big-Modded-Lobby-for-All-v1.0-90.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -2318,7 +2318,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Ultimate/Lobby/for-All-v1.0-91.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Ultimate-Lobby-for-All-v1.0-91.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -2344,7 +2344,7 @@
                     "Region": "ALL",
                     "Version": "2.3",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Virtual/Energy/Menu-v2.3-92.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Virtual-Energy-Menu-v2.3-92.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Virtual_Energy.sprx"
@@ -2371,7 +2371,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Big/XP/Fun-for-All-v1.0-93.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Big-XP-Fun-for-All-v1.0-93.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -2397,7 +2397,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Zombieland/v1.0/94.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Zombieland-v1.0-94.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Zombieland.sprx"
@@ -2424,7 +2424,7 @@
                     "Region": "BLES01294",
                     "Version": "1.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/RDR/Mini/Menu/v1.1-95.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/RDR/RDR-Mini-Menu-v1.1-95.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/CrushIt.sprx"
@@ -2451,7 +2451,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/RDR/Mod/Menu/Trainer-v1.0-96.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/RDR/RDR-Mod-Menu-Trainer-v1.0-96.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/patch0_ps3.rpf",
                         "/dev_hdd0/game/{REGION}/USRDIR/patch1_ps3.rpf"
@@ -2478,7 +2478,7 @@
                     "Region": "ALL",
                     "Version": "3.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/RDR/Red/Dead/Rekt-Menu-v3.0-97.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/RDR/RDR-Red-Dead-Rekt-Menu-v3.0-97.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/RedDeadRekt.sprx"
@@ -2505,7 +2505,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/Summer/Bass/Menu-v2.0-98.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/CODWAW-Summer-Bass-Menu-v2.0-98.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/english/patch_mp.ff"
                     ]
@@ -2531,7 +2531,7 @@
                     "Region": "ALL",
                     "Version": "5.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/The/Hidden/Gold-Menu-v5.0-99.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/CODWAW-The-Hidden-Gold-Menu-v5.0-99.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/english/patch_mp.ff"
                     ]
@@ -2557,7 +2557,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/Azza/Trickshot/Menu-v1.0-101.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/CODWAW-Azza-Trickshot-Menu-v1.0-101.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/english/patch_mp.ff"
                     ]
@@ -2583,7 +2583,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/Purple/Beam/Menu-v1.0-102.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/CODWAW-Purple-Beam-Menu-v1.0-102.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/english/patch_mp.ff"
                     ]
@@ -2609,7 +2609,7 @@
                     "Region": "ALL",
                     "Version": "4.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/Purple/Kush/Menu-v4.0-103.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/CODWAW-Purple-Kush-Menu-v4.0-103.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/english/patch_mp.ff"
                     ]
@@ -2635,7 +2635,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/Extreme/Green/Menu-v1.0-104.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/CODWAW-Extreme-Green-Menu-v1.0-104.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/english/patch_mp.ff"
                     ]
@@ -2661,7 +2661,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO3/Jericho/Engine/Menu-v1.0-105.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO3/CODBO3-Jericho-Engine-Menu-v1.0-105.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/BO3-Jericho.sprx"
@@ -2688,7 +2688,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO3/SkyFall/Menu/v1.0-106.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO3/CODBO3-SkyFall-Menu-v1.0-106.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/MrNiato.sprx"
@@ -2715,7 +2715,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO3/Retro/Client/Menu-v1.0-107.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO3/CODBO3-Retro-Client-Menu-v1.0-107.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/RetroClient.sprx"
@@ -2742,7 +2742,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO3/iModz/Engine/v2.0-108.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO3/CODBO3-iModz-Engine-v2.0-108.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/game/{REGION}/USRDIR/Default_mp.self",
@@ -2770,7 +2770,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/TLOU/Debug/Menu/v1.0-109.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/TLOU/TLOU-Debug-Menu-v1.0-109.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -2796,7 +2796,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODAW/Yet/Another/Engine-(Cracked)-v2.0-110.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODAW/CODAW-Yet-Another-Engine-(Cracked)-v2.0-110.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/BanBypassv1.sprx"
@@ -2823,7 +2823,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/SBCPSN/True/HD/Graphics-v1.0-111.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/SBCPSN/SBCPSN-True-HD-Graphics-v1.0-111.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/PS3_GAME/USRDIR/sirenx/data/common.dat",
                         "/dev_hdd0/game/{REGION}/PS3_GAME/USRDIR/sirenx/data/commonen.dat",
@@ -2851,7 +2851,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/SE3/Infinite/Health/Ammo-Items-etc.-v1.0-112.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/SE3/SE3-Infinite-Health-Ammo-Items-etc.-v1.0-112.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -2877,7 +2877,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/U2AT/Infinite/Health/Ammo-v1.0-113.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/U2AT/U2AT-Infinite-Health-Ammo-v1.0-113.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -2903,7 +2903,7 @@
                     "Region": "BLES01275",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BF3/Default/Game/File-v1.0-114.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BF3/BF3-Default-Game-File-v1.0-114.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -2929,7 +2929,7 @@
                     "Region": "BLES01275",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BF3/Increased/Damage/Wall-Hack-UAV-and-more-v1.0-115.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BF3/BF3-Increased-Damage-Wall-Hack-UAV-and-more-v1.0-115.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -2955,7 +2955,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BF4/The/Outcast/Menu-v1.0-116.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BF4/BF4-The-Outcast-Menu-v1.0-116.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/BF4Hax.sprx"
@@ -2982,7 +2982,7 @@
                     "Region": "ALL",
                     "Version": "1.60",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/MKKE/Mortal/Kombat/9-Trilogy-Edition-Mod-v1.60-119.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/MKKE/MKKE-Mortal-Kombat-9-Trilogy-Edition-Mod-v1.60-119.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/ASSET/BIHAN_CHARINTRO.XXX",
                         "/dev_hdd0/game/{REGION}/USRDIR/ASSET/CHAR_BARAKA.XXX",
@@ -3090,7 +3090,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Supreme/Engine/Menu-(Off-Host)-v1.0.0-175.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Supreme-Engine-Menu-(Off-Host)-v1.0.0-175.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Supremebo2.sprx"
@@ -3117,7 +3117,7 @@
                     "Region": "ALL",
                     "Version": "3.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Perxy/Menu/(Off-Host)-v3.0.0-176.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Perxy-Menu-(Off-Host)-v3.0.0-176.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Jericho.sprx",
@@ -3161,7 +3161,7 @@
                     "Region": "ALL",
                     "Version": "1.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/EliteBot/Menu/v1.1-177.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-EliteBot-Menu-v1.1-177.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/EliteBotMW2.sprx",
@@ -3175,7 +3175,7 @@
                     "Region": "ALL",
                     "Version": "3.3",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/EliteBot/Menu/v3.3-177.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-EliteBot-Menu-v3.3-177.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/EliteBot/EliteBotMW2.sprx",
@@ -3206,7 +3206,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/Single/Player/Menu-v2.0-179.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/CODWAW-Single-Player-Menu-v2.0-179.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/english/default.ff"
                     ]
@@ -3232,7 +3232,7 @@
                     "Region": "ALL",
                     "Version": "3.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/Discarded/Menu/v3-v3.0-180.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/CODWAW-Discarded-Menu-v3-v3.0-180.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/english/patch.ff"
                     ]
@@ -3242,7 +3242,7 @@
                     "Region": "ALL",
                     "Version": "3.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/Discarded/Menu/v4-v3.0-180.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/CODWAW-Discarded-Menu-v4-v3.0-180.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/english/patch.ff"
                     ]
@@ -3268,7 +3268,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/VortexGaming/Menu/v1.0-181.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/CODWAW-VortexGaming-Menu-v1.0-181.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/english/patch_mp.ff"
                     ]
@@ -3294,7 +3294,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/Gold/Menu/v1.0-182.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/CODWAW-Gold-Menu-v1.0-182.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/english/patch.ff"
                     ]
@@ -3320,7 +3320,7 @@
                     "Region": "ALL",
                     "Version": "1.2",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/x2EzYx/s/Private-Menu-v1.2-183.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/CODMW1-x2EzYx-s-Private-Menu-v1.2-183.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/patch_mp.ff"
                     ]
@@ -3346,7 +3346,7 @@
                     "Region": "ALL",
                     "Version": "3.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Arkadia/Menu/v3.1-184.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Arkadia-Menu-v3.1-184.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Arkadia_BO2.sprx"
@@ -3373,7 +3373,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/Physics/n/Flex-Menu-v2.0-188.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/CODWAW-Physics-n-Flex-Menu-v2.0-188.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/english/patch.ff"
                     ]
@@ -3399,7 +3399,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/Choco/s/Private-Menu-v2.0-194.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/CODMW1-Choco-s-Private-Menu-v2.0-194.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/patch_mp.ff"
                     ]
@@ -3425,7 +3425,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Hestia/Menu/v2.0-197.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Hestia-Menu-v2.0-197.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Hestia_Mw2.sprx",
@@ -3453,7 +3453,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Project/Nightmare/v1.0-198.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Project-Nightmare-v1.0-198.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Nightmare.sprx"
@@ -3480,7 +3480,7 @@
                     "Region": "ALL",
                     "Version": "2.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Mystery/Cheats/v2.0.0-206.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Mystery-Cheats-v2.0.0-206.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/SSM_MCv2.sprx"
@@ -3507,7 +3507,7 @@
                     "Region": "ALL",
                     "Version": "2.5",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODGHOSTS/Reflex/Engine/(Off-Host)-v2.5-209.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODGHOSTS/CODGHOSTS-Reflex-Engine-(Off-Host)-v2.5-209.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Frost_Engine.sprx",
@@ -3537,7 +3537,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Tesseract/Menu/v1.0-210.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Tesseract-Menu-v1.0-210.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Tesseract.sprx"
@@ -3564,7 +3564,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Legendary/Menu/v1.0-211.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Legendary-Menu-v1.0-211.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/GTA.sprx"
@@ -3591,7 +3591,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Retro/Client/(Cracked)-v1.0-212.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Retro-Client-(Cracked)-v1.0-212.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/MW3_RetroClient.sprx",
@@ -3620,7 +3620,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/God/Engine/Menu-v1.0-213.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-God-Engine-Menu-v1.0-213.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/GodEngineMW3.sprx"
@@ -3647,7 +3647,7 @@
                     "Region": "BCES00850",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/LBP2/All/DLC/Costumes-(Crown-Beta-LBP1-Shirt)-v1.0-215.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/LBP2/LBP2-All-DLC-Costumes-(Crown-Beta-LBP1-Shirt)-v1.0-215.zip",
                     "InstallPaths": [
                         "dev_hdd0/game/BCES00141DLC0/USRDIR/2000ad_costume_kit.edat",
                         "dev_hdd0/game/BCES00141DLC0/USRDIR/2000ad_stickers.edat",
@@ -4190,7 +4190,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Anomaly/Menu/v1.0-241.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Anomaly-Menu-v1.0-241.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Anomaly.sprx"
@@ -4217,7 +4217,7 @@
                     "Region": "ALL",
                     "Version": "3.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Project/GT/Menu-v3.1-242.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Project-GT-Menu-v3.1-242.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/BO2_GT.sprx"
@@ -4244,7 +4244,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Inception/Menu/v1.0-243.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Inception-Menu-v1.0-243.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Inception.sprx"
@@ -4271,7 +4271,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Paradise/Menu/v1.0-244.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Paradise-Menu-v1.0-244.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/ParadiseBO2.sprx"
@@ -4298,7 +4298,7 @@
                     "Region": "BLUS31011",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Aimbot/Anti/Ban-(Off-Host)-v1.0-245.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Aimbot-Anti-Ban-(Off-Host)-v1.0-245.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -4324,7 +4324,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Infinity/Menu/v1.0-246.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Infinity-Menu-v1.0-246.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Mw2Sprx.sprx"
@@ -4351,7 +4351,7 @@
                     "Region": "ALL",
                     "Version": "1.9",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/The/Hustler/Menu-(BLES)-v1.9-247.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-The-Hustler-Menu-(BLES)-v1.9-247.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/GTA.sprx"
@@ -4362,7 +4362,7 @@
                     "Region": "ALL",
                     "Version": "1.9",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/The/Hustler/Menu-(BLUS)-v1.9-247.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-The-Hustler-Menu-(BLUS)-v1.9-247.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Salfety4.sprx"
@@ -4389,7 +4389,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/The/Shake/Package-v1.0-250.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/CODBO-The-Shake-Package-v1.0-250.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/TheShakeBO1.sprx",
@@ -4417,7 +4417,7 @@
                     "Region": "ALL",
                     "Version": "0.1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/Jo/Milk/s-Playground-v0.1.0-251.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/CODBO-Jo-Milk-s-Playground-v0.1.0-251.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Undercover_V3.sprx"
@@ -4444,7 +4444,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-08-29T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/GSC/Mods/Injector-(BLES01717)-v1.0-252.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-GSC-Mods-Injector-(BLES01717)-v1.0-252.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/bo2.sprx",
@@ -4500,7 +4500,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-08-29T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/GSC/Mods/Injector-(BLES01718)-v1.0-252.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-GSC-Mods-Injector-(BLES01718)-v1.0-252.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/bo2.sprx",
@@ -4556,7 +4556,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-08-29T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/GSC/Mods/Injector-(BLES01719)-v1.0-252.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-GSC-Mods-Injector-(BLES01719)-v1.0-252.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/bo2.sprx",
@@ -4612,7 +4612,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-08-29T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/GSC/Mods/Injector-(BLES01720)-v1.0-252.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-GSC-Mods-Injector-(BLES01720)-v1.0-252.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/bo2.sprx",
@@ -4668,7 +4668,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-08-29T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/GSC/Mods/Injector-(BLUS31011)-v1.0-252.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-GSC-Mods-Injector-(BLUS31011)-v1.0-252.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/bo2.sprx",
@@ -4740,7 +4740,7 @@
                     "Region": "ALL",
                     "Version": "11.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/FYV7/Mod/Loader-v11.0-257.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-FYV7-Mod-Loader-v11.0-257.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
                     ]
@@ -4766,7 +4766,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/TOSDOTNW/Original/Opening/Animation-Song-(Wii)-v1.0-258.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/TOSDOTNW/TOSDOTNW-Original-Opening-Animation-Song-(Wii)-v1.0-258.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/RAWDATA/MOVIE/TOSR_OP_720P_OVERSEA.usm"
                     ]
@@ -4792,7 +4792,7 @@
                     "Region": "ALL",
                     "Version": "0.1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/SK3/Anti/Paradise/v0.1.0-278.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/SK3/SK3-Anti-Paradise-v0.1.0-278.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/ParadiseSKATE.sprx"
@@ -4819,7 +4819,7 @@
                     "Region": "ALL",
                     "Version": "12.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/FYV7/Mod/Loader-(Deluxe)-v12.0-279.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-FYV7-Mod-Loader-(Deluxe)-v12.0-279.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
                     ]
@@ -4845,7 +4845,7 @@
                     "Region": "ALL",
                     "Version": "5.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Project/Rain/(DEX-HEN-CEX)-v5.0-286.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Project-Rain-(DEX-HEN-CEX)-v5.0-286.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/ProjectRain.sprx"
@@ -4856,7 +4856,7 @@
                     "Region": "ALL",
                     "Version": "5.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Project/Rain/(CEX)-(BLES01807)-v5.0-286.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Project-Rain-(CEX)-(BLES01807)-v5.0-286.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/GTA.sprx"
@@ -4867,7 +4867,7 @@
                     "Region": "ALL",
                     "Version": "5.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Project/Rain/(BLES01807)-(XMB-FREEZE-FIX)-v5.0-286.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Project-Rain-(BLES01807)-(XMB-FREEZE-FIX)-v5.0-286.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Salfety4.sprx"
@@ -4878,7 +4878,7 @@
                     "Region": "ALL",
                     "Version": "5.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Project/Rain/(HEN)-(BLUS31156)-v5.0-286.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Project-Rain-(HEN)-(BLUS31156)-v5.0-286.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Salfety4.sprx"
@@ -4889,7 +4889,7 @@
                     "Region": "ALL",
                     "Version": "5.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Project/Rain/(HEN)-(BLES01807)-v5.0-286.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Project-Rain-(HEN)-(BLES01807)-v5.0-286.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/ProjectRainGTA.sprx"
@@ -4916,7 +4916,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Fury/Menu/v1.0-293.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Fury-Menu-v1.0-293.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/FuryMW2.sprx"
@@ -4943,7 +4943,7 @@
                     "Region": "ALL",
                     "Version": "3.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Paradox/Menu/(Cracked)-v3.0-294.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Paradox-Menu-(Cracked)-v3.0-294.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/game/{REGION}/USRDIR/fix_bytes.bin",
@@ -4971,7 +4971,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Fury/Menu/[Free-Version]-v1.0-295.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Fury-Menu-[Free-Version]-v1.0-295.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/FuryV1MW3.sprx"
@@ -4998,7 +4998,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Fury/Menu/v2.0-296.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Fury-Menu-v2.0-296.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/FuryV2.sprx"
@@ -5025,7 +5025,7 @@
                     "Region": "ALL",
                     "Version": "r9.5",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Hextic/Menu/vr9.5-297.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Hextic-Menu-vr9.5-297.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Hextic.key",
@@ -5053,7 +5053,7 @@
                     "Region": "ALL",
                     "Version": "1.0.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/InfinityCE/Menu/v1.0.1-298.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-InfinityCE-Menu-v1.0.1-298.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Infinity.sprx"
@@ -5080,7 +5080,7 @@
                     "Region": "BLUS/BLES",
                     "Version": "1.0.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Anti/Freeze/v1.0.1-299.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Anti-Freeze-v1.0.1-299.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -5106,7 +5106,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Debug/Crash/Fix-(Multiplayer)-v1.0.0-300.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Debug-Crash-Fix-(Multiplayer)-v1.0.0-300.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -5116,7 +5116,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Debug/Crash/Fix-(Zombies)-v1.0.0-300.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Debug-Crash-Fix-(Zombies)-v1.0.0-300.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -5142,7 +5142,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODAW/Clean/Debug/(Multiplayer)-v1.0.0-302.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODAW/CODAW-Clean-Debug-(Multiplayer)-v1.0.0-302.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -5152,7 +5152,7 @@
                     "Region": "ALL",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODAW/Clean/Debug/(Zombies)-v1.0.0-302.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODAW/CODAW-Clean-Debug-(Zombies)-v1.0.0-302.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -5178,7 +5178,7 @@
                     "Region": "ALL",
                     "Version": "40.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/James/Reborn/Mod-Loader-(BLES01807)-v40.1-304.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-James-Reborn-Mod-Loader-(BLES01807)-v40.1-304.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
@@ -5189,7 +5189,7 @@
                     "Region": "ALL",
                     "Version": "40.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/James/Reborn/Mod-Loader-(BLUS31156)-v40.1-304.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-James-Reborn-Mod-Loader-(BLUS31156)-v40.1-304.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
@@ -5200,7 +5200,7 @@
                     "Region": "ALL",
                     "Version": "40.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/James/Reborn/Mod-Loader-(DEX)-v40.1-304.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-James-Reborn-Mod-Loader-(DEX)-v40.1-304.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
                     ]
@@ -5226,7 +5226,7 @@
                     "Region": "BLUS30591",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/Project/Undercover/v2.0-306.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/CODBO-Project-Undercover-v2.0-306.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/PUv2.sprx"
@@ -5253,7 +5253,7 @@
                     "Region": "NPUB30781",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/HBM/999/Million/Dollars-v1.0.0-312.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/HBM/HBM-999-Million-Dollars-v1.0.0-312.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -5279,7 +5279,7 @@
                     "Region": "NPUB30781",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/HBM/999/Million/Dollars-Free-Shop-v1.0.0-313.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/HBM/HBM-999-Million-Dollars-Free-Shop-v1.0.0-313.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -5305,7 +5305,7 @@
                     "Region": "NPUB30781",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/HBM/999/Million/Dollars-Free-Shop-Rapid-Fire-v1.0.0-314.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/HBM/HBM-999-Million-Dollars-Free-Shop-Rapid-Fire-v1.0.0-314.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -5331,7 +5331,7 @@
                     "Region": "NPUB30781",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/HBM/999/Million/Dollars-Free-Shop-All-Missions-v1.0.0-315.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/HBM/HBM-999-Million-Dollars-Free-Shop-All-Missions-v1.0.0-315.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -5357,7 +5357,7 @@
                     "Region": "NPUB30781",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/HBM/999/Million/Dollars-v1.0.0-316.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/HBM/HBM-999-Million-Dollars-v1.0.0-316.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -5383,7 +5383,7 @@
                     "Region": "NPUB30781",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/HBM/999/Million/Dollars-Free-Shop-v1.0.0-317.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/HBM/HBM-999-Million-Dollars-Free-Shop-v1.0.0-317.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -5409,7 +5409,7 @@
                     "Region": "NPUB30781",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/HBM/999/Million/Dollars-Free-Shop-Rapid-Fire-v1.0.0-318.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/HBM/HBM-999-Million-Dollars-Free-Shop-Rapid-Fire-v1.0.0-318.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -5435,7 +5435,7 @@
                     "Region": "NPUB30781",
                     "Version": "1.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/HBM/999/Million/Dollars-Free-Shop-All-Missions-v1.0.0-319.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/HBM/HBM-999-Million-Dollars-Free-Shop-All-Missions-v1.0.0-319.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -5461,7 +5461,7 @@
                     "Region": "ALL",
                     "Version": "1.5",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/Paradise/Menu/(DEX)-v1.5-320.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/CODWAW-Paradise-Menu-(DEX)-v1.5-320.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/ParadiseWAW.sprx"
@@ -5472,7 +5472,7 @@
                     "Region": "ALL",
                     "Version": "1.5",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/Paradise/Menu/(CEX)-v1.5-320.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODWAW/CODWAW-Paradise-Menu-(CEX)-v1.5-320.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/ParadiseWAW.sprx"
@@ -5499,7 +5499,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/TCC/Debug/Menu/v1.0-322.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/TCC/TCC-Debug-Menu-v1.0-322.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/COMMON/SETTINGS/SETTINGS.CFG"
                     ]
@@ -5525,7 +5525,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/DIR/Debug/Menu/v1.0-323.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/DIR/DIR-Debug-Menu-v1.0-323.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/DI/Data0.edat",
                         "/dev_hdd0/game/{REGION}/USRDIR/DI/Data0.pak",
@@ -5554,7 +5554,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/DAHPOTF/Simple/Binds/v1.0-324.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/DAHPOTF/DAHPOTF-Simple-Binds-v1.0-324.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/KronosGame/PS3TOC.txt",
                         "/dev_hdd0/game/{REGION}/USRDIR/KronosGame/Config/PS3/Cooked/Coalesced.ini"
@@ -5581,7 +5581,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/PHD/Modified/Game/Settings-v1.0-325.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/PHD/PHD-Modified-Game-Settings-v1.0-325.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/PKHDGAME/COOKEDPS3/COALESCED_INT.BIN"
                     ]
@@ -5607,7 +5607,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/KLDM/Debug/Menu/v1.0-326.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/KLDM/KLDM-Debug-Menu-v1.0-326.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/main.ini"
                     ]
@@ -5633,7 +5633,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/MC/Debug/Menu/v1.0-327.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/MC/MC-Debug-Menu-v1.0-327.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/COMMON/SETTINGS/SETTINGS.CFG"
                     ]
@@ -5659,7 +5659,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/SHD/Binds/Other/Stuff-v1.0-328.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/SHD/SHD-Binds-Other-Stuff-v1.0-328.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/FIOS-UNREALENGINE3/SHGAME/COOKEDPS3/COALESCED_INT.BIN"
                     ]
@@ -5685,7 +5685,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/COD3/Binds/(God/Mode-No-Clip-etc.)-v1.0-329.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/COD3/COD3-Binds-(God-Mode-No-Clip-etc.)-v1.0-329.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/config/mp_ps3_a.cfg",
                         "/dev_hdd0/game/{REGION}/USRDIR/config/ps3_a.cfg"
@@ -5712,7 +5712,7 @@
                     "Region": "NPUB30646",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/S2/God/Mode/One-Shot-More-v1.0-330.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/S2/S2-God-Mode-One-Shot-More-v1.0-330.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/weapondata.lua",
                         "/dev_hdd0/game/{REGION}/USRDIR/data/bootstrap/skins.lua"
@@ -5739,7 +5739,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/Project/Undercover/(ALPHA)-v2.0-332.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/CODBO-Project-Undercover-(ALPHA)-v2.0-332.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Undercover_V2.sprx"
@@ -5766,7 +5766,7 @@
                     "Region": "ALL",
                     "Version": "2.0.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/Red/Devil/(Remastered)-v2.0.0-333.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/CODBO-Red-Devil-(Remastered)-v2.0.0-333.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/BO1ZM.sprx"
@@ -5793,7 +5793,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/TempessCE/(Premium/Edition)-v1.0-334.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-TempessCE-(Premium-Edition)-v1.0-334.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Tempess_CE.sprx",
@@ -5821,7 +5821,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Black/Genisys/Menu-(Public-Release)-v1.0-335.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Black-Genisys-Menu-(Public-Release)-v1.0-335.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/BlackGenisys.sprx",
@@ -5850,7 +5850,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/G/Henisys/Menu-(Public-Release)-v2.0-336.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-G-Henisys-Menu-(Public-Release)-v2.0-336.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Genisys.sprx",
@@ -5878,7 +5878,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Crash/Fix/(Multiplayer)-v1.0-337.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Crash-Fix-(Multiplayer)-v1.0-337.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -5888,7 +5888,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Crash/Fix/(Zombies)-v1.0-337.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Crash-Fix-(Zombies)-v1.0-337.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -5914,7 +5914,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Nuclear/Power/Menu-v2.0-338.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Nuclear-Power-Menu-v2.0-338.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
                     ]
@@ -5940,7 +5940,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Antiban/(DEX)/v1.0-339.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Antiban-(DEX)-v1.0-339.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -5950,7 +5950,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Antiban/(BLES01807)/(CEX-HEN)-v1.0-339.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Antiban-(BLES01807)-(CEX-HEN)-v1.0-339.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -5976,7 +5976,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/Insanity/Menu/(CEX-DEX)-v1.0-340.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/CODBO-Insanity-Menu-(CEX-DEX)-v1.0-340.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Assuming/t5zm.sprx"
@@ -5987,7 +5987,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/Insanity/Menu/(HEN)-v1.0-340.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/CODBO-Insanity-Menu-(HEN)-v1.0-340.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Assuming/t5zm.sprx"
@@ -6014,7 +6014,7 @@
                     "Region": "ALL",
                     "Version": "3.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Exotic/Trainer/(Godly-Edition)-v3.0-341.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Exotic-Trainer-(Godly-Edition)-v3.0-341.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
                     ]
@@ -6040,7 +6040,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/RCE/Menu/(DEX)-v1.0-342.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-RCE-Menu-(DEX)-v1.0-342.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/game/tmp/Soul/MW2/RCE.sprx",
@@ -6052,7 +6052,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/RCE/Menu/(HEN)-v1.0-342.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-RCE-Menu-(HEN)-v1.0-342.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/game/tmp/Soul/MW2/RCE.sprx",
@@ -6080,7 +6080,7 @@
                     "Region": "ALL",
                     "Version": "1.0/2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Chickhen/Engine/v1.0-v1.0-2.0-343.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Chickhen-Engine-v1.0-v1.0-2.0-343.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/game/tmp/Chickhen_Engine.sprx",
@@ -6092,7 +6092,7 @@
                     "Region": "ALL",
                     "Version": "1.0/2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Chickhen/Engine/v2.0-v1.0-2.0-343.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Chickhen-Engine-v2.0-v1.0-2.0-343.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/game/tmp/Chickhen_Engine.sprx",
@@ -6123,7 +6123,7 @@
                     "Region": "ALL",
                     "Version": "3.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Refelex/Engine/(Cracked)-v3.0-345.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Refelex-Engine-(Cracked)-v3.0-345.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/game/{REGION}/USRDIR/fix_bytes.bin",
@@ -6152,7 +6152,7 @@
                     "Region": "ALL",
                     "Version": "4.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Paradox/Menu/(Cracked)-v4.0-346.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Paradox-Menu-(Cracked)-v4.0-346.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/game/tmp/Paradox/CE_MW2.sprx"
@@ -6179,7 +6179,7 @@
                     "Region": "ALL",
                     "Version": "4.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/Paradox/Menu/(Cracked)-v4.0-347.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW3/CODMW3-Paradox-Menu-(Cracked)-v4.0-347.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/game/tmp/Paradox/CE_MW3.sprx"
@@ -6206,7 +6206,7 @@
                     "Region": "ALL",
                     "Version": "4.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/Reborn/Menu/(Cracked)-v4.0-348.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-Reborn-Menu-(Cracked)-v4.0-348.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/game/tmp/enstone/Reborn_JM.bin",
@@ -6234,7 +6234,7 @@
                     "Region": "ALL",
                     "Version": "4.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODAW/Paradox/Menu/(Cracked)-v4.0-349.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODAW/CODAW-Paradox-Menu-(Cracked)-v4.0-349.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/game/tmp/Paradox/CE_AW.sprx"
@@ -6261,7 +6261,7 @@
                     "Region": "ALL",
                     "Version": "4.4",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/OpGreece/Menu/(Cracked)-v4.4-350.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-OpGreece-Menu-(Cracked)-v4.4-350.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/game/tmp/OpGreece.sprx"
@@ -6288,7 +6288,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Refelex/Engine/(Cracked)-v2.0-351.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Refelex-Engine-(Cracked)-v2.0-351.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/enstone/destiny_by_enstone_120.bin",
@@ -6316,7 +6316,7 @@
                     "Region": "BLUS31584 ",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTASA/FlexMod/v1.0/352.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTASA/GTASA-FlexMod-v1.0-352.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/gta_sa.set",
                         "/dev_hdd0/game/{REGION}/USRDIR/anim/baseball.ifp",
@@ -6391,7 +6391,7 @@
                     "Region": "BLES00760",
                     "Version": "1.0/1.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/SK3/Noclip/Mod/v1.0-v1.0-1.1-353.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/SK3/SK3-Noclip-Mod-v1.0-v1.0-1.1-353.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/SkateMod.sprx"
@@ -6402,7 +6402,7 @@
                     "Region": "BLES00760",
                     "Version": "1.0/1.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/SK3/Noclip/Mod/v1.1-v1.0-1.1-353.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/SK3/SK3-Noclip-Mod-v1.1-v1.0-1.1-353.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/SkateMod.sprx"
@@ -6429,7 +6429,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2024-06-26T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/Nightmare/Engine/(Evilnat)-v2.0-354.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/CODBO-Nightmare-Engine-(Evilnat)-v2.0-354.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/NyTekCFW",
@@ -6467,7 +6467,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2024-06-26T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/Nightmare/Engine/(CEX-HEN)-v2.0-354.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/CODBO-Nightmare-Engine-(CEX-HEN)-v2.0-354.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/NyTekCFW",
@@ -6505,7 +6505,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2024-06-26T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/Nightmare/Engine/(DEX)-v2.0-354.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/CODBO-Nightmare-Engine-(DEX)-v2.0-354.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/NyTekCFW",
@@ -6559,7 +6559,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Licerne/Menu/v1.0-355.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Licerne-Menu-v1.0-355.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/LicerneV1.sprx"
@@ -6586,7 +6586,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Licerne/Menu/v1-v1.0-356.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Licerne-Menu-v1-v1.0-356.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/menuBO2.sprx"
@@ -6613,7 +6613,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/Physics/n/Flex-Menu-v2.0-357.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/CODBO-Physics-n-Flex-Menu-v2.0-357.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/InfinityOps.sprx",
@@ -6683,7 +6683,7 @@
                     "Region": "ALL",
                     "Version": "8.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/Project/EnCoRe/Menu-v8.0-358.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/CODBO-Project-EnCoRe-Menu-v8.0-358.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/InfinityOps.sprx",
@@ -6754,7 +6754,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/Corrosion/Menu/v1.0-359.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO/CODBO-Corrosion-Menu-v1.0-359.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Corrosion",
@@ -6782,7 +6782,7 @@
                     "Region": "ALL",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/ZeroTwo.pw/(Off/Host)-v1.0-360.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW2/CODMW2-ZeroTwo.pw-(Off-Host)-v1.0-360.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/ZeroTwo.pw.sprx"
@@ -6809,7 +6809,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/FB14Z/Mod/Loader-v2.0-361.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-FB14Z-Mod-Loader-v2.0-361.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
                     ]
@@ -6835,7 +6835,7 @@
                     "Region": "ALL",
                     "Version": "2.1",
                     "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Infracted/Menu/(Multiplayer)-(CFW)-v2.1-362.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Infracted-Menu-(Multiplayer)-(CFW)-v2.1-362.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/EFKMODZ.sprx",
@@ -6916,7 +6916,7 @@
                     "Region": "ALL",
                     "Version": "2.1",
                     "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Infracted/Menu/(Multiplayer)-(HEN)-v2.1-362.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Infracted-Menu-(Multiplayer)-(HEN)-v2.1-362.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/EFKMODZ.sprx",
@@ -6997,7 +6997,7 @@
                     "Region": "ALL",
                     "Version": "2.1",
                     "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Infracted/Menu/(Zombies)-(CFW)-v2.1-362.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Infracted-Menu-(Zombies)-(CFW)-v2.1-362.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/INFARCTEDZM.sprx",
@@ -7078,7 +7078,7 @@
                     "Region": "ALL",
                     "Version": "2.1",
                     "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Infracted/Menu/(Zombies)-(HEN)-v2.1-362.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Infracted-Menu-(Zombies)-(HEN)-v2.1-362.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/INFARCTEDZM.sprx",
@@ -7175,7 +7175,7 @@
                     "Region": "ALL",
                     "Version": "7.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Omar/Ghost/Mod-Loader-v7.1-363.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Omar-Ghost-Mod-Loader-v7.1-363.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
                     ]
@@ -7201,7 +7201,7 @@
                     "Region": "ALL",
                     "Version": "7.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Black/Saint/Mod-Loader-v7.1-364.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Black-Saint-Mod-Loader-v7.1-364.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
                     ]
@@ -7227,7 +7227,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/WeAreGhosts/Menu/(BLES-CEX)-v2.0-365.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-WeAreGhosts-Menu-(BLES-CEX)-v2.0-365.zip",
                     "InstallPaths": [
                         "/dev_hdd0/tmp/WeAreGhosts",
                         "/dev_hdd0/tmp/WeAreGhosts/WAG_Maps",
@@ -7258,7 +7258,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/WeAreGhosts/Menu/(BLES-DEX)-v2.0-365.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-WeAreGhosts-Menu-(BLES-DEX)-v2.0-365.zip",
                     "InstallPaths": [
                         "/dev_hdd0/tmp/WeAreGhosts",
                         "/dev_hdd0/tmp/WeAreGhosts/WAG_Maps",
@@ -7289,7 +7289,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/WeAreGhosts/Menu/(BLES-HEN)-v2.0-365.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-WeAreGhosts-Menu-(BLES-HEN)-v2.0-365.zip",
                     "InstallPaths": [
                         "/dev_hdd0/tmp/WeAreGhosts",
                         "/dev_hdd0/tmp/WeAreGhosts/WAG_Maps",
@@ -7320,7 +7320,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/WeAreGhosts/Menu/(BLUS-CEX)-v2.0-365.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-WeAreGhosts-Menu-(BLUS-CEX)-v2.0-365.zip",
                     "InstallPaths": [
                         "/dev_hdd0/tmp/WeAreGhosts",
                         "/dev_hdd0/tmp/WeAreGhosts/WAG_Maps",
@@ -7351,7 +7351,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/WeAreGhosts/Menu/(BLUS-DEX)-v2.0-365.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-WeAreGhosts-Menu-(BLUS-DEX)-v2.0-365.zip",
                     "InstallPaths": [
                         "/dev_hdd0/tmp/WeAreGhosts",
                         "/dev_hdd0/tmp/WeAreGhosts/WAG_Maps",
@@ -7382,7 +7382,7 @@
                     "Region": "ALL",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/WeAreGhosts/Menu/(BLUS-HEN)-v2.0-365.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-WeAreGhosts-Menu-(BLUS-HEN)-v2.0-365.zip",
                     "InstallPaths": [
                         "/dev_hdd0/tmp/WeAreGhosts",
                         "/dev_hdd0/tmp/WeAreGhosts/WAG_Maps",
@@ -7429,7 +7429,7 @@
                     "Region": "ALL",
                     "Version": "3.5",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/FranCangel/Mod/Loader-v3.5-366.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-FranCangel-Mod-Loader-v3.5-366.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
                     ]
@@ -7455,7 +7455,7 @@
                     "Region": "ALL",
                     "Version": "5.5",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Exotic/Trainer/Mod-Loader-(BLES-ORG-TEXTURED)-v5.5-367.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Exotic-Trainer-Mod-Loader-(BLES-ORG-TEXTURED)-v5.5-367.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
                     ]
@@ -7465,7 +7465,7 @@
                     "Region": "ALL",
                     "Version": "5.5",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Exotic/Trainer/Mod-Loader-(BLES-NO-TEXTURES)-v5.5-367.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Exotic-Trainer-Mod-Loader-(BLES-NO-TEXTURES)-v5.5-367.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
                     ]
@@ -7475,7 +7475,7 @@
                     "Region": "ALL",
                     "Version": "5.5",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Exotic/Trainer/Mod-Loader-(BLUS-ORG-TEXTURED)-v5.5-367.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Exotic-Trainer-Mod-Loader-(BLUS-ORG-TEXTURED)-v5.5-367.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
                     ]
@@ -7485,7 +7485,7 @@
                     "Region": "ALL",
                     "Version": "5.5",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Exotic/Trainer/Mod-Loader-(BLUS-NO-TEXTURES)-v5.5-367.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Exotic-Trainer-Mod-Loader-(BLUS-NO-TEXTURES)-v5.5-367.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
@@ -7512,7 +7512,7 @@
                     "Region": "ALL",
                     "Version": "5.5",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Desire/Engine/(DEX)-v5.5-370.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Desire-Engine-(DEX)-v5.5-370.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/T6EndGameBlocker.sprx"
@@ -7523,7 +7523,7 @@
                     "Region": "BLES01717",
                     "Version": "5.5",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Desire/Engine/(CEX)-(BLES)-v5.5-370.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Desire-Engine-(CEX)-(BLES)-v5.5-370.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/T6EndGameBlocker.sprx"
@@ -7534,7 +7534,7 @@
                     "Region": "BLUS31011",
                     "Version": "5.5",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Desire/Engine/(CEX)-(BLUS)-v5.5-370.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Desire-Engine-(CEX)-(BLUS)-v5.5-370.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/T6EndGameBlocker.sprx"
@@ -7545,7 +7545,7 @@
                     "Region": "NPUB31054",
                     "Version": "5.5",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Desire/Engine/(CEX)-(NPUB)-v5.5-370.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Desire-Engine-(CEX)-(NPUB)-v5.5-370.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/T6EndGameBlocker.sprx"
@@ -7572,7 +7572,7 @@
                     "Region": "BLES01807",
                     "Version": "3.8.6",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Ultimate/Teleport/v3.8.6-372.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Ultimate-Teleport-v3.8.6-372.zip",
                     "InstallPaths": [
                         "Tgsaudoiz.csc"
                     ]
@@ -7598,7 +7598,7 @@
                     "Region": "BLES00156",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/Retribution/Menu/(BLES)-v2.0-373.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/CODMW1-Retribution-Menu-(BLES)-v2.0-373.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Retribution.sprx"
@@ -7609,7 +7609,7 @@
                     "Region": "BLUS30072",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/Retribution/Menu/(BLUS30072)-v2.0-373.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/CODMW1-Retribution-Menu-(BLUS30072)-v2.0-373.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Retribution.sprx"
@@ -7636,7 +7636,7 @@
                     "Region": "BLES/BLUS",
                     "Version": "2.0",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/Retribution/Menu/(HEN)-v2.0-374.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/CODMW1-Retribution-Menu-(HEN)-v2.0-374.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Retribution.sprx"
@@ -7663,7 +7663,7 @@
                     "Region": "BLES/BLUS",
                     "Version": "2.1",
                     "LastUpdated": "2022-04-20T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/Retribution/Menu/(CFW)-v2.1-375.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODMW1/CODMW1-Retribution-Menu-(CFW)-v2.1-375.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Retribution.sprx"
@@ -7690,7 +7690,7 @@
                     "Region": "BLES/BLUS",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-25T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BOR2/Bonkerlands/Menu/(DEX)-v1.0-376.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BOR2/BOR2-Bonkerlands-Menu-(DEX)-v1.0-376.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Bonkerlands/BonkerlandsBL2.sprx",
@@ -7702,7 +7702,7 @@
                     "Region": "BLES01684",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-25T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BOR2/Bonkerlands/Menu/(CEX-HEN)-v1.0-376.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BOR2/BOR2-Bonkerlands-Menu-(CEX-HEN)-v1.0-376.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Bonkerlands/BonkerlandsBL2.sprx",
@@ -7714,7 +7714,7 @@
                     "Region": "BLUS30982",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-25T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BOR2/Bonkerlands/Menu/(CEX-HEN)-v1.0-376.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BOR2/BOR2-Bonkerlands-Menu-(CEX-HEN)-v1.0-376.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Bonkerlands/BonkerlandsBL2.sprx",
@@ -7742,7 +7742,7 @@
                     "Region": "BLES/BLUS",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-25T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BORTPS/Bonkerlands/Menu/(DEX)-v1.0-377.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BORTPS/BORTPS-Bonkerlands-Menu-(DEX)-v1.0-377.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Bonkerlands/BonkerlandsTPS.sprx",
@@ -7754,7 +7754,7 @@
                     "Region": "BLUS31445",
                     "Version": "1.0",
                     "LastUpdated": "2022-04-25T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BORTPS/Bonkerlands/Menu/(CEX-HEN)-v1.0-377.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/BORTPS/BORTPS-Bonkerlands-Menu-(CEX-HEN)-v1.0-377.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Bonkerlands/BonkerlandsTPS.sprx",
@@ -7782,7 +7782,7 @@
                     "Region": "BLES01807",
                     "Version": "15.3",
                     "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Semjases/Mod/Loader-(CEX)-v15.3-378.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Semjases-Mod-Loader-(CEX)-v15.3-378.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
@@ -7793,7 +7793,7 @@
                     "Region": "BLES01807",
                     "Version": "15.3",
                     "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Semjases/Mod/Loader-(DEX)-v15.3-378.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Semjases-Mod-Loader-(DEX)-v15.3-378.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
@@ -7804,7 +7804,7 @@
                     "Region": "BLES01807",
                     "Version": "15.3",
                     "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Semjases/Mod/Loader-(HEN)-v15.3-378.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Semjases-Mod-Loader-(HEN)-v15.3-378.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
@@ -7815,7 +7815,7 @@
                     "Region": "BLUS31156",
                     "Version": "15.3",
                     "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Semjases/Mod/Loader-(HEN)-v15.3-378.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Semjases-Mod-Loader-(HEN)-v15.3-378.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/game/{REGION}/USRDIR/update.rpf"
@@ -7842,7 +7842,7 @@
                     "Region": "BLES/BLUS",
                     "Version": "1.0",
                     "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODGHOSTS/Kebab/Engine/(CEX-HEN)-v1.0-379.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODGHOSTS/CODGHOSTS-Kebab-Engine-(CEX-HEN)-v1.0-379.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Kebab_GHOST.sprx"
@@ -7853,7 +7853,7 @@
                     "Region": "BLES/BLUS",
                     "Version": "1.0",
                     "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODGHOSTS/Kebab/Engine/(DEX)-v1.0-379.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODGHOSTS/CODGHOSTS-Kebab-Engine-(DEX)-v1.0-379.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Kebab_GHOST.sprx"
@@ -7880,7 +7880,7 @@
                     "Region": "BLES/BLUS",
                     "Version": "4.2",
                     "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Perplexed/Menu/(Off-Host)-v4.2-380.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Perplexed-Menu-(Off-Host)-v4.2-380.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Perplexed.sprx"
@@ -7907,7 +7907,7 @@
                     "Region": "BLES/BLUS",
                     "Version": "1.0",
                     "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Jericho/Engine/v1.0-381.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Jericho-Engine-v1.0-381.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Jericho.sprx"
@@ -7934,7 +7934,7 @@
                     "Region": "BLES/BLUS",
                     "Version": "1.0",
                     "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Online/Public/Cheater-v1.0-382.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Online-Public-Cheater-v1.0-382.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/game/{REGION}/USRDIR/t6mp_ps3f.self",
@@ -7962,7 +7962,7 @@
                     "Region": "BLES/BLUS",
                     "Version": "3.1",
                     "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Elite/Bot/Menu-v3.1-383.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Elite-Bot-Menu-v3.1-383.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/EliteBot",
@@ -7991,7 +7991,7 @@
                     "Region": "BLES/BLUS",
                     "Version": "1.0",
                     "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/Voltage/Menu/v1.0-384.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/CODBO2/CODBO2-Voltage-Menu-v1.0-384.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/Voltage.sprx"
@@ -8018,7 +8018,7 @@
                     "Region": "BLES01807",
                     "Version": "1.0",
                     "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Paradise/Menu/(CEX-HEN)-v1.0-385.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Paradise-Menu-(CEX-HEN)-v1.0-385.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/ParadiseGTA.sprx",
@@ -8041,7 +8041,7 @@
                     "Region": "BLES/BLUS",
                     "Version": "1.0",
                     "LastUpdated": "2022-05-07T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/Paradise/Menu/(DEX)-v1.0-385.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/GTA5/GTA5-Paradise-Menu-(DEX)-v1.0-385.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN",
                         "/dev_hdd0/tmp/ParadiseGTA.sprx",
@@ -8080,7 +8080,7 @@
                     "Region": "BLES00760",
                     "Version": "1.0",
                     "LastUpdated": "2022-07-16T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/SK3/XMB/Mod/Menu-v1.0-386.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/SK3/SK3-XMB-Mod-Menu-v1.0-386.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -8090,7 +8090,7 @@
                     "Region": "BLUS30464",
                     "Version": "1.0",
                     "LastUpdated": "2022-07-16T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/SK3/XMB/Mod/Menu-v1.0-386.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/SK3/SK3-XMB-Mod-Menu-v1.0-386.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
@@ -8116,7 +8116,7 @@
                     "Region": "BLES02011",
                     "Version": "1.0",
                     "LastUpdated": "2023-11-21T01:13:37.126946+01:00",
-                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/FC4/Simple/Mod/Menu-v1.0-387.zip",
+                    "Url": "https://db.arisen.studio/PS3/GAME-MODS/FC4/FC4-Simple-Mod-Menu-v1.0-387.zip",
                     "InstallPaths": [
                         "/dev_hdd0/game/{REGION}/USRDIR/EBOOT.BIN"
                     ]
