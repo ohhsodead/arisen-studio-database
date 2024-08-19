@@ -11,72 +11,8 @@
       },
       {
          "Title":"Applications",
-         "Id":"hba",
+         "Id":"ha",
          "Type":"homebrew",
-         "Regions":[
-            
-         ]
-      },
-      {
-         "Title":"Games",
-         "Id":"hbg",
-         "Type":"homebrew",
-         "Regions":[
-            
-         ]
-      },
-      {
-         "Title":"Emulators",
-         "Id":"emu",
-         "Type":"homebrew",
-         "Regions":[
-            
-         ]
-      },
-      {
-         "Title":"Utilities",
-         "Id":"util",
-         "Type":"homebrew",
-         "Regions":[
-            
-         ]
-      },
-      {
-         "Title":"Dashboards",
-         "Id":"dash",
-         "Type":"homebrew",
-         "Regions":[
-            
-         ]
-      },
-      {
-         "Title":"Coldboots",
-         "Id":"cb",
-         "Type":"resource",
-         "Regions":[
-            
-         ]
-      },
-      {
-         "Title":"Packages",
-         "Id":"package",
-         "Type":"package",
-         "Regions":[
-            
-         ]
-      },
-      {
-         "Title":"Themes",
-         "Id":"th",
-         "Type":"resource",
-         "Regions":[
-            
-         ]
-      },
-      {
-         "Title":"XMB",
-         "Id":"xmbr",
-         "Type":"resource",
          "Regions":[
             
          ]
@@ -85,62 +21,6 @@
          "Title":"Applications",
          "Id":"app",
          "Type":"application",
-         "Regions":[
-            
-         ]
-      },
-      {
-         "Title":"Dev Menu",
-         "Id":"devm",
-         "Type":"application",
-         "Regions":[
-            
-         ]
-      },
-      {
-         "Title":"Themes",
-         "Id":"theme",
-         "Type":"application",
-         "Regions":[
-            
-         ]
-      },
-      {
-         "Title":"Utility",
-         "Id":"utili",
-         "Type":"application",
-         "Regions":[
-            
-         ]
-      },
-      {
-         "Title":"Emulators",
-         "Id":"emu",
-         "Type":"application",
-         "Regions":[
-            
-         ]
-      },
-      {
-         "Title":"Media",
-         "Id":"media",
-         "Type":"application",
-         "Regions":[
-            
-         ]
-      },
-      {
-         "Title":"Games",
-         "Id":"hbgame",
-         "Type":"game",
-         "Regions":[
-            
-         ]
-      },
-      {
-         "Title":"Plugins",
-         "Id":"plugin",
-         "Type":"plugin",
          "Regions":[
             
          ]
@@ -512,6 +392,54 @@
          ]
       },
       {
+         "Title":"Coldboots",
+         "Id":"cb",
+         "Type":"resource",
+         "Regions":[
+            
+         ]
+      },
+      {
+         "Title":"Games",
+         "Id":"hg",
+         "Type":"homebrew",
+         "Regions":[
+            
+         ]
+      },
+      {
+         "Title":"Emulators",
+         "Id":"emu",
+         "Type":"homebrew",
+         "Regions":[
+            
+         ]
+      },
+      {
+         "Title":"Emulators",
+         "Id":"emu",
+         "Type":"application",
+         "Regions":[
+            
+         ]
+      },
+      {
+         "Title":"Packages",
+         "Id":"package",
+         "Type":"package",
+         "Regions":[
+            
+         ]
+      },
+      {
+         "Title":"Plugins",
+         "Id":"plugin",
+         "Type":"plugin",
+         "Regions":[
+            
+         ]
+      },
+      {
          "Title":"Grand Theft Auto: San Andreas",
          "Id":"gtasa",
          "Type":"game",
@@ -860,6 +788,14 @@
          ]
       },
       {
+         "Title":"Themes",
+         "Id":"th",
+         "Type":"resource",
+         "Regions":[
+            
+         ]
+      },
+      {
          "Title":"Uncharted 2: Among Thieves",
          "Id":"u2at",
          "Type":"game",
@@ -890,6 +826,30 @@
             "NPUB31546",
             "BLES02072",
             "NPEB02079"
+         ]
+      },
+      {
+         "Title":"XMB",
+         "Id":"xmbr",
+         "Type":"resource",
+         "Regions":[
+            
+         ]
+      },
+      {
+         "Title":"Utility",
+         "Id":"util",
+         "Type":"application",
+         "Regions":[
+            
+         ]
+      },
+      {
+         "Title":"Media",
+         "Id":"media",
+         "Type":"application",
+         "Regions":[
+            
          ]
       }
    ]
