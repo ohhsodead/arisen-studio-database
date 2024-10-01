@@ -1,16 +1,17 @@
-![Mods count](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/.github/badges/mod-count-badge.json&label=Total%20Mods)
-![Total Packages](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ohhsodead/arisen-studio-database/main/.github/badges/package-count-badge.json&label=Total%20Packages)
+# Arisen Studio Database [OBSOLETE]
 
-# Arisen Studio Database
-This repo contains all the data for the game mods, homebrew, resources, plugins, apps, and game saves used in the [Arisen Studio](https://github.com/ohhsodead/arisen-studio) project.
+> [!WARNING]
+> This repository is no longer in use and will no longer be updated. We have migrated our database to a secure server to enhance the performance of Arisen Studio. You can still request mods through the available options.
 
-All files are hosted on my personal Dropbox. If you would like something added to the database, fill out [this form](https://arisen.studio/submit) on my website, otherwise [open an issue](https://github.com/ohhsodead/arisen-studio-database/issues/new?&labels=mod+request&template=mod_request.yml&title=%5BRequest%5D%3A+).
+This repository was previously used to store data related to mods and important files for the [Arisen Studio](https://github.com/ohhsodead/arisen-studio) project.
+
+All files are now hosted on the project's server. If you want to add new mods or files to the database, please complete [this form](https://arisen.studio/submit) on our website or [open an issue](https://github.com/ohhsodead/arisen-studio/issues/new?assignees=&labels=mod+request&projects=&template=mod-request.yml&title=%5BMod+Request%5D%3A+) in our main GitHub repository.
 
 ## Creators
-If you are the owner of anything and you would like it removed then please [open an issue](https://github.com/ohhsodead/arisen-studio-database/issues/new) to let me know.
+If you are the creator of any content and would like it removed, please [open an issue](https://github.com/ohhsodead/arisen-studio/issues/new) to notify us.
 
 ## Bugs
-If you find any issues with the mods then you should contact the creator as I can't do anything about it.
+If you encounter issues with any mods, please contact the mod creator directly, as we cannot make changes to mods we don't own.
 
 ## Credits
-All credits go to the appropriate creators of the files we share.
+All credits are due to the respective creators of the mods and files shared here.
